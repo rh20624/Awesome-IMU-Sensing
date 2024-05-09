@@ -1,4 +1,4 @@
-<img width="1221" alt="image" src="https://github.com/rh20624/Awesome-IMU-Sensing/assets/15633495/ca236d63-91bd-4b41-b1a4-0ede41e46545"># Awesome-IMU-Sensing
+# Awesome-IMU-Sensing
 A collection of datasets, papers, directions, and other resources for IMU-based mobile sensing.
 
 **Popular venues**
