@@ -1,6 +1,11 @@
 # Awesome-IMU-Sensing
 A collection of datasets, papers, directions, and other resources for IMU-based mobile sensing.
 
+**Main sensing tasks**
+- Human activity recognition (HAR) / human activity sensing
+- Gesture recognition
+- Gait recognition 
+
 **Popular venues**
 - IMWUT/Ubicomp, Sensys, Mobicom
 - AAAI, IJCAI, KDD, ICLR, TKDE
@@ -15,12 +20,16 @@ A collection of datasets, papers, directions, and other resources for IMU-based 
 [2024] A Survey of IMU Based Cross-Modal Transfer Learning in Human Activity Recognition
 
 【Ubicomp 2021】11 Years with Wearables: Quantitative Analysis of Social Media, Academia, News Agencies, and Lead User Community from 2009-2020 on Wearable Technologie
-novelty: market analysis, wearable technology, sentiment analysis
+- market analysis, wearable technology, sentiment analysis
 
 
 ## Human Activity Recognition
 
 ### Sels-supervised learning
+
+[IMWUT 2024] CrossHAR: Generalizing Cross-dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining
+- hierarchical pretraining
+
 [2024] Comparing Self-Supervised Learning Techniques for Wearable Human Activity Recognition
 
 [2024] HARMamba: Efficient Wearable Sensor Human Activity Recognition Based on Bidirectional Selective SSM
@@ -63,8 +72,10 @@ novelty: market analysis, wearable technology, sentiment analysis
 
 【Ubicomp 2021】IMU2Doppler: Cross-Modal Domain adaptation for Doppler-based Activity Recognition Using IMU Data
 - transfer IMU to mmwave
+
 【Ubicomp 2019】Vision2Sensor: Knowledge Transfer Across Sensing Modalities for Human Activity Recognition
 - transfer knowledge from video to IMU
+
 【Ubicomp 2019】Exploring the Efficacy of Sparse, General-Purpose Sensor Constellations for Wide-Area Activity Sensing
 - multi-sensor fusion
 
@@ -79,7 +90,7 @@ novelty: market analysis, wearable technology, sentiment analysis
 
 [IMWUT 2023] Hierarchical Clustering-based Personalized Federated Learning for Robust and Fair Human Activity Recognition
 - federated learning + fairness
-- 
+
 [Sensys 21] FedDL: Federated Learning via Dynamic Layer Sharing for Human Activity Recognition
 - federated learning
 
@@ -100,6 +111,7 @@ novelty: market analysis, wearable technology, sentiment analysis
 
 【Ubicomp 2020】A Systematic Study of Unsupervised Domain Adaptation for Robust Human-Activity Recognition
 - cross device locations
+
 【Ubicomp 2019】Cross-Dataset Activity Recognition via Adaptive Spatial-Temporal Transfer Learning
 
 ### Explainable HAR
@@ -151,14 +163,14 @@ novelty: combine Eye Movement Sensor and IMU, HAR,Smart glasses,transfer learnin
 - wifi + mmwave
 [Sensys 2021] OneFi: One-Shot Recognition for Unseen Gesture via COTS WiFi
 [Sensys 2020] RF-net: a unified meta-learning framework for RF-enabled one-shot human activity recognition
-【Ubicomp 2020】DeepMV: Multi-View Deep Learning for Device-Free Human Activity Recognition
+[Ubicomp 2020] DeepMV: Multi-View Deep Learning for Device-Free Human Activity Recognition
 - wifi
-【Ubicomp 2020】CARIN: Wireless CSI-based Driver Activity Recognition under the Interference of Passengers
-【Ubicomp 2019】Personalized Context-aware Collaborative Online Activity Prediction
+[Ubicomp 2020] CARIN: Wireless CSI-based Driver Activity Recognition under the Interference of Passengers
+[Ubicomp 2019] Personalized Context-aware Collaborative Online Activity Prediction
 - a user-location-time-activity 4D-tensor and a location-time-POI 3D-tensor
 [Sensys 19] RFID based real-time recognition of ongoing gesture with adversarial learning
-【Ubicomp 2021】Fall Detection via Inaudible Acoustic Sensing
-【Ubicomp 2019】Towards a Diffraction-based Sensing Approach on Human Activity Recognition
+[Ubicomp 2021] Fall Detection via Inaudible Acoustic Sensing
+[Ubicomp 2019] Towards a Diffraction-based Sensing Approach on Human Activity Recognition
 - wifi
 ## Smart city applications
 [2024] Transportation mode recognition based on low-rate acceleration and location signals with an attention-based multiple-instance learning network
