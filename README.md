@@ -7,7 +7,7 @@ A collection of datasets, papers, directions, and other resources for IMU-based 
 - Gait recognition 
 
 **Popular venues**
-- IMWUT/Ubicomp, Sensys, Mobicom
+- IMWUT/Ubicomp, Sensys, Mobicom, PerCom
 - AAAI, IJCAI, KDD, ICLR, TKDE
 
 ## Public Datasets
@@ -60,6 +60,9 @@ A collection of datasets, papers, directions, and other resources for IMU-based 
 【IMWUT 2020】Weakly Supervised Multi-Task Representation Learning for Human Activity Analysis Using Wearables
 
 ### Multi-modal HAR
+[PerCom 2024] iMove: Exploring Bio-impedance Sensing for Fitness Activity Recognition
+- bio signal + IMU 
+
 [Sensys 2023]MESEN: Exploit Multimodal Data to Design Unimodal Human Activity Recognition with Few Labels
 
 [Sensys21] UniTS: Short-Time Fourier Inspired Neural Networks for Sensory Time Series Classification
