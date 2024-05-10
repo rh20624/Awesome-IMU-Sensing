@@ -11,8 +11,13 @@ A collection of datasets, papers, directions, and other resources for IMU-based 
 - AAAI, IJCAI, KDD, ICLR, TKDE
 
 ## Public Datasets
+[2024] CAPTURE-24: A large dataset of wrist-worn activity tracker data collected in the wild for human activity recognition
+- 2,562 hours of annotated data
 
 ## Reviews
+
+[2024] Transfer Learning in Human Activity Recognition: A Survey
+
 [2024] Machine Learning Techniques for Sensor-based Human Activity Recognition with Data Heterogeneity - A Review
 
 [2024] A Survey on Multimodal Wearable Sensor-based Human Action Recognition
@@ -58,6 +63,16 @@ A collection of datasets, papers, directions, and other resources for IMU-based 
 【IMWUT 2019】Leveraging Active Learning and Conditional Mutual Information to Minimize Data Annotation in Human Activity Recognition
 - few label
 【IMWUT 2020】Weakly Supervised Multi-Task Representation Learning for Human Activity Analysis Using Wearables
+
+
+### LLM + HAR
+[2024] HARGPT: Are LLMs Zero-Shot Human Activity Recognizers?
+- prompt design; CoT
+
+[2024] IMUGPT 2.0: Language-Based Cross Modality Transfer for Sensor-Based Human Activity Recognition
+
+[2023] On the Benefit of Generative Foundation Models for Human Activity Recognition
+
 
 ### Multi-modal HAR
 [PerCom 2024] iMove: Exploring Bio-impedance Sensing for Fitness Activity Recognition
@@ -105,6 +120,9 @@ A collection of datasets, papers, directions, and other resources for IMU-based 
 
 
 ### Generalization HAR
+[IMWUT 2024] Optimization-Free Test-Time Adaptation for Cross-Person Activity Recognition
+- cross-user, test-time adaptation
+
 [IMWUT 2023] GLOBEM: Cross-Dataset Generalization of Longitudinal Human Behavior Modeling
 - cross-dataset depression detection
 
@@ -136,6 +154,12 @@ Recognition Model
 - medical application
 【IMWUT 2019】Unsupervised Factory Activity Recognition with Wearable Sensors Using Process Instruction Information
 
+### Novelty / anomaly detection
+[2024] CLAN: A Contrastive Learning based Novelty Detection Framework for Human Activity Recognition
+
+
+
+
 ### Other HAR
 
 [PerCom 2023] ALAE-TAE-CutMix+: Beyond the State-of-the-Art for Human Activity Recognition Using Wearable Sensors
@@ -152,6 +176,9 @@ Recognition Model
 - context detection
 
 [IMWUT 23] MMTSA: Multi-Modal Temporal Segment Attention Network for Efficient Human Activity Recognition
+- activity segmentation
+
+[2023] Temporal Action Localization for Inertial-based Human Activity Recognition
 - activity segmentation
 
 【IMWUT 2022】Learning Disentangled Behaviour Patterns for Wearable-based Human Activity Recognition
@@ -201,6 +228,9 @@ Detecting Parkinsonian Tremor from IMU DataCollected In-The-Wild using Deep Mult
 
 [PerCom 2023] Exposing the CSI: A Systematic Investigation of CSI-based Wi-Fi Sensing Capabilities and Limitations
 - benchmark study of WiFi
+
+[PerCom 24 workshop] Text me the data: Generating Ground Pressure Sequence from Textual Descriptions for HAR
+- GPT generates pressure data
 
 [PerCom 2023] hEARt: Motion-resilient Heart Rate Monitoring with In-ear Microphones
 - heart rate sensing via earphone
