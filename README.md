@@ -35,6 +35,9 @@ A collection of datasets, papers, directions, and other resources for IMU-based 
 [2024] HARMamba: Efficient Wearable Sensor Human Activity Recognition Based on Bidirectional Selective SSM
 - Mamba-based HAR model
 
+[Percom 2023] Investigating Enhancements to Contrastive Predictive Coding for Human Activity Recognition
+
+
 【IMWUT 2022】colloSSL: Collaborative Self-Supervised Learning for Human Activity Recognition
 - multi-device, contrastive learning
 
@@ -79,7 +82,9 @@ A collection of datasets, papers, directions, and other resources for IMU-based 
 【IMWUT 2019】Exploring the Efficacy of Sparse, General-Purpose Sensor Constellations for Wide-Area Activity Sensing
 - multi-sensor fusion
 
-### Federated learning
+### Tools or benchmarks
+[PerCom 2024] Evaluation of Video-Assisted Annotation of Human IMU Data
+- a tool for IMU annotation
 
 
 ### Privacy-enhanced HAR
@@ -129,6 +134,10 @@ Recognition Model
 【IMWUT 2019】Unsupervised Factory Activity Recognition with Wearable Sensors Using Process Instruction Information
 
 ### Other HAR
+
+[PerCom 2023] ALAE-TAE-CutMix+: Beyond the State-of-the-Art for Human Activity Recognition Using Wearable Sensors
+- data augmentation; cross-channel interaction;
+
 [IMWUT 2023] ConvBoost: Boosting ConvNets for Sensor-based Activity Recognition
 
 [imwut 2023] DAPPER: Label-Free Performance Estimation after Personalization for Heterogeneous Mobile Sensing
@@ -163,6 +172,9 @@ Recognition Model
 
 [TMC 2023] Fine-Grained and Real-Time Gesture Recognition by Using IMU Sensors
 
+[PerCom 2023] CHAR: Composite Head-body Activities Recognition with A Single Earable Device
+- earable device
+
 [IMWUT 22] The OnHW Dataset: Online Handwriting Recognition from IMU-Enhanced Ballpoint Pens with Machine Learning
 
 
@@ -183,6 +195,18 @@ Detecting Parkinsonian Tremor from IMU DataCollected In-The-Wild using Deep Mult
 ## Other modality data
 [IMWUT 2023] RF-CM: Cross-Modal Framework for RF-enabled Few-Shot Human Activity Recognition
 - wifi + mmwave
+
+[PerCom 2023] Exposing the CSI: A Systematic Investigation of CSI-based Wi-Fi Sensing Capabilities and Limitations
+- benchmark study of WiFi
+
+[PerCom 2023] hEARt: Motion-resilient Heart Rate Monitoring with In-ear Microphones
+- heart rate sensing via earphone
+
+[PerCom 2023] Joint Estimation of the Distance and Relative Velocity of Obstacles via Smartphone Active Sound Sensing for Pedestrian Safety
+- Sound sensing
+
+[PerCom 2023] EMGSense: A Low-Effort Self-Supervised Domain Adaptation Framework for EMG Sensing
+- EMG signal; pretraining + augmentation
 
 [Sensys 2021] OneFi: One-Shot Recognition for Unseen Gesture via COTS WiFi
 
