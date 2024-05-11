@@ -24,6 +24,9 @@ A collection of datasets, papers, directions, and other resources for IMU-based 
 
 [2024] A Survey of IMU Based Cross-Modal Transfer Learning in Human Activity Recognition
 
+[ICASSPW 2023] A Survey of Datasets, Applications, and Models for IMU Sensor Signals
+
+
 【IMWUT 2021】11 Years with Wearables: Quantitative Analysis of Social Media, Academia, News Agencies, and Lead User Community from 2009-2020 on Wearable Technologie
 - market analysis, wearable technology, sentiment analysis
 
@@ -76,7 +79,10 @@ A collection of datasets, papers, directions, and other resources for IMU-based 
 
 ### Multi-modal HAR
 [PerCom 2024] iMove: Exploring Bio-impedance Sensing for Fitness Activity Recognition
-- bio signal + IMU 
+- bio signal + IMU
+
+[EMNLP 2023] IMU2CLIP: Language-grounded Motion Sensor Translation with Multimodal Contrastive Learning
+- video + NLP + IMU
 
 [Sensys 2023]MESEN: Exploit Multimodal Data to Design Unimodal Human Activity Recognition with Few Labels
 
@@ -222,6 +228,8 @@ Detecting Parkinsonian Tremor from IMU DataCollected In-The-Wild using Deep Mult
 - dataset: https://zenodo.org/record/3519213 
 
 ## App4: Indoor localization / navigation
+[TITS 2024] Deep Learning for Inertial Positioning: A Survey
+
 
 ## App5: Smart city applications
 [2024] Transportation mode recognition based on low-rate acceleration and location signals with an attention-based multiple-instance learning network
@@ -229,7 +237,9 @@ Detecting Parkinsonian Tremor from IMU DataCollected In-The-Wild using Deep Mult
 [Ubicomp/ISWC 2023] Enhancing Transportation Mode Detection using Multi-scale Sensor Fusion and Spatial-topological Attention
 - IMU + GNSS data
 
-
+## App6: Device mode classification
+[2023] IMU Dataset For Motion and Device Mode Classification
+- pocket, fixed hand, swing hand, backpack
 
 ## Other modality data
 [IMWUT 2023] RF-CM: Cross-Modal Framework for RF-enabled Few-Shot Human Activity Recognition
