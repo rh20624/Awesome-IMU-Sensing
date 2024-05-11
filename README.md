@@ -28,7 +28,7 @@ A collection of datasets, papers, directions, and other resources for IMU-based 
 - market analysis, wearable technology, sentiment analysis
 
 
-## Human Activity Recognition
+## App1: Human Activity Recognition
 
 ### Self-supervised learning
 
@@ -197,7 +197,7 @@ Recognition Model
 【IMWUT 2019】The Positive Impact of Push vs Pull Progress Feedback: A 6-week Activity Tracking Study in the Wild
 
 
-## Gesture Recognition
+## App2: Gesture Recognition
 [IMWUt 2023] DRG-Keyboard: Enabling Subtle Gesture Typing on the Fingertip with Dual IMU Rings
 
 [TMC 2023] Fine-Grained and Real-Time Gesture Recognition by Using IMU Sensors
@@ -212,7 +212,7 @@ Recognition Model
 novelty: combine Eye Movement Sensor and IMU, HAR,Smart glasses,transfer learning to personalize the classification
 
 
-## Gait Recognition
+## App3: Gait Recognition
 
 [2023] Domain Adaptation for Inertial Measurement Unit-based Human Activity Recognition: A Survey
 
@@ -220,6 +220,15 @@ IMU Sensing Data-Based Kinetic Tremor Detection in Parkinson's Disease Patients
 
 Detecting Parkinsonian Tremor from IMU DataCollected In-The-Wild using Deep Multiple-Instance Learning
 - dataset: https://zenodo.org/record/3519213 
+
+## App4: Indoor localization / navigation
+
+## App5: Smart city applications
+[2024] Transportation mode recognition based on low-rate acceleration and location signals with an attention-based multiple-instance learning network
+
+[Ubicomp/ISWC 2023] Enhancing Transportation Mode Detection using Multi-scale Sensor Fusion and Spatial-topological Attention
+- IMU + GNSS data
+
 
 
 ## Other modality data
@@ -258,5 +267,4 @@ Detecting Parkinsonian Tremor from IMU DataCollected In-The-Wild using Deep Mult
 [IMWUT 2021] Fall Detection via Inaudible Acoustic Sensing[Ubicomp 2019] Towards a Diffraction-based Sensing Approach on Human Activity Recognition
 - wifi
 
-## Smart city applications
-[2024] Transportation mode recognition based on low-rate acceleration and location signals with an attention-based multiple-instance learning network
+
