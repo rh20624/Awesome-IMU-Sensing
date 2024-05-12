@@ -83,6 +83,7 @@ A collection of datasets, papers, directions, and other resources for IMU-based 
 
 [EMNLP 2023] IMU2CLIP: Language-grounded Motion Sensor Translation with Multimodal Contrastive Learning
 - video + NLP + IMU
+- from Meta Reality Lab
 
 [Sensys 2023]MESEN: Exploit Multimodal Data to Design Unimodal Human Activity Recognition with Few Labels
 
