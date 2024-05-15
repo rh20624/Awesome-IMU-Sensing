@@ -15,15 +15,20 @@ A collection of datasets, papers, directions, and other resources for IMU-based 
 [2024] CAPTURE-24: A large dataset of wrist-worn activity tracker data collected in the wild for human activity recognition
 - 2,562 hours of annotated data
 
+[2016] Realworld
+- Downstairs, Upstairs, Lying, Sitting, Standing, Jumping, Walking, Running
+- https://www.uni-mannheim.de/dws/research/projects/activity-recognition/dataset/dataset-realworld/ 
 
 
-| Dataset      | User | # of Activity | # of Sample | Device Type                  | Placement                                      | Sampling Rate |
-|--------------|------|---------------|-------------|------------------------------|------------------------------------------------|---------------|
-| CAPTURE-24   | 151   | >200             | 2,562 hours    | Bracelet                   | waist                                         | 100Hz          |
-| UCI      | 30   | 6             | 1,687        | Smartphone                   | waist                                         | 50Hz          |
-| HHAR     | 9    | 6             | 7,968        | Smartphone, watch       | -                                              | 50~200Hz      |
-| Shoaib   | 10   | 7             | 7,500        | Smartphone                   | left pocket, right pocket, wrist, upper arm, belt | 50Hz        |
-| Motion   | 24   | 6             | 4,108        | Smartphone                   | front pocket                                  | 50Hz          |
+| Dataset      | User | # of Activity | # of Sample | Device Type                  | Placement                                      | Sampling Rate | Time |
+|--------------|------|---------------|-------------|------------------------------|------------------------------------------------|---------------|---------------|
+| CAPTURE-24   | 151   | >200             | 2,562 hours    | Bracelet                   | waist                                         | 100Hz  | 2024 |
+| MobiAct   |  -  | 9              | -    | -                   | -                                         | 50~100Hz          | 2017 |
+| Realworld |  -  | 8              | -    | -                   | -                                         | 50Hz          | 2016 |
+| UCI      | 30   | 6             | 1,687        | Smartphone                   | waist                                         | 50Hz          | 2012 |
+| HHAR     | 9    | 6             | 7,968        | Phone, watch       | -                                              | 50~200Hz      | 2015 | 
+| Shoaib   | 10   | 7             | 7,500        | Smartphone                   | pockets, wrist, arm, belt | 50Hz        | - |
+| Motion   | 24   | 6             | 4,108        | Smartphone                   | front pocket                                  | 50Hz          | 2017 |
 
 
 ## Reviews
