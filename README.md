@@ -4,7 +4,8 @@ A collection of datasets, papers, directions, and other resources for IMU-based 
 **Main sensing tasks**
 - Human activity recognition (HAR) / human activity sensing
 - Gesture recognition
-- Gait recognition 
+- Gait recognition
+- Localization and navigation
 
 **Popular venues**
 - IMWUT/Ubicomp, Sensys, Mobicom, PerCom
@@ -13,6 +14,17 @@ A collection of datasets, papers, directions, and other resources for IMU-based 
 ## Public Datasets
 [2024] CAPTURE-24: A large dataset of wrist-worn activity tracker data collected in the wild for human activity recognition
 - 2,562 hours of annotated data
+
+
+
+| Dataset      | User | # of Activity | # of Sample | Device Type                  | Placement                                      | Sampling Rate |
+|--------------|------|---------------|-------------|------------------------------|------------------------------------------------|---------------|
+| CAPTURE-24   | 151   | >200             | 2,562 hours    | Bracelet                   | waist                                         | 100Hz          |
+| UCI      | 30   | 6             | 1,687        | Smartphone                   | waist                                         | 50Hz          |
+| HHAR     | 9    | 6             | 7,968        | Smartphone, watch       | -                                              | 50~200Hz      |
+| Shoaib   | 10   | 7             | 7,500        | Smartphone                   | left pocket, right pocket, wrist, upper arm, belt | 50Hz        |
+| Motion   | 24   | 6             | 4,108        | Smartphone                   | front pocket                                  | 50Hz          |
+
 
 ## Reviews
 
