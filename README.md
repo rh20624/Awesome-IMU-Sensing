@@ -19,12 +19,21 @@ A collection of datasets, papers, directions, and other resources for IMU-based 
 - Downstairs, Upstairs, Lying, Sitting, Standing, Jumping, Walking, Running
 - https://www.uni-mannheim.de/dws/research/projects/activity-recognition/dataset/dataset-realworld/ 
 
+[2012] UCI dataset
+- Acc and Gyro
+- varying ages (19 to 48 years), genders, heights, and weights
+
+[] WISDM dataset
+- Acc only
+- walking,jogging,upstairs,downstairs,sitting,standing
+
 
 | Dataset      | User | # of Activity | # of Sample | Device                  | Placement                                      | Sampling Rate | Time |
 |--------------|------|---------------|-------------|------------------------------|------------------------------------------------|---------------|---------------|
 | CAPTURE-24   | 151   | >200             | 2,562 hours    | Bracelet                   | waist                                         | 100Hz  | 2024 |
 | MobiAct   |  -  | 9              | -    | -                   | -                                         | 50~100Hz          | 2017 |
 | RealWorld |  -  | 8              | -    | -                   | -                                         | 50Hz          | 2016 |
+| WISDM |  36  | 6              | 1,098,207    | Smartphone                   | front leg pocket                                         | 20Hz          | 2012 |
 | UCI      | 30   | 6             | 1,687        | Smartphone                   | waist                                         | 50Hz          | 2012 |
 | HHAR     | 9    | 6             | 7,968        | Phone, watch       | -                                              | 50~200Hz      | 2015 | 
 | Shoaib   | 10   | 7             | 7,500        | Smartphone                   | pockets, wrist, arm, belt | 50Hz        | - |
@@ -46,6 +55,8 @@ A collection of datasets, papers, directions, and other resources for IMU-based 
 
 【IMWUT 2021】11 Years with Wearables: Quantitative Analysis of Social Media, Academia, News Agencies, and Lead User Community from 2009-2020 on Wearable Technologie
 - market analysis, wearable technology, sentiment analysis
+
+[ACM computing survey 2014] A tutorial on human activity recognition using body-worn inertial sensors
 
 
 ## App1: Human Activity Recognition
