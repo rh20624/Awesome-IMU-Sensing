@@ -157,6 +157,9 @@ A collection of datasets, papers, directions, and other resources for IMU-based 
 
 
 ### Generalization HAR
+[IMWUT 2024] AutoAugHAR: Automated Data Augmentation for Sensor-based Human Activity Recognition
+- cross-user; data augmentation; 
+
 [IMWUT 2024] Optimization-Free Test-Time Adaptation for Cross-Person Activity Recognition
 - cross-user, test-time adaptation
 
