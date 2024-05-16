@@ -50,6 +50,8 @@ A collection of datasets, papers, directions, and other resources for IMU-based 
 
 [2024] A Survey of IMU Based Cross-Modal Transfer Learning in Human Activity Recognition
 
+[IJCNN 2024] A Survey on Wearable Human Activity Recognition: Innovative Pipeline Development for Enhanced Research and Practice
+
 [ICASSPW 2023] A Survey of Datasets, Applications, and Models for IMU Sensor Signals
 
 
