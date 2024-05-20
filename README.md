@@ -188,10 +188,14 @@ Recognition Model
 ### Special application scenarios
 
 【IMWUT 2020】Robust Unsupervised Factory Activity Recognition with Body-worn Accelerometer Using Temporal Structure of Multiple Sensor Data Motifs
+
 【IMWUT 2021】Leveraging Activity Recognition to Enable Protective Behavior Detection in Continuous Data
+
 【IMWUT 2019】The Wearables Development Toolkit: An Integrated Development Environment for Activity Recognition Applications
+
 【IMWUT 2019】Integrating Activity Recognition and Nursing Care Records: The System, Deployment, and a Verification Study.
 - medical application
+
 【IMWUT 2019】Unsupervised Factory Activity Recognition with Wearable Sensors Using Process Instruction Information
 
 ### Novelty / anomaly detection
