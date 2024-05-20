@@ -14,18 +14,20 @@ A collection of datasets, papers, directions, and other resources for IMU-based 
 ## Public Datasets
 [2024] CAPTURE-24: A large dataset of wrist-worn activity tracker data collected in the wild for human activity recognition
 - 2,562 hours of annotated data
+- [https://github.com/OxWearables/capture24](https://github.com/OxWearables/capture24)
 
 [2016] RealWorld
 - Downstairs, Upstairs, Lying, Sitting, Standing, Jumping, Walking, Running
-- https://www.uni-mannheim.de/dws/research/projects/activity-recognition/dataset/dataset-realworld/ 
+- [https://www.uni-mannheim.de/dws/research/projects/activity-recognition/dataset/dataset-realworld/](https://www.uni-mannheim.de/dws/research/projects/activity-recognition/dataset/dataset-realworld/)
 
 [2012] UCI dataset
 - Acc and Gyro
 - varying ages (19 to 48 years), genders, heights, and weights
 
-[] WISDM dataset
+[2012] WISDM dataset
 - Acc only
 - walking,jogging,upstairs,downstairs,sitting,standing
+- [https://www.cis.fordham.edu/wisdm/dataset.php](https://www.cis.fordham.edu/wisdm/dataset.php)
 
 
 | Dataset      | User | # of Activity | # of Sample | Device                  | Placement                                      | Sampling Rate | Time |
@@ -65,10 +67,10 @@ A collection of datasets, papers, directions, and other resources for IMU-based 
 
 ### Self-supervised learning
 
-[IMWUT 2024] CrossHAR: Generalizing Cross-dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining
+[IMWUT 2024] [CrossHAR: Generalizing Cross-dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining](https://dl.acm.org/doi/10.1145/3659597)
 - hierarchical pretraining
 
-[2024] Comparing Self-Supervised Learning Techniques for Wearable Human Activity Recognition
+[2024] [Comparing Self-Supervised Learning Techniques for Wearable Human Activity Recognition](https://arxiv.org/abs/2404.15331)
 
 [2024] HARMamba: Efficient Wearable Sensor Human Activity Recognition Based on Bidirectional Selective SSM
 - Mamba-based HAR model
@@ -82,7 +84,7 @@ A collection of datasets, papers, directions, and other resources for IMU-based 
 【IMWUT 2022】Assessing the State of Self-Supervised Human Activity Recognition Using Wearables
 - benchmark study
 
-[Sensys 2021] LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications
+[Sensys 2021] [LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications](https://dl.acm.org/doi/10.1145/3485730.3485937)
 
 【IMWUT 2021】Self-supervised Learning for Reading Activity Classification
 
