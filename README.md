@@ -56,6 +56,8 @@ A collection of datasets, papers, directions, and other resources for IMU-based 
 
 [ICASSPW 2023] A Survey of Datasets, Applications, and Models for IMU Sensor Signals
 
+[ACM Computing Survey 2022] [A Survey of Privacy Vulnerabilities of Mobile Device Sensors](https://dl.acm.org/doi/10.1145/3510579)
+- wearable sensors, privacy concern
 
 【IMWUT 2021】11 Years with Wearables: Quantitative Analysis of Social Media, Academia, News Agencies, and Lead User Community from 2009-2020 on Wearable Technologie
 - market analysis, wearable technology, sentiment analysis
