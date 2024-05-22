@@ -281,6 +281,11 @@ Detecting Parkinsonian Tremor from IMU DataCollected In-The-Wild using Deep Mult
 [2023] IMU Dataset For Motion and Device Mode Classification
 - pocket, fixed hand, swing hand, backpack
 
+## App7: Other applications
+[NDSS 2023] StealthyIMU: Stealing Permission-protected Private Information From Smartphone Voice Assistant Using Zero-Permission Sensors
+- IMU, voice
+- privacy attack
+
 ## Other modality data
 [IMWUT 2023] RF-CM: Cross-Modal Framework for RF-enabled Few-Shot Human Activity Recognition
 - wifi + mmwave
