@@ -284,11 +284,19 @@ Detecting Parkinsonian Tremor from IMU DataCollected In-The-Wild using Deep Mult
 - pocket, fixed hand, swing hand, backpack
 
 ## App7: Other applications
+[IMWUT 2024] Accurate Blood Pressure Measurement Using Smartphone's Built-in Accelerometer
+- Accelerometer
+- blood pressure
+
 [NDSS 2023] StealthyIMU: Stealing Permission-protected Private Information From Smartphone Voice Assistant Using Zero-Permission Sensors
 - IMU, voice
 - privacy attack
 
 ## Other modality data
+
+[IMWUT 2024] EarSleep: In-ear Acoustic-based Physical and Physiological Activity Recognition for Sleep Stage Detection
+- acoustic signal
+
 [IMWUT 2023] RF-CM: Cross-Modal Framework for RF-enabled Few-Shot Human Activity Recognition
 - wifi + mmwave
 
