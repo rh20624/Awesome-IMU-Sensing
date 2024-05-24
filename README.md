@@ -272,6 +272,13 @@ Detecting Parkinsonian Tremor from IMU DataCollected In-The-Wild using Deep Mult
 ## App4: Indoor localization / navigation
 [TITS 2024] Deep Learning for Inertial Positioning: A Survey
 
+[ACM Trans. Graph 2023] EgoLocate: Real-time Motion Capture, Localization, and Mapping with Sparse Body-mounted Sensors
+- 6 IMU sensors on body + other sensors
+- VR, AR
+
+[ACM Computing Surveys 2015] Mobility Increases Localizability: A Survey on Wireless Indoor Localization using Inertial Sensors
+- detailed IMU sensor analysis
+- IMU for indoor localization 
 
 ## App5: Smart city applications
 [2024] Transportation mode recognition based on low-rate acceleration and location signals with an attention-based multiple-instance learning network
