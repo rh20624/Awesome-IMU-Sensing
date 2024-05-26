@@ -306,6 +306,11 @@ Detecting Parkinsonian Tremor from IMU DataCollected In-The-Wild using Deep Mult
 [NDSS 2023] StealthyIMU: Stealing Permission-protected Private Information From Smartphone Voice Assistant Using Zero-Permission Sensors
 - IMU, voice
 - privacy attack
+- 
+
+[2023] Inferring private personal attributes of virtual reality users from head and hand motion data
+- use motion data to infer private user information
+- dataset: Berkeley Open Extended Reality Recordings 2023 (BOXRR-23)
 
 ## Other modality data
 
