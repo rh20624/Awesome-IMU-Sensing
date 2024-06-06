@@ -25,6 +25,20 @@ A collection of datasets, papers, directions, and other resources for IMU-based 
 - designed for VR and metaverse, data collected from user playing "Beat Saber"
 - high accuracy in user identification
 
+[2023] [Parkinson's Freezing of Gait Prediction](https://www.kaggle.com/competitions/tlvmc-parkinsons-freezing-gait-prediction/data)
+- Kaggle competition, 3 types of freezing of gait events: Start Hesitation, Turn, and Walking.
+- Task: detect the start and end of each of these events
+- labeled and unlabeled data; accelerometer + context data; 70.59GB data
+
+[2022][Multimodal Data for the Detection of Freezing of Gait in Parkinson’s Disease](https://github.com/AccSrd/multimodal-Parkinson-data-processing)
+- published at Scientific Data [https://github.com/AccSrd/multimodal-Parkinson-data-processing](https://github.com/AccSrd/multimodal-Parkinson-data-processing)
+- 12 PD patients, 3 hours, 42 minutes
+- multimodal data: (EEG), electromyogram (EMG), electrocardiogram (ECG), skin conductance (SC), and acceleration (ACC) 
+
+[2008][PhysioNet Gait of Parkinson's Disease Dataset](https://physionet.org/content/gaitpdb/1.0.0/)
+- 93 patients and 73 controls
+- force sensors beneath the feet, 100HZ
+
 [2016] RealWorld
 - Downstairs, Upstairs, Lying, Sitting, Standing, Jumping, Walking, Running
 - [https://www.uni-mannheim.de/dws/research/projects/activity-recognition/dataset/dataset-realworld/](https://www.uni-mannheim.de/dws/research/projects/activity-recognition/dataset/dataset-realworld/)
@@ -42,6 +56,7 @@ A collection of datasets, papers, directions, and other resources for IMU-based 
 | Dataset      | User | # of Activity | # of Sample | Device                  | Placement                                      | Sampling Rate | Time |
 |--------------|------|---------------|-------------|------------------------------|------------------------------------------------|---------------|---------------|
 | CAPTURE-24   | 151   | >200             | 2,562 hours    | Bracelet                   | waist                                         | 100Hz  | 2024 |
+| ParkinsonGait   | -   | 3             | 70.59GB    | Sensor                   | lower-back                                         | 100,128Hz  | 2023 |
 | MobiAct   |  -  | 9              | -    | -                   | -                                         | 50~100Hz          | 2017 |
 | RealWorld |  -  | 8              | -    | -                   | -                                         | 50Hz          | 2016 |
 | WISDM |  36  | 6              | 1,098,207    | Smartphone                   | front leg pocket                                         | 20Hz          | 2012 |
