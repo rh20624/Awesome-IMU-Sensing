@@ -191,6 +191,9 @@ A collection of datasets, papers, directions, and other resources for IMU-based 
 [IMWUT 2024] Optimization-Free Test-Time Adaptation for Cross-Person Activity Recognition
 - cross-user, test-time adaptation
 
+[KDD 2024] [Diverse Intra- and Inter-Domain Activity Style Fusion for Cross-Person Generalization in Activity Recognition](https://arxiv.org/pdf/2406.04609v1)
+- cross user; domain generalization 
+
 [IMWUT 2023] GLOBEM: Cross-Dataset Generalization of Longitudinal Human Behavior Modeling
 - cross-dataset depression detection
 
