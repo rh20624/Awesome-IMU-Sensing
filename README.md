@@ -336,6 +336,14 @@ Detecting Parkinsonian Tremor from IMU DataCollected In-The-Wild using Deep Mult
 - use motion data to infer private user information
 - dataset: Berkeley Open Extended Reality Recordings 2023 (BOXRR-23)
 
+[TMC 2018] Side-Channel Inference Attacks on Mobile Keypads Using Smartwatches
+- smartwatch, keylogging
+
+[Mobicom 2025] MoLe: Motion Leaks through Smartwatch Sensors
+- smartwatch, IMU, privacy attack, keylogging
+
+
+
 ## Other modality data
 
 [IMWUT 2024] EarSleep: In-ear Acoustic-based Physical and Physiological Activity Recognition for Sleep Stage Detection
