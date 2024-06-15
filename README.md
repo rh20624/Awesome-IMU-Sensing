@@ -336,6 +336,9 @@ Detecting Parkinsonian Tremor from IMU DataCollected In-The-Wild using Deep Mult
 - use motion data to infer private user information
 - dataset: Berkeley Open Extended Reality Recordings 2023 (BOXRR-23)
 
+[IMWUT 2021] My(o) Armband Leaks Passwords: An EMG and IMU Based Keylogging Side-Channel Attack
+- IMU + EMG, keylogging, privacy attack; lower arm
+
 [TMC 2018] Side-Channel Inference Attacks on Mobile Keypads Using Smartwatches
 - smartwatch, keylogging
 
