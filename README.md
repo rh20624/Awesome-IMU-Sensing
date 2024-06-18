@@ -302,6 +302,10 @@ Detecting Parkinsonian Tremor from IMU DataCollected In-The-Wild using Deep Mult
 - dataset: https://zenodo.org/record/3519213 
 
 ## App4: Indoor localization / navigation
+
+[TMC 2024] Online Path Description Learning based on IMU Signals from IoT Devices
+- learns position vectors of a user from IMU sensor readings, custom-made self-attention network model
+
 [TITS 2024] Deep Learning for Inertial Positioning: A Survey
 
 [ACM Trans. Graph 2023] EgoLocate: Real-time Motion Capture, Localization, and Mapping with Sparse Body-mounted Sensors
@@ -322,7 +326,10 @@ Detecting Parkinsonian Tremor from IMU DataCollected In-The-Wild using Deep Mult
 [2023] IMU Dataset For Motion and Device Mode Classification
 - pocket, fixed hand, swing hand, backpack
 
-## App7: Other applications
+## App7: Other novel applications
+[TMC 2024] BrailleReader: Braille Character Recognition Using Wearable Motion Sensor
+- recognize braille character by touching
+
 [IMWUT 2024] Accurate Blood Pressure Measurement Using Smartphone's Built-in Accelerometer
 - Accelerometer
 - blood pressure
