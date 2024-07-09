@@ -290,6 +290,10 @@ Recognition Model
 
 [PerCom 2023] CHAR: Composite Head-body Activities Recognition with A Single Earable Device
 - earable device
+- 
+
+[ACM Trans on CHI 2023] SparseIMU: Computational Design of Sparse IMU Layouts for Sensing Fine-grained Finger Microgestures
+- reduce IMU sensors for gesture recognition
 
 [IMWUT 22] The OnHW Dataset: Online Handwriting Recognition from IMU-Enhanced Ballpoint Pens with Machine Learning
 
