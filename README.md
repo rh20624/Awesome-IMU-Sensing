@@ -8,6 +8,12 @@ A collection of datasets, papers, directions, and other resources for IMU-based 
 - Localization and navigation
 - User identification
 
+**Main applications**
+- Sport monitoring 
+- Healthcare
+- VR gaming
+- Safety and security
+
 **Popular venues**
 - IMWUT/Ubicomp, Sensys, Mobicom, PerCom
 - AAAI, IJCAI, KDD, ICLR, TKDE
