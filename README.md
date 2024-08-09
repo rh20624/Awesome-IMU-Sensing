@@ -147,6 +147,10 @@ A collection of datasets, papers, directions, and other resources for IMU-based 
 
 
 ### Multi-modal HAR
+
+[Arxiv 2024] IMG2IMU: Translating Knowledge from Large-Scale Images to IMU Sensing Applications
+- Image, IMU
+
 [PerCom 2024] iMove: Exploring Bio-impedance Sensing for Fitness Activity Recognition
 - bio signal + IMU
 
