@@ -13,6 +13,8 @@ A collection of datasets, papers, directions, and other resources for IMU-based 
 - Healthcare
 - VR gaming
 - Safety and security
+- Smart manufacturing
+- Embodied AI
 
 **Popular venues**
 - IMWUT/Ubicomp, Sensys, Mobicom, PerCom
@@ -136,9 +138,9 @@ A collection of datasets, papers, directions, and other resources for IMU-based 
 [2024] HARGPT: Are LLMs Zero-Shot Human Activity Recognizers?
 - prompt design; CoT
 
-[2024] IMUGPT 2.0: Language-Based Cross Modality Transfer for Sensor-Based Human Activity Recognition
+[IMWUT 2024] IMUGPT 2.0: Language-Based Cross Modality Transfer for Sensor-Based Human Activity Recognition
 
-[2023] IMUGPT: Generating Virtual On-body Accelerometer Data from Virtual Textual Descriptions for Human Activity Recognition
+[Ubicomp/ICWS 2023] IMUGPT: Generating Virtual On-body Accelerometer Data from Virtual Textual Descriptions for Human Activity Recognition
 - [https://github.com/ZikangLeng/IMUGPT/tree/main](https://github.com/ZikangLeng/IMUGPT/tree/main)
 - Ubicomp/ICWS
 - text-->GPT-->3d motion-->IMU --> data augmentation --> HAR
