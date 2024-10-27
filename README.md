@@ -1,5 +1,5 @@
 # Awesome-IMU-Sensing
-A collection of datasets, papers, directions, and other resources for IMU-based mobile sensing.
+A collection of datasets, papers, directions, and other resources for IMU-based mobile and ubiquitous sensing.
 
 **Main sensing tasks**
 - Human activity recognition (HAR) / human activity sensing
