@@ -103,6 +103,7 @@ A collection of datasets, papers, directions, and other resources for IMU-based 
 
 [IMWUT 2024] [CrossHAR: Generalizing Cross-dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining](https://dl.acm.org/doi/10.1145/3659597)
 - hierarchical pretraining
+- cross-dataset HAR: training model only with source dataset, testing on target dataset
 
 [2024] [Comparing Self-Supervised Learning Techniques for Wearable Human Activity Recognition](https://arxiv.org/abs/2404.15331)
 
