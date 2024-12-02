@@ -21,6 +21,11 @@ A collection of datasets, papers, directions, and other resources for IMU-based 
 - AAAI, IJCAI, KDD, ICLR, TKDE
 
 ## Public Datasets
+[IMWUT 2024] WEAR: An Outdoor Sports Dataset for Wearable and Egocentric Activity Recognition
+- video + IMU
+- [https://dl.acm.org/doi/pdf/10.1145/mariusbock.github.io/wear/](https://dl.acm.org/doi/pdf/10.1145/mariusbock.github.io/wear/)
+- outdoor sports dataset
+
 [2024] CAPTURE-24: A large dataset of wrist-worn activity tracker data collected in the wild for human activity recognition
 - 2,562 hours of annotated data
 - [https://github.com/OxWearables/capture24](https://github.com/OxWearables/capture24)
@@ -75,6 +80,9 @@ A collection of datasets, papers, directions, and other resources for IMU-based 
 
 
 ## Reviews
+
+[IMWUT 2024] Self-supervised Learning for Accelerometer-based Human Activity Recognition: A Survey
+- survey 52 self-supervised learning methods for HAR
 
 [2024] Transfer Learning in Human Activity Recognition: A Survey
 
@@ -254,6 +262,9 @@ Recognition Model
 
 
 ### Other HAR
+
+[IMWUT 2024] Temporal Action Localization for Inertial-based Human Activity Recognition
+- segmentation
 
 [PerCom 2023] ALAE-TAE-CutMix+: Beyond the State-of-the-Art for Human Activity Recognition Using Wearable Sensors
 - data augmentation; cross-channel interaction;
