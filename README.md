@@ -159,6 +159,11 @@ A collection of datasets, papers, directions, and other resources for IMU-based 
 
 ### Multi-modal HAR
 
+[NIPS 2024 Workshop on Time Series in the Age of Large Models] Introducing PRIMUS: A Novel Multimodal Approach to PRetraining IMU EncoderS
+- IMU + image, text data
+- pretraining
+- LLM
+
 [Arxiv 2024] IMG2IMU: Translating Knowledge from Large-Scale Images to IMU Sensing Applications
 - Image, IMU
 
