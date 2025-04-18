@@ -7,6 +7,7 @@ A collection of datasets, papers, directions, and other resources for IMU-based 
 - Gait recognition
 - Localization and navigation
 - User identification
+- Decode tactile information
 
 **Main applications**
 - Sport monitoring 
