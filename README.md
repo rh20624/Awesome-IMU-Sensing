@@ -249,6 +249,10 @@ Recognition Model
 
 ### Special application scenarios
 
+【CHI 2025】VibWalk: Mapping Lower-limb Haptic Experiences of Everyday Walking
+- Decoding tactile information from foot vibrations
+- Accelerometer + microphone
+
 【IMWUT 2020】Robust Unsupervised Factory Activity Recognition with Body-worn Accelerometer Using Temporal Structure of Multiple Sensor Data Motifs
 
 【IMWUT 2021】Leveraging Activity Recognition to Enable Protective Behavior Detection in Continuous Data
