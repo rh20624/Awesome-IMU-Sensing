@@ -365,6 +365,12 @@ Detecting Parkinsonian Tremor from IMU DataCollected In-The-Wild using Deep Mult
 - pocket, fixed hand, swing hand, backpack
 
 ## App7: Other novel applications
+
+[Sensys 2025] Membership Inference Against Self-supervised IMU Sensing Applications
+- evaluate whether self-supervised pretraining over IMU data contains sensitive information or whether a specific data is used in training dataset
+- design a new approach to protect privacy during pretraining
+
+
 [TMC 2024] BrailleReader: Braille Character Recognition Using Wearable Motion Sensor
 - recognize braille character by touching
 
