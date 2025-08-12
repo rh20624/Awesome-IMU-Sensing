@@ -42,7 +42,18 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
     - [Active Learning](#active-learning)
     - [LLM-based Learning](#llm-based-learning)
 - [Data-Centric Methodology](#data-centric-methodology)
+    - [Multi-Modal Fusion](#multi-modal-fusion)
+    - [Cross-Modal Learning](#cross-modal-learning)
+    - [Data Augmentation](#data-augmentation)
 - [Applications](#applications)
+    - [Healthcare and Rehabilitation](#healthcare-and-rehabilitation)
+    - [Sports and Fitness Monitoring](#sports-and-fitness-monitoring)
+    - [Work Assessment](#work-assessment)
+    - [Smart Home and Assisted Living](#smart-home-and-assisted-living)
+    - [Transportation and Mobility](#transportation-and-mobility)
+    - [Human-Robot Interaction](#human-robot-interaction)
+    - [AR and VR Interaction](#ar-and-vr-interaction)
+    - [Embodied Agents](#embodied-agents)
 
 ## Generalization-Oriented Training Settings
 
