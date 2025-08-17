@@ -33,13 +33,22 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
     - [Multimodal Dataset](#multimodal-dataset)
     - [Tools and Benchmarks](#tools-and-benchmarks)
 - [Model-Centric Methodology](#model-centric-methodology)
-    - [Transformation Recognition](#transformation-recognition)
-    - [Reconstruction](#reconstruction)
-    - [Contrastive and Predictive Learning](#contrastive-and-predictive-learning)
-    - [Feature Disentanglement](#feature-disentanglement)
-    - [Multi-task Learning](#multi-task-learning)
-    - [Federated Learning](#federated-learning)
-    - [Active Learning](#active-learning)
+    - [Supervised Learning](#supervised-learning)
+        - [Feature Disentanglement](#feature-disentanglement)
+        - [Multi-Task Learning](#multi-task-learning)
+        - [Federated Learning](#federated-learning)
+    - [Weakly-Supervised Learning](#weakly-supervised-learning)
+        - [Semi-Supervised Learning](#semi-supervised-learning)
+        - [Active Learning](#active-learning)
+        - [Inexact Supervised Learning](#inexact-supervised-learning)
+    - [Unsupervised Learning](#unsupervised-learning)
+        - [Clustering Analysis](#clustering-analysis)
+        - [Association Analysis](#association-analysis)
+    - [Self-Supervised Learning](#self-supervised-learning)
+        - [Transformation Recognition](#transformation-recognition)
+        - [Reconstruction](#reconstruction)
+        - [Contrastive Learning](#contrastive-learning)
+        - [Hybrid Approaches](#hybrid-approaches)
     - [LLM-based Learning](#llm-based-learning)
 - [Data-Centric Methodology](#data-centric-methodology)
     - [Multi-Modal Fusion](#multi-modal-fusion)
@@ -158,13 +167,74 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 
 ## Model-Centric Methodology
 
-### Transformation Recognition
+### Supervised Learning
 
-1. **"Unsupervised Representation Learning for Time Series with Temporal Neighborhood Coding"**. *Tonekaboni et al.* ICLR 2021. [[Paper](https://arxiv.org/abs/2106.00750)]
-2. **"Self-supervised Learning for Reading Activity Classification"**. *Islam et al.* IMWUT 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3478088)]
-3. **"SelfHAR: Improving Human Activity Recognition through Self-training with Unlabeled Data"**. *Tang et al.* IMWUT 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3448112)]
+#### Feature Disentanglement
 
-### Reconstruction
+1. **"Adversarial Multi-view Networks for Activity Recognition"**. *Bai et al.* IMWUT 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3397323)]
+2. **"Privacy Adversarial Network: Representation Learning for Mobile Data Privacy"**. *Liu et al.* IMWUT 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3369816)]
+3. **"Learning Disentangled Behaviour Patterns for Wearable-based Human Activity Recognition"**. *Su et al.* IMWUT 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3517252)]
+4. **"Augmented Adversarial Learning for Human Activity Recognition with Partial Sensor Sets"**. *Kang et al.* IMWUT 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3550285)]
+
+#### Multi-Task Learning
+
+1. **"AROMA: A Deep Multi-Task Learning Based Simple and Complex Human Activity Recognition Method Using Wearable Sensors"**. *Peng et al.* IMWUT 2018. [[Paper](https://dl.acm.org/doi/abs/10.1145/3214277)]
+2. **"METIER: A Deep Multi-Task Learning Based Activity and User Recognition Model Using Wearable Sensors"**. *Chen et al.* IMWUT 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3381012)]
+3. **"Temporal Action Localization for Inertial-based Human Activity Recognition"**. *Bock et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3699770)]
+
+#### Federated Learning
+
+1. **"Evaluation of federated learning aggregation algorithms: application to human activity recognition"**. *Ek et al.* UbiComp 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3410530.3414321)]
+2. **"FedDL: Federated Learning via Dynamic Layer Sharing for Human Activity Recognition"**. *Tu et al.* SenSys 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3485730.3485946)]
+3. **"ClusterFL: a similarity-aware federated learning system for human activity recognition"**. *Ouyang et al.* MobiSys 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3458864.3467681)]
+4. **"FLAME: Federated Learning across Multi-device Environments"**. *Cho et al.* IMWUT 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3550289)]
+5. **"Hierarchical Clustering-based Personalized Federated Learning for Robust and Fair Human Activity Recognition"**. *Li et al.* IMWUT 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3580795)]
+
+### Weakly-Supervised Learning
+
+#### Semi-Supervised Learning
+
+1. **"FedHAR: Semi-Supervised Online Learning for Personalized Federated Human Activity Recognition"**. *Yu et al.* TMC 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/9656620)]
+2. **"Cross-Domain HAR: Few-Shot Transfer Learning for Human Activity Recognition"**. *Thukral et al.* TIST 2025. [[Paper](https://dl.acm.org/doi/full/10.1145/3704921)]
+
+#### Active Learning
+
+1. **"NuActiv: recognizing unseen new activities using semantic attribute-based learning"**. *Cheng et al.* MobiSys 2013. [[Paper](https://dl.acm.org/doi/abs/10.1145/2462456.2464438)]
+2. **"DeActive: Scaling Activity Recognition with Active Deep Learning"**. *Hossain et al.* IMWUT 2018. [[Paper](https://dl.acm.org/doi/abs/10.1145/3214269)]
+3. **"Leveraging Active Learning and Conditional Mutual Information to Minimize Data Annotation in Human Activity Recognition"**. *Adaimi et al.* IMWUT 2019. [[Paper](https://dl.acm.org/doi/abs/10.1145/3351228)]
+
+#### Inexact Supervised Learning
+
+1. **"Weakly Supervised Multi-Task Representation Learning for Human Activity Analysis Using Wearables"**. *Sheng et al.* IMWUT 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3397330)]
+2. **"KATN: Key Activity Detection via Inexact Supervised Learning"**. *You et al.* IMWUT 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3494957)]
+
+### Unsupervised Learning
+
+#### Clustering Analysis
+
+1. **"Label Propagation: An Unsupervised Similarity Based Method for Integrating New Sensors in Activity Recognition Systems"**. *Rey et al.* IMWUT 2017. [[Paper](https://dl.acm.org/doi/abs/10.1145/3130959)]
+2. **"A Systematic Study of Unsupervised Domain Adaptation for Robust Human-Activity Recognition"**. *Chang et al.* IMWUT 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3380985)]
+3. **"Unsupervised Human Activity Representation Learning with Multi-task Deep Clustering"**. *Ma et al.* IMWUT 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3448074)]
+4. **"SWL-Adapt: An Unsupervised Domain Adaptation Model with Sample Weight Learning for Cross-User Wearable Human Activity Recognition"**. *Hu et al.* AAAI 2023. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25743)]
+5. **"DWLR: Domain Adaptation under Label Shift for Wearable Sensor"**. *Li et al.* IJCAI 2024. [[Paper](https://www.ijcai.org/proceedings/2024/0489.pdf)]
+
+#### Association Analysis
+
+1. **"Unsupervised Factory Activity Recognition with Wearable Sensors Using Process Instruction Information"**. *Xia et al.* IMWUT 2019. [[Paper](https://dl.acm.org/doi/abs/10.1145/3328931)]
+2. **"Robust Unsupervised Factory Activity Recognition with Body-worn Accelerometer Using Temporal Structure of Multiple Sensor Data Motifs"**. *Xia et al.* IMWUT 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3411836)]
+
+### Self-Supervised Learning
+
+#### Transformation Recognition
+
+1. **"Multi-task Self-Supervised Learning for Human Activity Detection"**. *Saeed et al.* IMWUT 2019. [[Paper](https://dl.acm.org/doi/abs/10.1145/3328932)]
+2. **"Unsupervised Representation Learning for Time Series with Temporal Neighborhood Coding"**. *Tonekaboni et al.* ICLR 2021. [[Paper](https://arxiv.org/abs/2106.00750)]
+3. **"Self-supervised Learning for Reading Activity Classification"**. *Islam et al.* IMWUT 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3478088)]
+4. **"SelfHAR: Improving Human Activity Recognition through Self-training with Unlabeled Data"**. *Tang et al.* IMWUT 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3448112)]
+5. **"Assessing the State of Self-Supervised Human Activity Recognition Using Wearables"**. *Haresamudram et al.* IMWUT 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3550299)]
+6. **"Self-supervised learning for human activity recognition using 700,000 person-days of wearable data"**. *Yuan et al.* npj Digital Medicine 2024. [[Paper](https://www.nature.com/articles/s41746-024-01062-3)]
+
+#### Reconstruction
 
 1. **"LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications"**. *Xu et al.* SenSys 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3485730.3485937)]
 2. **"Self-Supervised Time Series Representation Learning via Cross Reconstruction Transformer"**. *Zhang et al.* TNNLS 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10190201)]
@@ -172,49 +242,20 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 4. **"Scaling wearable foundation models"**. *Narayanswamy et al.* ICLR 2025. [[Paper](https://arxiv.org/abs/2410.13638)]
 5. **"LSM-2: Learning from Incomplete Wearable Sensor Data"**. *Xu et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.05321)]
 
-### Contrastive and Predictive Learning
+#### Contrastive Learning
 
 1. **"Learning Generalizable Physiological Representations from Large-scale Wearable Data"**. *Spathis et al.* arXiv 2020. [[Paper](https://arxiv.org/abs/2011.04601)]
 2. **"Contrastive Predictive Coding for Human Activity Recognition"**. *Haresamudram et al.* IMWUT 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3463506)]
-3. **"What Makes Good Contrastive Learning on Small-Scale Wearable-based Tasks?"**. *Qian et al.* KDD 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539134)]
-4. **"ColloSSL: Collaborative Self-Supervised Learning for Human Activity Recognition"**. *Jain et al.* IMWUT 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3517246)]
-5. **"Investigating Enhancements to Contrastive Predictive Coding for Human Activity Recognition"**. *Haresamudram et al.* PerCom 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10099197)]
+3. **"Federated Self-Supervised Learning of Multisensor Representations for Embedded Intelligence"**. *Saeed et al.* IOTJ 2021. [[Paper](https://ieeexplore.ieee.org/abstract/document/9141293)]
+4. **"What Makes Good Contrastive Learning on Small-Scale Wearable-based Tasks?"**. *Qian et al.* KDD 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539134)]
+5. **"ColloSSL: Collaborative Self-Supervised Learning for Human Activity Recognition"**. *Jain et al.* IMWUT 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3517246)]
+6. **"Investigating Enhancements to Contrastive Predictive Coding for Human Activity Recognition"**. *Haresamudram et al.* PerCom 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10099197)]
+7. **"Cross-Domain HAR: Few-Shot Transfer Learning for Human Activity Recognition"**. *Thukral et al.* TIST 2025. [[Paper](https://dl.acm.org/doi/full/10.1145/3704921)]
 
-### Feature Disentanglement
+#### Hybrid Approaches
 
-1. **"Adversarial Multi-view Networks for Activity Recognition"**. *Bai et al.* IMWUT 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3397323)]
-2. **"Privacy Adversarial Network: Representation Learning for Mobile Data Privacy"**. *Liu et al.* IMWUT 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3369816)]
-3. **"Learning Disentangled Behaviour Patterns for Wearable-based Human Activity Recognition"**. *Su et al.* IMWUT 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3517252)]
-4. **"Augmented Adversarial Learning for Human Activity Recognition with Partial Sensor Sets"**. *Kang et al.* IMWUT 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3550285)]
-
-### Multi-task Learning
-
-1. **"AROMA: A Deep Multi-Task Learning Based Simple and Complex Human Activity Recognition Method Using Wearable Sensors"**. *Peng et al.* IMWUT 2018. [[Paper](https://dl.acm.org/doi/abs/10.1145/3214277)]
-2. **"Multi-task Self-Supervised Learning for Human Activity Detection"**. *Saeed et al.* IMWUT 2019. [[Paper](https://dl.acm.org/doi/abs/10.1145/3328932)]
-3. **"METIER: A Deep Multi-Task Learning Based Activity and User Recognition Model Using Wearable Sensors"**. *Chen et al.* IMWUT 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3381012)]
-4. **"Weakly Supervised Multi-Task Representation Learning for Human Activity Analysis Using Wearables"**. *Sheng et al.* IMWUT 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3397330)]
-5. **"KATN: Key Activity Detection via Inexact Supervised Learning"**. *You et al.* IMWUT 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3494957)]
-6. **"Unsupervised Human Activity Representation Learning with Multi-task Deep Clustering"**. *Ma et al.* IMWUT 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3448074)]
-7. **"SelfHAR: Improving Human Activity Recognition through Self-training with Unlabeled Data"**. *Tang et al.* IMWUT 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3448112)]
-8. **"Assessing the State of Self-Supervised Human Activity Recognition Using Wearables"**. *Haresamudram et al.* IMWUT 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3550299)]
-9. **"CrossHAR: Generalizing Cross-dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining"**. *Hong et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3659597)]
-10. **"Temporal Action Localization for Inertial-based Human Activity Recognition"**. *Bock et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3699770)]
-11. **"Self-supervised learning for human activity recognition using 700,000 person-days of wearable data"**. *Yuan et al.* npj Digital Medicine 2024. [[Paper](https://www.nature.com/articles/s41746-024-01062-3)]
-
-### Federated Learning
-
-1. **"Evaluation of federated learning aggregation algorithms: application to human activity recognition"**. *Ek et al.* UbiComp 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3410530.3414321)]
-2. **"FedDL: Federated Learning via Dynamic Layer Sharing for Human Activity Recognition"**. *Tu et al.* SenSys 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3485730.3485946)]
-3. **"ClusterFL: a similarity-aware federated learning system for human activity recognition"**. *Ouyang et al.* MobiSys 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3458864.3467681)]
-4. **"FLAME: Federated Learning across Multi-device Environments"**. *Cho et al.* IMWUT 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3550289)]
-5. **"Practically Adopting Human Activity Recognition"**. *Xu et al.* MobiCom 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3570361.3613299)]
-6. **"Hierarchical Clustering-based Personalized Federated Learning for Robust and Fair Human Activity Recognition"**. *Li et al.* IMWUT 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3580795)]
-
-### Active Learning
-
-1. **"NuActiv: recognizing unseen new activities using semantic attribute-based learning"**. *Cheng et al.* MobiSys 2013. [[Paper](https://dl.acm.org/doi/abs/10.1145/2462456.2464438)]
-2. **"DeActive: Scaling Activity Recognition with Active Deep Learning"**. *Hossain et al.* IMWUT 2018. [[Paper](https://dl.acm.org/doi/abs/10.1145/3214269)]
-3. **"Leveraging Active Learning and Conditional Mutual Information to Minimize Data Annotation in Human Activity Recognition"**. *Adaimi et al.* IMWUT 2019. [[Paper](https://dl.acm.org/doi/abs/10.1145/3351228)]
+1. **"Augmentation Robust Self-Supervised Learning for Human Activity Recognition"**. *Xu et al.* ICASSP 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10096151)]
+2. **"CrossHAR: Generalizing Cross-dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining"**. *Hong et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3659597)]
 
 ### LLM-based Learning
 
@@ -223,8 +264,9 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 3. **"IMUGPT 2.0: Language-Based Cross Modality Transfer for Sensor-Based Human Activity Recognition"**. *Leng et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3678545)]
 4. **"HARGPT: Are LLMs Zero-Shot Human Activity Recognizers?"**. *Ji et al.* FMSys 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10590466)]
 5. **"UbiPhysio: Support Daily Functioning, Fitness, and Rehabilitation with Action Understanding and Feedback in Natural Language"**. *Wang et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3643552)]
-6. **"LLM4HAR: Generalizable On-device Human Activity Recognition with Pretrained LLMs"**. *Hong et al.* KDD 2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3711896.3737226)]
-
+6. **"SensorLLM: Human-Intuitive Alignment of Multivariate Sensor Data with LLMs for Activity Recognition"**. *Li et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.10624)]
+7. **"LLM4HAR: Generalizable On-device Human Activity Recognition with Pretrained LLMs"**. *Hong et al.* KDD 2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3711896.3737226)]
+8. **"ZARA: Zero-shot Motion Time-Series Analysis via Knowledge and Retrieval Driven LLM Agents"**. *Li et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2508.04038)]
 
 ## Data-Centric Methodology
 
@@ -244,7 +286,6 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 12. **"HabitSense: A Privacy-Aware, AI-Enhanced Multimodal Wearable Platform for mHealth Applications"**. *Fernandes et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3678591)]
 13. **"iMove: Exploring Bio-Impedance Sensing for Fitness Activity Recognition"**. *Liu et al.* PerCom 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10494489)]
 
-
 ### Cross-Modal Learning
 
 1. **"Vision2Sensor: Knowledge Transfer Across Sensing Modalities for Human Activity Recognition"**. *Radu et al.* IMWUT 2019. [[Paper](https://dl.acm.org/doi/abs/10.1145/3351242)]
@@ -253,20 +294,25 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 4. **"IMU2Doppler: Cross-Modal Domain Adaptation for Doppler-based Activity Recognition Using IMU Data"**. *Bhalla et al.* IMWUT 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3494994)]
 5. **"Approaching the Real-World: Supporting Activity Recognition Training with Virtual IMU Data"**. *Kwon et al.* IMWUT 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3478096)]
 6. **"DeXAR: Deep Explainable Sensor-Based Activity Recognition in Smart-Home Environments"**. *Arrotta et al.* IMWUT 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3517224)]
-7. **"IMU2CLIP: Language-grounded Motion Sensor Translation with Multimodal Contrastive Learning"**. *Moon et al.* EMNLP 2023. [[Paper](https://aclanthology.org/2023.findings-emnlp.883/)]
-8. **"VAX: Using Existing Video and Audio-based Activity Recognition Models to Bootstrap Privacy-Sensitive Sensors"**. *Patidar et al.* IMWUT 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3610907)]
-9. **"X-CHAR: A Concept-based Explainable Complex Human Activity Recognition Model"**. *Jeyakumar et al.* IMWUT 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3580804)]
-10. **"Generating Virtual On-body Accelerometer Data from Virtual Textual Descriptions for Human Activity Recognition"**. *Leng et al.* ISWC 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3594738.3611361)]
-11. **"Synthetic Smartwatch IMU Data Generation from In-the-wild ASL Videos"**. *Santhalingam et al.* IMWUT 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3596261)]
-12. **"FOCAL: Contrastive Learning for Multimodal Time-Series Sensing Signals in Factorized Orthogonal Latent Space"**. *Liu et al.* NeurIPS 2023. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/93e98ddf39a9beb0a97fbbe56a986c80-Abstract-Conference.html)]
-13. **"Sensor2Text: Enabling Natural Language Interactions for Daily Activity Tracking Using Wearable Sensors"**. *Chen et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3699747)]
-14. **"IMUGPT 2.0: Language-Based Cross Modality Transfer for Sensor-Based Human Activity Recognition"**. *Leng et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3678545)]
-15. **"HARGPT: Are LLMs Zero-Shot Human Activity Recognizers?"**. *Ji et al.* FMSys 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10590466)]
-16. **"UbiPhysio: Support Daily Functioning, Fitness, and Rehabilitation with Action Understanding and Feedback in Natural Language"**. *Wang et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3643552)]
-17. **"GOAT: A Generalized Cross-Dataset Activity Recognition Framework with Natural Language Supervision"**. *Miao et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3699736)]
-18. **"TS2ACT: Few-Shot Human Activity Sensing with Cross-Modal Co-Learning"**. *Xia et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3631445)]
-19. **"PRIMUS: Pretraining IMU Encoders with Multimodal and Self-Supervised Learning"**. *Das et al.* NeurIPS 2024. [[Paper](https://neurips.cc/virtual/2024/103052)]
-20. **"SensorLM: Learning the Language of Wearable Sensors"**. *Zhang et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.09108)]
+7. **"COCOA: Cross Modality Contrastive Learning for Sensor Data"**. *Deldari et al.* IMWUT 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3550316)]
+8. **"IMU2CLIP: Language-grounded Motion Sensor Translation with Multimodal Contrastive Learning"**. *Moon et al.* EMNLP 2023. [[Paper](https://aclanthology.org/2023.findings-emnlp.883/)]
+9. **"VAX: Using Existing Video and Audio-based Activity Recognition Models to Bootstrap Privacy-Sensitive Sensors"**. *Patidar et al.* IMWUT 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3610907)]
+10. **"X-CHAR: A Concept-based Explainable Complex Human Activity Recognition Model"**. *Jeyakumar et al.* IMWUT 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3580804)]
+11. **"Generating Virtual On-body Accelerometer Data from Virtual Textual Descriptions for Human Activity Recognition"**. *Leng et al.* ISWC 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3594738.3611361)]
+12. **"Synthetic Smartwatch IMU Data Generation from In-the-wild ASL Videos"**. *Santhalingam et al.* IMWUT 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3596261)]
+13. **"FOCAL: Contrastive Learning for Multimodal Time-Series Sensing Signals in Factorized Orthogonal Latent Space"**. *Liu et al.* NeurIPS 2023. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/93e98ddf39a9beb0a97fbbe56a986c80-Abstract-Conference.html)]
+14. **"Sensor2Text: Enabling Natural Language Interactions for Daily Activity Tracking Using Wearable Sensors"**. *Chen et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3699747)]
+15. **"IMUGPT 2.0: Language-Based Cross Modality Transfer for Sensor-Based Human Activity Recognition"**. *Leng et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3678545)]
+16. **"HARGPT: Are LLMs Zero-Shot Human Activity Recognizers?"**. *Ji et al.* FMSys 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10590466)]
+17. **"UbiPhysio: Support Daily Functioning, Fitness, and Rehabilitation with Action Understanding and Feedback in Natural Language"**. *Wang et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3643552)]
+18. **"GOAT: A Generalized Cross-Dataset Activity Recognition Framework with Natural Language Supervision"**. *Miao et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3699736)]
+19. **"TS2ACT: Few-Shot Human Activity Sensing with Cross-Modal Co-Learning"**. *Xia et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3631445)]
+20. **"PRIMUS: Pretraining IMU Encoders with Multimodal and Self-Supervised Learning"**. *Das et al.* NeurIPS 2024. [[Paper](https://neurips.cc/virtual/2024/103052)]
+21. **"SensorLLM: Human-Intuitive Alignment of Multivariate Sensor Data with LLMs for Activity Recognition"**. *Li et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.10624)]
+22. **"CroSSL: Cross-modal Self-Supervised Learning for Time-series through Latent Masking"**. *Deldari et al.* WSDM 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3616855.3635795)]
+23. **"SensorLM: Learning the Language of Wearable Sensors"**. *Zhang et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.09108)]
+24. **"COMODO: Cross-Modal Video-to-IMU Distillation for Efficient Egocentric Human Activity Recognition"**. *Chen et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2503.07259)]
+25. **"ZARA: Zero-shot Motion Time-Series Analysis via Knowledge and Retrieval Driven LLM Agents"**. *Li et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2508.04038)]
 
 ### Data Augmentation
 
