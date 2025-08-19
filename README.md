@@ -2,7 +2,9 @@
 
 >A collection of datasets, papers, and other resources for IMU-based human activity recognition (HAR).
 
->The organization of this repository refers to our survey [Towards Generalizable Human Activity Recognition: A Survey](https://arxiv.org/abs/2508.12213).
+>The organization of this repository refers to our paper [Towards Generalizable Human Activity Recognition: A Survey](https://arxiv.org/abs/2508.12213).
+
+>If you find this repository useful, please [cite our paper](#citation).
 
 >For more related information, feel free to check out our [website](http://www.zhiqinghong.one/).
 
@@ -396,8 +398,6 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 4. **"Learning Bipedal Locomotion on Gear-Driven Humanoid Robot Using Foot-Mounted IMUs"**. *Katayama et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2504.00614)]
 
 ## Citation
-
-If you find this useful, please cite our paper: "Towards Generalizable Human Activity Recognition: A Survey"
 
 ```
 @misc{cai2025generalizablehumanactivityrecognition,
