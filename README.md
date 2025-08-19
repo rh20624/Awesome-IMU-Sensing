@@ -1,10 +1,10 @@
-# Awesome-IMU-Sensing
+# Towards Generalizable Human Activity Recognition: A Survey
 
-A collection of datasets, papers, and other resources for IMU-based human activity recognition (HAR).
+>A collection of datasets, papers, and other resources for IMU-based human activity recognition (HAR).
 
-The organization of this repository refers to our survey **"Towards Generalizable Human Activity Recognition: A Survey"**.
+>The organization of this repository refers to our survey [Towards Generalizable Human Activity Recognition: A Survey](https://arxiv.org/abs/2508.12213).
 
-For more related information, feel free to check out our website [http://www.zhiqinghong.one/](http://www.zhiqinghong.one/).
+>For more related information, feel free to check out our [website](http://www.zhiqinghong.one/).
 
 ## The Trends of IMU-based HAR
 
@@ -63,6 +63,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
     - [Human-Robot Interaction](#human-robot-interaction)
     - [AR and VR Interaction](#ar-and-vr-interaction)
     - [Embodied Agents](#embodied-agents)
+- [Citation](#citation)
 
 ## Generalization-Oriented Training Settings
 
@@ -358,13 +359,13 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 4. **"A Multi-Sensor Approach to Automatically Recognize Breaks and Work Activities of Knowledge Workers in Academia"**. *Lascio et al.* IMWUT 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3411821)]
 5. **"Acceleration-based Activity Recognition of Repetitive Works with Lightweight Ordered-work Segmentation Network"**. *Yoshimura et al.* IMWUT 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3534572)]
 
-### Smart Home & Assisted Living
+### Smart Home and Assisted Living
 
 1. **"ThumbUp: Secure Smartwatch Controller for Smart Homes Using Simple Hand Gestures"**. *Yu et al.* TMC 2022. [[Paper](https://ieeexplore.ieee.org/abstract/document/9928390)]
 2. **"Bootstrapping Human Activity Recognition Systems for Smart Homes from Scratch"**. *Hiremath et al.* IMWUT 2022. [[Paper](https://dl.acm.org/doi/10.1145/3550294)]
 3. **"Fine-Grained and Real-Time Gesture Recognition by Using IMU Sensors"**. *Zhang et al.* TMC 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/9628113)]
 
-### Transportation & Mobility
+### Transportation and Mobility
 
 1. **"Benchmarking the SHL Recognition Challenge with Classical and Deep-Learning Pipelines"**. *Wang et al.* UbiComp 2018 [[Paper](https://dl.acm.org/doi/abs/10.1145/3267305.3267531)]
 2. **"Enhancing Transportation Mode Detection using Multi-scale Sensor Fusion and Spatial-topological Attention"**. *Chen et al.* UbiComp/ISWC 2023 Adjunct. [[Paper](https://dl.acm.org/doi/abs/10.1145/3594739.3610751)]
@@ -377,21 +378,37 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 2. **"Proximity Human-Robot Interaction Using Pointing Gestures and a Wrist-mounted IMU"**. *Gromov et al.* ICRA 2019. [[Paper](https://ieeexplore.ieee.org/abstract/document/8794399)]
 3. **"A Distributed Multi-Modal Sensing Approach for Human Activity Recognition in Real-Time Human-Robot Collaboration"**. *Belcamino et al.* RA-L 2025 [[Paper](https://ieeexplore.ieee.org/abstract/document/11091374)]
 
-### AR & VR Interaction
+### AR and VR Interaction
 
 1. **"How You Move Your Head Tells What You Do: Self-supervised Video Representation Learning with Egocentric Cameras and IMU Sensors"**. *Tsutsui et al.* arXiv 2021. [[Paper](https://arxiv.org/abs/2110.01680)]
-1. **"MI-Poser: Human Body Pose Tracking Using Magnetic and Inertial Sensor Fusion with Metal Interference Mitigation"**. *Arakawa et al.* IMWUT 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3610891)]
-1. **"HOOV: Hand Out-Of-View Tracking for Proprioceptive Interaction using Inertial Sensing"**. *Streli et al.* CHI 2023. [[Paper](https://dl.acm.org/doi/full/10.1145/3544548.3581468)]
-1. **"Project Aria: A New Tool for Egocentric Multi-Modal AI Research"**. *Engel et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2308.13561)]
-1. **"MobilePoser: Real-Time Full-Body Pose Estimation and 3D Human Translation from IMUs in Mobile Consumer Devices"**. *Xu et al.* UIST 2024. [[Paper](https://dl.acm.org/doi/10.1145/3654777.3676461)]
-1. **"MotionTrace: IMU-based Field of View Prediction for Smartphone AR Interactions"**. *Islam et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2408.01850)]
-1. **"UWB/IMU-assisted Gesture Recognition Using Learning Approaches for VR/XR Applications"**. *Oh et al.* ICC 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10622800)]
+2. **"MI-Poser: Human Body Pose Tracking Using Magnetic and Inertial Sensor Fusion with Metal Interference Mitigation"**. *Arakawa et al.* IMWUT 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3610891)]
+3. **"HOOV: Hand Out-Of-View Tracking for Proprioceptive Interaction using Inertial Sensing"**. *Streli et al.* CHI 2023. [[Paper](https://dl.acm.org/doi/full/10.1145/3544548.3581468)]
+4. **"Project Aria: A New Tool for Egocentric Multi-Modal AI Research"**. *Engel et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2308.13561)]
+5. **"MobilePoser: Real-Time Full-Body Pose Estimation and 3D Human Translation from IMUs in Mobile Consumer Devices"**. *Xu et al.* UIST 2024. [[Paper](https://dl.acm.org/doi/10.1145/3654777.3676461)]
+6. **"MotionTrace: IMU-based Field of View Prediction for Smartphone AR Interactions"**. *Islam et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2408.01850)]
+7. **"UWB/IMU-assisted Gesture Recognition Using Learning Approaches for VR/XR Applications"**. *Oh et al.* ICC 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10622800)]
 
 ### Embodied Agents 
 
 1. **"Multi-IMU Proprioceptive Odometry for Legged Robots"**. *Yang et al.* IROS 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10342061)]
-1. **"GPS-IMU Sensor Fusion for Reliable Autonomous Vehicle Position Estimation"**. *Alaba et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2405.08119)]
-1. **"HandCept: A Visual-Inertial Fusion Framework for Accurate Proprioception in Dexterous Hands"**. *Huang et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2505.08213)]
-1. **"Learning Bipedal Locomotion on Gear-Driven Humanoid Robot Using Foot-Mounted IMUs"**. *Katayama et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2504.00614)]
+2. **"GPS-IMU Sensor Fusion for Reliable Autonomous Vehicle Position Estimation"**. *Alaba et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2405.08119)]
+3. **"HandCept: A Visual-Inertial Fusion Framework for Accurate Proprioception in Dexterous Hands"**. *Huang et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2505.08213)]
+4. **"Learning Bipedal Locomotion on Gear-Driven Humanoid Robot Using Foot-Mounted IMUs"**. *Katayama et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2504.00614)]
+
+## Citation
+
+If you find this useful, please cite our paper: "Towards Generalizable Human Activity Recognition: A Survey"
+
+```
+@misc{cai2025generalizablehumanactivityrecognition,
+      title={Towards Generalizable Human Activity Recognition: A Survey}, 
+      author={Yize Cai and Baoshen Guo and Flora Salim and Zhiqing Hong},
+      year={2025},
+      eprint={2508.12213},
+      archivePrefix={arXiv},
+      primaryClass={eess.SP},
+      url={https://arxiv.org/abs/2508.12213}, 
+}
+```
 
 
