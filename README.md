@@ -1,10 +1,8 @@
 # Towards Generalizable Human Activity Recognition: A Survey
 
->A collection of datasets, papers, and other resources for IMU-based human activity recognition (HAR).
+>The organization of this repository refers to our paper [Towards Generalizable Human Activity Recognition: A Survey](https://arxiv.org/abs/2508.12213). We have summarized extensive datasets, papers, and other resources for IMU-based human activity recognition (HAR). 
 
->The organization of this repository refers to our paper [Towards Generalizable Human Activity Recognition: A Survey](https://arxiv.org/abs/2508.12213).
-
->If you find this repository useful, please [cite our paper](#citation).
+>If you find this repository useful, please feel free to [cite our paper](#citation).
 
 >For more related information, feel free to check out our [website](http://www.zhiqinghong.one/).
 
