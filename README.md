@@ -4,8 +4,6 @@
 
 >If you find this repository useful, please feel free to [cite our paper](#citation).
 
->For more related information, feel free to check out our [website](http://www.zhiqinghong.one/).
-
 ## The Trends of IMU-based HAR
 
 Here are the growth trends of cumulative publications per year (source: Google Scholar).
