@@ -48,9 +48,15 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
         - [Contrastive Learning](#contrastive-learning)
         - [Hybrid Approaches](#hybrid-approaches)
     - [LLM-based Learning](#llm-based-learning)
+        - [LLM-Assisted Enhancer](#llm-assisted-enhancer)
+        - [LLM-Centered Classifier](#llm-centered-classifier)
+        - [LLM-Empowered Agent](#llm-empowered-agent)
+        - [Extending LLM to Wearable Foundation Model](#extending-llm-to-wearable-foundation-model)
 - [Data-Centric Methodology](#data-centric-methodology)
     - [Multi-Modal Fusion](#multi-modal-fusion)
     - [Cross-Modal Learning](#cross-modal-learning)
+        - [Cross-Modal Conversion](#cross-modal-conversion)
+        - [Cross-Modal Contrastive](#cross-modal-contrastive)
     - [Data Augmentation](#data-augmentation)
 - [Applications](#applications)
     - [Healthcare and Rehabilitation](#healthcare-and-rehabilitation)
@@ -258,14 +264,27 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 
 ### LLM-based Learning
 
+#### LLM-Assisted Enhancer
+
 1. **"Generating Virtual On-body Accelerometer Data from Virtual Textual Descriptions for Human Activity Recognition"**. *Leng et al.* ISWC 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3594738.3611361)]
 2. **"Sensor2Text: Enabling Natural Language Interactions for Daily Activity Tracking Using Wearable Sensors"**. *Chen et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3699747)]
 3. **"IMUGPT 2.0: Language-Based Cross Modality Transfer for Sensor-Based Human Activity Recognition"**. *Leng et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3678545)]
-4. **"HARGPT: Are LLMs Zero-Shot Human Activity Recognizers?"**. *Ji et al.* FMSys 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10590466)]
-5. **"UbiPhysio: Support Daily Functioning, Fitness, and Rehabilitation with Action Understanding and Feedback in Natural Language"**. *Wang et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3643552)]
-6. **"SensorLLM: Human-Intuitive Alignment of Multivariate Sensor Data with LLMs for Activity Recognition"**. *Li et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.10624)]
-7. **"LLM4HAR: Generalizable On-device Human Activity Recognition with Pretrained LLMs"**. *Hong et al.* KDD 2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3711896.3737226)]
-8. **"ZARA: Zero-shot Motion Time-Series Analysis via Knowledge and Retrieval Driven LLM Agents"**. *Li et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2508.04038)]
+
+#### LLM-Centered Classifier
+
+1. **"UbiPhysio: Support Daily Functioning, Fitness, and Rehabilitation with Action Understanding and Feedback in Natural Language"**. *Wang et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3643552)]
+2. **"HARGPT: Are LLMs Zero-Shot Human Activity Recognizers?"**. *Ji et al.* FMSys 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10590466)]
+3. **"SensorLLM: Human-Intuitive Alignment of Multivariate Sensor Data with LLMs for Activity Recognition"**. *Li et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.10624)]
+4. **"LLM4HAR: Generalizable On-device Human Activity Recognition with Pretrained LLMs"**. *Hong et al.* KDD 2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3711896.3737226)]
+5. **"A personal health large language model for sleep and fitness coaching"**. *Khasentino et al.* Nature Medicine 2025. [[Paper](https://www.nature.com/articles/s41591-025-03888-0)]
+
+#### LLM-Empowered Agent
+
+1. **"ZARA: Zero-shot Motion Time-Series Analysis via Knowledge and Retrieval Driven LLM Agents"**. *Li et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2508.04038)]
+
+#### Extending LLM to Wearable Foundation Model
+
+1. **"SensorLM: Learning the Language of Wearable Sensors"**. *Zhang et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.09108)]
 
 ## Data-Centric Methodology
 
@@ -287,31 +306,38 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 
 ### Cross-Modal Learning
 
+#### Cross-Modal Conversion
+
 1. **"Vision2Sensor: Knowledge Transfer Across Sensing Modalities for Human Activity Recognition"**. *Radu et al.* IMWUT 2019. [[Paper](https://dl.acm.org/doi/abs/10.1145/3351242)]
 2. **"IMUTube: Automatic Extraction of Virtual on-body Accelerometry from Video for Human Activity Recognition"**. *Kwon et al.* IMWUT 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3411841)]
-3. **"Zero-Shot Learning for IMU-Based Activity Recognition Using Video Embeddings"**. *Tong et al.* IMWUT 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3494995)]
-4. **"IMU2Doppler: Cross-Modal Domain Adaptation for Doppler-based Activity Recognition Using IMU Data"**. *Bhalla et al.* IMWUT 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3494994)]
-5. **"Approaching the Real-World: Supporting Activity Recognition Training with Virtual IMU Data"**. *Kwon et al.* IMWUT 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3478096)]
-6. **"DeXAR: Deep Explainable Sensor-Based Activity Recognition in Smart-Home Environments"**. *Arrotta et al.* IMWUT 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3517224)]
-7. **"COCOA: Cross Modality Contrastive Learning for Sensor Data"**. *Deldari et al.* IMWUT 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3550316)]
-8. **"IMU2CLIP: Language-grounded Motion Sensor Translation with Multimodal Contrastive Learning"**. *Moon et al.* EMNLP 2023. [[Paper](https://aclanthology.org/2023.findings-emnlp.883/)]
-9. **"VAX: Using Existing Video and Audio-based Activity Recognition Models to Bootstrap Privacy-Sensitive Sensors"**. *Patidar et al.* IMWUT 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3610907)]
-10. **"X-CHAR: A Concept-based Explainable Complex Human Activity Recognition Model"**. *Jeyakumar et al.* IMWUT 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3580804)]
-11. **"Generating Virtual On-body Accelerometer Data from Virtual Textual Descriptions for Human Activity Recognition"**. *Leng et al.* ISWC 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3594738.3611361)]
-12. **"Synthetic Smartwatch IMU Data Generation from In-the-wild ASL Videos"**. *Santhalingam et al.* IMWUT 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3596261)]
-13. **"FOCAL: Contrastive Learning for Multimodal Time-Series Sensing Signals in Factorized Orthogonal Latent Space"**. *Liu et al.* NeurIPS 2023. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/93e98ddf39a9beb0a97fbbe56a986c80-Abstract-Conference.html)]
-14. **"Sensor2Text: Enabling Natural Language Interactions for Daily Activity Tracking Using Wearable Sensors"**. *Chen et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3699747)]
-15. **"IMUGPT 2.0: Language-Based Cross Modality Transfer for Sensor-Based Human Activity Recognition"**. *Leng et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3678545)]
-16. **"HARGPT: Are LLMs Zero-Shot Human Activity Recognizers?"**. *Ji et al.* FMSys 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10590466)]
-17. **"UbiPhysio: Support Daily Functioning, Fitness, and Rehabilitation with Action Understanding and Feedback in Natural Language"**. *Wang et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3643552)]
-18. **"GOAT: A Generalized Cross-Dataset Activity Recognition Framework with Natural Language Supervision"**. *Miao et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3699736)]
-19. **"TS2ACT: Few-Shot Human Activity Sensing with Cross-Modal Co-Learning"**. *Xia et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3631445)]
-20. **"PRIMUS: Pretraining IMU Encoders with Multimodal and Self-Supervised Learning"**. *Das et al.* NeurIPS 2024. [[Paper](https://neurips.cc/virtual/2024/103052)]
-21. **"SensorLLM: Human-Intuitive Alignment of Multivariate Sensor Data with LLMs for Activity Recognition"**. *Li et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.10624)]
-22. **"CroSSL: Cross-modal Self-Supervised Learning for Time-series through Latent Masking"**. *Deldari et al.* WSDM 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3616855.3635795)]
-23. **"SensorLM: Learning the Language of Wearable Sensors"**. *Zhang et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.09108)]
-24. **"COMODO: Cross-Modal Video-to-IMU Distillation for Efficient Egocentric Human Activity Recognition"**. *Chen et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2503.07259)]
-25. **"ZARA: Zero-shot Motion Time-Series Analysis via Knowledge and Retrieval Driven LLM Agents"**. *Li et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2508.04038)]
+3. **"IMU2Doppler: Cross-Modal Domain Adaptation for Doppler-based Activity Recognition Using IMU Data"**. *Bhalla et al.* IMWUT 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3494994)]
+4. **"Approaching the Real-World: Supporting Activity Recognition Training with Virtual IMU Data"**. *Kwon et al.* IMWUT 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3478096)]
+5. **"DeXAR: Deep Explainable Sensor-Based Activity Recognition in Smart-Home Environments"**. *Arrotta et al.* IMWUT 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3517224)]
+6. **"X-CHAR: A Concept-based Explainable Complex Human Activity Recognition Model"**. *Jeyakumar et al.* IMWUT 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3580804)]
+7. **"Generating Virtual On-body Accelerometer Data from Virtual Textual Descriptions for Human Activity Recognition"**. *Leng et al.* ISWC 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3594738.3611361)]
+8. **"Synthetic Smartwatch IMU Data Generation from In-the-wild ASL Videos"**. *Santhalingam et al.* IMWUT 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3596261)]
+9. **"Sensor2Text: Enabling Natural Language Interactions for Daily Activity Tracking Using Wearable Sensors"**. *Chen et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3699747)]
+10. **"IMUGPT 2.0: Language-Based Cross Modality Transfer for Sensor-Based Human Activity Recognition"**. *Leng et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3678545)]
+11. **"HARGPT: Are LLMs Zero-Shot Human Activity Recognizers?"**. *Ji et al.* FMSys 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10590466)]
+12. **"UbiPhysio: Support Daily Functioning, Fitness, and Rehabilitation with Action Understanding and Feedback in Natural Language"**. *Wang et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3643552)]
+13. **"A personal health large language model for sleep and fitness coaching"**. *Khasentino et al.* Nature Medicine 2025. [[Paper](https://www.nature.com/articles/s41591-025-03888-0)]
+14. **"ZARA: Zero-shot Motion Time-Series Analysis via Knowledge and Retrieval Driven LLM Agents"**. *Li et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2508.04038)]
+
+#### Cross-Modal Contrastive
+
+1. **"Zero-Shot Learning for IMU-Based Activity Recognition Using Video Embeddings"**. *Tong et al.* IMWUT 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3494995)]
+2. **"COCOA: Cross Modality Contrastive Learning for Sensor Data"**. *Deldari et al.* IMWUT 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3550316)]
+3. **"IMU2CLIP: Language-grounded Motion Sensor Translation with Multimodal Contrastive Learning"**. *Moon et al.* EMNLP 2023. [[Paper](https://aclanthology.org/2023.findings-emnlp.883/)]
+4. **"VAX: Using Existing Video and Audio-based Activity Recognition Models to Bootstrap Privacy-Sensitive Sensors"**. *Patidar et al.* IMWUT 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3610907)]
+5. **"FOCAL: Contrastive Learning for Multimodal Time-Series Sensing Signals in Factorized Orthogonal Latent Space"**. *Liu et al.* NeurIPS 2023. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/93e98ddf39a9beb0a97fbbe56a986c80-Abstract-Conference.html)]
+6. **"GOAT: A Generalized Cross-Dataset Activity Recognition Framework with Natural Language Supervision"**. *Miao et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3699736)]
+7. **"TS2ACT: Few-Shot Human Activity Sensing with Cross-Modal Co-Learning"**. *Xia et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3631445)]
+8. **"PRIMUS: Pretraining IMU Encoders with Multimodal and Self-Supervised Learning"**. *Das et al.* NeurIPS 2024. [[Paper](https://neurips.cc/virtual/2024/103052)]
+9. **"SensorLLM: Human-Intuitive Alignment of Multivariate Sensor Data with LLMs for Activity Recognition"**. *Li et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.10624)]
+10. **"CroSSL: Cross-modal Self-Supervised Learning for Time-series through Latent Masking"**. *Deldari et al.* WSDM 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3616855.3635795)]
+11. **"SensorLM: Learning the Language of Wearable Sensors"**. *Zhang et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.09108)]
+12. **"COMODO: Cross-Modal Video-to-IMU Distillation for Efficient Egocentric Human Activity Recognition"**. *Chen et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2503.07259)]
+13. **"LLM4HAR: Generalizable On-device Human Activity Recognition with Pretrained LLMs"**. *Hong et al.* KDD 2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3711896.3737226)]
 
 ### Data Augmentation
 
