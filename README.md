@@ -422,14 +422,11 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 ## Citation
 
 ```
-@misc{cai2025generalizablehumanactivityrecognition,
-      title={Towards Generalizable Human Activity Recognition: A Survey}, 
-      author={Yize Cai and Baoshen Guo and Flora Salim and Zhiqing Hong},
-      year={2025},
-      eprint={2508.12213},
-      archivePrefix={arXiv},
-      primaryClass={eess.SP},
-      url={https://arxiv.org/abs/2508.12213}, 
+@article{cai2025towards,
+  title={Towards Generalizable Human Activity Recognition: A Survey},
+  author={Cai, Yize and Guo, Baoshen and Salim, Flora and Hong, Zhiqing},
+  journal={arXiv preprint arXiv:2508.12213},
+  year={2025}
 }
 ```
 
