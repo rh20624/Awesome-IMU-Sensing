@@ -164,7 +164,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 
 | Library | Supporting datasets |
 | --- | --- |
-| [WHAR]([https://mariusbock.github.io/wear/](https://github.com/teco-kit/whar-datasets)) | SHL Challenge, RealLifeHar, ExtraSensory, RealWorld, UTD-MHAD, USC-HAD, HuGaDB, w-HAR, HAPT, WISDM-19 |
+| [WHAR](https://github.com/teco-kit/whar-datasets) | SHL Challenge, RealLifeHar, ExtraSensory, RealWorld, UTD-MHAD, USC-HAD, HuGaDB, w-HAR, HAPT, WISDM-19 |
 
 ### Tools and Benchmarks
 
