@@ -128,36 +128,36 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 
 | Dataset | Subjects | Sensors | Activities | datasize | Year |
 | --- | --- | --- | --- | --- | --- |
-| CAPTURE-24 | 151 | acc | 200 unique labels | 3883 h | 2024 |
-| TNDA-HAR | 23 | acc, gyro | 8 daily activities | 5.7 h | 2021 |
-| HAR70+ | 18 | acc | 8 daily activities | 12.6 h | 2020 |
-| WISDM | 51 | acc, gyro | 18 daily activities | 91.8 h | 2019 |
-| MotionSense | 24 | acc, gyro | 6 daily activities | - | 2019 
-|SHL Challenge | 3 | acc, gyro, mag | 8 transportation modes | 2812 h | 2018 | 
-| MobiAct | 57 | acc, gyro | 9 daily activities and 4 falls | - | 2016 |  
-| Shoaib | 10 | acc, gyro, mag | 13 daily activities | 6.5 h | 2016 |  
-| HHAR | 9 | acc, gyro | 6 daily activities | - | 2015 |  
-| WHARF | 16 | acc | 8 motion primitives | - | 2013 |  
-| DSADS | 8 | acc, gyro, mag | 19 daily, sports activities | 12.7 h | 2013 | 
-| UCI-HAR | 30 | acc, gyro | 6 daily activities | - | 2012 | 
-| USC-HAD | 14 | acc, gyro, mag | 12 daily activities | - | 2012  
-| Daphnet FoG | 10 | acc | 3 walking activities | 8.3 h | 2009 | 
-| Skoda Mini  Checkpoint | 1 | acc, 3D acc sensor | 10 assembly-line activities | - | 2008 |
+| [CAPTURE-24](https://www.nature.com/articles/s41597-024-03960-3) | 151 | acc | 200 unique labels | 3883 h | 2024 |
+| [TNDA-HAR](https://ieee-dataport.org/open-access/tnda-har-0) | 23 | acc, gyro | 8 daily activities | 5.7 h | 2021 |
+| [HAR70+](https://archive.ics.uci.edu/dataset/780/har70) | 18 | acc | 8 daily activities | 12.6 h | 2020 |
+| [WISDM](https://archive.ics.uci.edu/dataset/507/wisdm+smartphone+and+smartwatch+activity+and+biometrics+dataset) | 51 | acc, gyro | 18 daily activities | 91.8 h | 2019 |
+| [MotionSense](https://github.com/mmalekzadeh/motion-sense)| 24 | acc, gyro | 6 daily activities | - | 2019 
+| [SHL Challenge](http://www.shl-dataset.org/challenges/) | 3 | acc, gyro, mag | 8 transportation modes | 2812 h | 2018 | 
+| [MobiAct](https://bmi.hmu.gr/the-mobifall-and-mobiact-datasets-2/) | 57 | acc, gyro | 9 daily activities and 4 falls | - | 2016 |  
+| [Shoaib](https://www.utwente.nl/en/eemcs/ps/research/dataset/) | 10 | acc, gyro, mag | 13 daily activities | 6.5 h | 2016 |  
+| [HHAR](https://archive.ics.uci.edu/dataset/344/heterogeneity+activity+recognition) | 9 | acc, gyro | 6 daily activities | - | 2015 |  
+| [WHARF](https://github.com/fulviomas/WHARF) | 16 | acc | 8 motion primitives | - | 2013 |  
+| [DSADS](https://archive.ics.uci.edu/dataset/256/daily+and+sports+activities) | 8 | acc, gyro, mag | 19 daily, sports activities | 12.7 h | 2013 | 
+| [UCI-HAR](https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones) | 30 | acc, gyro | 6 daily activities | - | 2012 | 
+| [USC-HAD](https://sipi.usc.edu/had/) | 14 | acc, gyro, mag | 12 daily activities | - | 2012  
+| [Daphnet FoG](https://archive.ics.uci.edu/dataset/245/daphnet+freezing+of+gait) | 10 | acc | 3 walking activities | 8.3 h | 2009 | 
+| [Skoda Mini Checkpoint](http://har-dataset.org/lib/exe/fetch.php?media=wiki:dataset:skodaminicp:skodaminicp_2015_08.zip) | 1 | acc, 3D acc sensor | 10 assembly-line activities | - | 2008 |
 
 ### Multimodal Dataset
 
 | Dataset | Subjects | Sensors | Activities | datasize | Year |
 | --- | --- | --- | --- | --- | --- |
-| WEAR | 22 | acc, video | 18 sports activities | 19 h | 2024 |
-| HARTH | 22 | acc, video | 12 daily activities | 35.9 h | 2021 |
-| w-HAR | 22 | acc, gyro, stretch sensor | 7 daily activities | 3 h | 2020 | 
-| MMAct | 40 | RGB-video, keypoints, acc,  gyro, ori, Wi-Fi, pressure | 37 daily, abnormal, desk work activities | - | 2019 |  
-| RealWorld HAR | 15 | acc, gyro, mag, GPS, light,  sound level | 8 daily activities | 124.3h | 2016 | 
-| UTD-MHAD | 8 | RGB video, depth video, skeleton positions, acc, gyro | 27 daily, sports activities,  gestures | - | 2015 |  
-| MHEALTH | 10 | acc, gyro, mag, ECG | 12 daily activities | - | 2014 |  
-| Berkeley MHAD | 12 | acc, optical capture system, video, depth sensor, audio | 11 daily activities | 1.37 h | 2013 | 
-| PAMAP2 | 9 | acc, gyro, mag, heart rate | 18 daily activities | 10 h | 2012 | 
-| Opportunity | 4 | acc, gyro, mag, ambient sensors | 9 kitchen activities, 9 gestures | 25 h | 2011 |
+| [WEAR](https://mariusbock.github.io/wear/) | 22 | acc, video | 18 sports activities | 19 h | 2024 |
+| [HARTH](https://archive.ics.uci.edu/dataset/779/harth) | 22 | acc, video | 12 daily activities | 35.9 h | 2021 |
+| [w-HAR](https://github.com/gmbhat/human-activity-recognition) | 22 | acc, gyro, stretch sensor | 7 daily activities | 3 h | 2020 | 
+| [MMAct](https://mmact19.github.io/2019/) | 40 | RGB-video, keypoints, acc,  gyro, ori, Wi-Fi, pressure | 37 daily, abnormal, desk work activities | - | 2019 |  
+| [RealWorld HAR](https://www.uni-mannheim.de/dws/research/projects/activity-recognition/dataset/dataset-realworld/) | 15 | acc, gyro, mag, GPS, light,  sound level | 8 daily activities | 124.3h | 2016 | 
+| [UTD-MHAD](https://personal.utdallas.edu/~kehtar/UTD-MHAD.html) | 8 | RGB video, depth video, skeleton positions, acc, gyro | 27 daily, sports activities,  gestures | - | 2015 |  
+| [MHEALTH](https://archive.ics.uci.edu/dataset/319/mhealth+dataset) | 10 | acc, gyro, mag, ECG | 12 daily activities | - | 2014 |  
+| [Berkeley MHAD](https://ieeexplore.ieee.org/document/6474999) | 12 | acc, optical capture system, video, depth sensor, audio | 11 daily activities | 1.37 h | 2013 | 
+| [PAMAP2](https://archive.ics.uci.edu/dataset/231/pamap2+physical+activity+monitoring) | 9 | acc, gyro, mag, heart rate | 18 daily activities | 10 h | 2012 | 
+| [Opportunity](https://archive.ics.uci.edu/dataset/226/opportunity+activity+recognition) | 4 | acc, gyro, mag, ambient sensors | 9 kitchen activities, 9 gestures | 25 h | 2011 |
 
 ### Tools and Benchmarks
 
