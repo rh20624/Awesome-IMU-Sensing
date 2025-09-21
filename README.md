@@ -29,6 +29,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 - [Datasets and Benchmarks](#datasets-and-benchmarks)
     - [IMU-Only Dataset](#imu-only-dataset)
     - [Multimodal Dataset](#multimodal-dataset)
+    - [Dataset Library](#dataset-library)
     - [Tools and Benchmarks](#tools-and-benchmarks)
 - [Model-Centric Methodology](#model-centric-methodology)
     - [Supervised Learning](#supervised-learning)
@@ -175,6 +176,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 6. **"Predicting Performance Improvement of Human Activity Recognition Model by Additional Data Collection"**. *Tanigaki et al.* IMWUT 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3550319)]
 7. **"exHAR: An Interface for Helping Non-Experts Develop and Debug Knowledge-based Human Activity Recognition Systems"**. *Kianpisheh et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3643500)]
 8. **"Past, Present, and Future of Sensor-based Human Activity Recognition Using Wearables: A Surveying Tutorial on a Still Challenging Task"**. *Haresamudram et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3729467)]
+9. **"HARNode: A Time-Synchronised, Open-Source, Multi-Device, Wearable System for Ad Hoc Field Studies"**. *Lepold et al.* arXiv 2025. [[Paper](https://www.arxiv.org/abs/2506.03219)]
 
 ## Model-Centric Methodology
 
