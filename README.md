@@ -159,6 +159,12 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 | [PAMAP2](https://archive.ics.uci.edu/dataset/231/pamap2+physical+activity+monitoring) | 9 | acc, gyro, mag, heart rate | 18 daily activities | 10 h | 2012 | 
 | [Opportunity](https://archive.ics.uci.edu/dataset/226/opportunity+activity+recognition) | 4 | acc, gyro, mag, ambient sensors | 9 kitchen activities, 9 gestures | 25 h | 2011 |
 
+### Dataset Library
+
+| Library | Supporting datasets |
+| --- | --- |
+| [WHAR]([https://mariusbock.github.io/wear/](https://github.com/teco-kit/whar-datasets)) | SHL Challenge, RealLifeHar, ExtraSensory, RealWorld, UTD-MHAD, USC-HAD, HuGaDB, w-HAR, HAPT, WISDM-19 |
+
 ### Tools and Benchmarks
 
 1. **"Progress Estimation and Phase Detection for Sequential Processes"**. *Li et al.* IMWUT 2017. [[Paper](https://dl.acm.org/doi/abs/10.1145/3130936)]
