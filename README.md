@@ -34,6 +34,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 - [Model-Centric Methodology](#model-centric-methodology)
     - [Supervised Learning](#supervised-learning)
         - [Feature Invariance](#feature-invariance)
+        - [Concept Invariance](#concept-invariance)
         - [Multi-Task Learning](#multi-task-learning)
         - [Federated Learning](#federated-learning)
     - [Weakly-Supervised Learning](#weakly-supervised-learning)
