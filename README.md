@@ -33,7 +33,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
     - [Tools and Benchmarks](#tools-and-benchmarks)
 - [Model-Centric Methodology](#model-centric-methodology)
     - [Supervised Learning](#supervised-learning)
-        - [Feature Disentanglement](#feature-disentanglement)
+        - [Feature Invariance](#feature-invariance)
         - [Multi-Task Learning](#multi-task-learning)
         - [Federated Learning](#federated-learning)
     - [Weakly-Supervised Learning](#weakly-supervised-learning)
@@ -182,12 +182,16 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 
 ### Supervised Learning
 
-#### Feature Disentanglement
+#### Feature Invariance
 
 1. **"Adversarial Multi-view Networks for Activity Recognition"**. *Bai et al.* IMWUT 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3397323)]
 2. **"Privacy Adversarial Network: Representation Learning for Mobile Data Privacy"**. *Liu et al.* IMWUT 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3369816)]
 3. **"Learning Disentangled Behaviour Patterns for Wearable-based Human Activity Recognition"**. *Su et al.* IMWUT 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3517252)]
 4. **"Augmented Adversarial Learning for Human Activity Recognition with Partial Sensor Sets"**. *Kang et al.* IMWUT 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3550285)]
+
+#### Concept Invariance
+
+1. **"Generalizable Sensor-Based Activity Recognition via Categorical Concept Invariant Learning"**. *Xiong et al.* AAAI 2025. [[Paper](https://arxiv.org/abs/2412.13594)]
 
 #### Multi-Task Learning
 
