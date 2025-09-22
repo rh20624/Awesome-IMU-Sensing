@@ -91,6 +91,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 7. **"Optimization-Free Test-Time Adaptation for Cross-Person Activity Recognition"**. *Wang et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3631450)]
 8. **"SF-Adapter: Computational-Efficient Source-Free Domain Adaptation for Human Activity Recognition"**. *Kang et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3631428)]
 9. **"Cross-Domain HAR: Few-Shot Transfer Learning for Human Activity Recognition"**. *Thukral et al.* TIST 2025. [[Paper](https://dl.acm.org/doi/full/10.1145/3704921)]
+10. **"Generalizable Sensor-Based Activity Recognition via Categorical Concept Invariant Learning"**. *Xiong et al.* AAAI 2025. [[Paper](https://arxiv.org/abs/2412.13594)]
 
 ### Cross-Device
 
@@ -105,6 +106,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 2. **"A Systematic Study of Unsupervised Domain Adaptation for Robust Human-Activity Recognition"**. *Chang et al.* IMWUT 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3380985)]
 3. **"Semantic-Discriminative Mixup for Generalizable Sensor-based Cross-domain Activity Recognition"**. *Lu et al.* IMWUT 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3534589)]
 4. **"Cross-Domain HAR: Few-Shot Transfer Learning for Human Activity Recognition"**. *Thukral et al.* TIST 2025. [[Paper](https://dl.acm.org/doi/full/10.1145/3704921)]
+5. **"Generalizable Sensor-Based Activity Recognition via Categorical Concept Invariant Learning"**. *Xiong et al.* AAAI 2025. [[Paper](https://arxiv.org/abs/2412.13594)]
 
 ### Cross-Activity
 
@@ -123,6 +125,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 7. **"HAR-DoReMi: Optimizing Data Mixture for Self-Supervised Human Activity Recognition Across Heterogeneous IMU Datasets"**. *Ban et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2503.13542)]
 8. **"LLM4HAR: Generalizable On-device Human Activity Recognition with Pretrained LLMs"**. *Hong et al.* KDD 2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3711896.3737226)]
 9. **"MobHAR: Source-free Knowledge Transfer for Human Activity Recognition on Mobile Devices"**. *Xue et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3712620)]
+10. **"Generalizable Sensor-Based Activity Recognition via Categorical Concept Invariant Learning"**. *Xiong et al.* AAAI 2025. [[Paper](https://arxiv.org/abs/2412.13594)]
 
 ## Datasets and Benchmarks
 
