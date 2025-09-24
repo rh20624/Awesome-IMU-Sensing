@@ -53,7 +53,6 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
         - [LLM-Assisted Enhancer](#llm-assisted-enhancer)
         - [LLM-Centered Classifier](#llm-centered-classifier)
         - [LLM-Empowered Agent](#llm-empowered-agent)
-        - [Extending LLM to Wearable Foundation Model](#extending-llm-to-wearable-foundation-model)
 - [Data-Centric Methodology](#data-centric-methodology)
     - [Multi-Modal Fusion](#multi-modal-fusion)
     - [Cross-Modal Learning](#cross-modal-learning)
@@ -262,6 +261,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 3. **"Spatial-Temporal Masked Autoencoder for Multi-Device Wearable Human Activity Recognition"**. *Miao et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3631415)]
 4. **"Scaling wearable foundation models"**. *Narayanswamy et al.* ICLR 2025. [[Paper](https://arxiv.org/abs/2410.13638)]
 5. **"LSM-2: Learning from Incomplete Wearable Sensor Data"**. *Xu et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.05321)]
+6. **"MoPFormer: Motion-Primitive Transformer for Wearable-Sensor Activity Recognition"**. *Zhang et al.* NeurIPS 2025. [[Paper](https://arxiv.org/abs/2505.20744)]
 
 #### Contrastive Learning
 
@@ -285,6 +285,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 1. **"Generating Virtual On-body Accelerometer Data from Virtual Textual Descriptions for Human Activity Recognition"**. *Leng et al.* ISWC 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3594738.3611361)]
 2. **"Sensor2Text: Enabling Natural Language Interactions for Daily Activity Tracking Using Wearable Sensors"**. *Chen et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3699747)]
 3. **"IMUGPT 2.0: Language-Based Cross Modality Transfer for Sensor-Based Human Activity Recognition"**. *Leng et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3678545)]
+4. **"SensorLM: Learning the Language of Wearable Sensors"**. *Zhang et al.* NeurIPS 2025. [[Paper](https://neurips.cc/virtual/2025/poster/117808)]
 
 #### LLM-Centered Classifier
 
@@ -298,10 +299,6 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 #### LLM-Empowered Agent
 
 1. **"ZARA: Zero-shot Motion Time-Series Analysis via Knowledge and Retrieval Driven LLM Agents"**. *Li et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2508.04038)]
-
-#### Extending LLM to Wearable Foundation Model
-
-1. **"SensorLM: Learning the Language of Wearable Sensors"**. *Zhang et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.09108)]
 
 ## Data-Centric Methodology
 
