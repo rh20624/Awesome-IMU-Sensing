@@ -89,8 +89,9 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 6. **"SWL-Adapt: An Unsupervised Domain Adaptation Model with Sample Weight Learning for Cross-User Wearable Human Activity Recognition"**. *Hu et al.* AAAI 2023. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25743)]
 7. **"Optimization-Free Test-Time Adaptation for Cross-Person Activity Recognition"**. *Wang et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3631450)]
 8. **"SF-Adapter: Computational-Efficient Source-Free Domain Adaptation for Human Activity Recognition"**. *Kang et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3631428)]
-9. **"Cross-Domain HAR: Few-Shot Transfer Learning for Human Activity Recognition"**. *Thukral et al.* TIST 2025. [[Paper](https://dl.acm.org/doi/full/10.1145/3704921)]
-10. **"Generalizable Sensor-Based Activity Recognition via Categorical Concept Invariant Learning"**. *Xiong et al.* AAAI 2025. [[Paper](https://arxiv.org/abs/2412.13594)]
+9. **"DIVERSIFY: A General Framework for Time Series Out-of-distribution Detection and Generalization"**. *Lu et al.* TPAMI 2024. [[Paper](https://ieeexplore.ieee.org/document/10402053)]
+10. **"Cross-Domain HAR: Few-Shot Transfer Learning for Human Activity Recognition"**. *Thukral et al.* TIST 2025. [[Paper](https://dl.acm.org/doi/full/10.1145/3704921)]
+11. **"Generalizable Sensor-Based Activity Recognition via Categorical Concept Invariant Learning"**. *Xiong et al.* AAAI 2025. [[Paper](https://arxiv.org/abs/2412.13594)]
 
 ### Cross-Device
 
@@ -104,8 +105,9 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 1. **"Cross-position activity recognition with stratified transfer learning"**. *Chen et al.* PMC 2019. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1574119218303432)]
 2. **"A Systematic Study of Unsupervised Domain Adaptation for Robust Human-Activity Recognition"**. *Chang et al.* IMWUT 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3380985)]
 3. **"Semantic-Discriminative Mixup for Generalizable Sensor-based Cross-domain Activity Recognition"**. *Lu et al.* IMWUT 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3534589)]
-4. **"Cross-Domain HAR: Few-Shot Transfer Learning for Human Activity Recognition"**. *Thukral et al.* TIST 2025. [[Paper](https://dl.acm.org/doi/full/10.1145/3704921)]
-5. **"Generalizable Sensor-Based Activity Recognition via Categorical Concept Invariant Learning"**. *Xiong et al.* AAAI 2025. [[Paper](https://arxiv.org/abs/2412.13594)]
+4. **"DIVERSIFY: A General Framework for Time Series Out-of-distribution Detection and Generalization"**. *Lu et al.* TPAMI 2024. [[Paper](https://ieeexplore.ieee.org/document/10402053)]
+5. **"Cross-Domain HAR: Few-Shot Transfer Learning for Human Activity Recognition"**. *Thukral et al.* TIST 2025. [[Paper](https://dl.acm.org/doi/full/10.1145/3704921)]
+6. **"Generalizable Sensor-Based Activity Recognition via Categorical Concept Invariant Learning"**. *Xiong et al.* AAAI 2025. [[Paper](https://arxiv.org/abs/2412.13594)]
 
 ### Cross-Activity
 
@@ -121,10 +123,12 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 4. **"GLOBEM: Cross-Dataset Generalization of Longitudinal Human Behavior Modeling"**. *Xu et al.* IMWUT 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3569485)]
 5. **"CrossHAR: Generalizing Cross-dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining"**. *Hong et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3659597)]
 6. **"GOAT: A Generalized Cross-Dataset Activity Recognition Framework with Natural Language Supervision"**. *Miao et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3699736)]
-7. **"HAR-DoReMi: Optimizing Data Mixture for Self-Supervised Human Activity Recognition Across Heterogeneous IMU Datasets"**. *Ban et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2503.13542)]
-8. **"LLM4HAR: Generalizable On-device Human Activity Recognition with Pretrained LLMs"**. *Hong et al.* KDD 2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3711896.3737226)]
-9. **"MobHAR: Source-free Knowledge Transfer for Human Activity Recognition on Mobile Devices"**. *Xue et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3712620)]
-10. **"Generalizable Sensor-Based Activity Recognition via Categorical Concept Invariant Learning"**. *Xiong et al.* AAAI 2025. [[Paper](https://arxiv.org/abs/2412.13594)]
+7. **"DIVERSIFY: A General Framework for Time Series Out-of-distribution Detection and Generalization"**. *Lu et al.* TPAMI 2024. [[Paper](https://ieeexplore.ieee.org/document/10402053)]
+8. **"HAR-DoReMi: Optimizing Data Mixture for Self-Supervised Human Activity Recognition Across Heterogeneous IMU Datasets"**. *Ban et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2503.13542)]
+9. **"LLM4HAR: Generalizable On-device Human Activity Recognition with Pretrained LLMs"**. *Hong et al.* KDD 2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3711896.3737226)]
+10. **"MobHAR: Source-free Knowledge Transfer for Human Activity Recognition on Mobile Devices"**. *Xue et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3712620)]
+11. **"Generalizable Sensor-Based Activity Recognition via Categorical Concept Invariant Learning"**. *Xiong et al.* AAAI 2025. [[Paper](https://arxiv.org/abs/2412.13594)]
+12. **"One Model to Fit Them All: Universal IMU-based Human Activity Recognition with LLM-assisted Cross-dataset Representation"**. *Wei et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3749509)]
 
 ## Datasets and Benchmarks
 
@@ -203,6 +207,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 2. **"Privacy Adversarial Network: Representation Learning for Mobile Data Privacy"**. *Liu et al.* IMWUT 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3369816)]
 3. **"Learning Disentangled Behaviour Patterns for Wearable-based Human Activity Recognition"**. *Su et al.* IMWUT 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3517252)]
 4. **"Augmented Adversarial Learning for Human Activity Recognition with Partial Sensor Sets"**. *Kang et al.* IMWUT 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3550285)]
+5. **"DIVERSIFY: A General Framework for Time Series Out-of-distribution Detection and Generalization"**. *Lu et al.* TPAMI 2024. [[Paper](https://ieeexplore.ieee.org/document/10402053)]
 
 #### Concept Invariance
 
@@ -298,6 +303,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 2. **"Sensor2Text: Enabling Natural Language Interactions for Daily Activity Tracking Using Wearable Sensors"**. *Chen et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3699747)]
 3. **"IMUGPT 2.0: Language-Based Cross Modality Transfer for Sensor-Based Human Activity Recognition"**. *Leng et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3678545)]
 4. **"SensorLM: Learning the Language of Wearable Sensors"**. *Zhang et al.* NeurIPS 2025. [[Paper](https://neurips.cc/virtual/2025/poster/117808)]
+5. **"One Model to Fit Them All: Universal IMU-based Human Activity Recognition with LLM-assisted Cross-dataset Representation"**. *Wei et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3749509)]
 
 #### LLM-Centered Classifier
 
