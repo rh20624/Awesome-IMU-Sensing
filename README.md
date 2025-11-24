@@ -162,6 +162,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 
 | Dataset | Subjects | Sensors | Activities | datasize | Year |
 | --- | --- | --- | --- | --- | --- |
+| [DCM](https://osf.io/fbmxy/overview) | 30 | acc, gyro, mmWave, skeleton | 10 daily activities | - | 2025 |
 | [RecGym](https://zhaxidele.github.io/RecGym/) | 10 | acc, gyro, human body capacitance sensor | 12 fitness activities | 50 h | 2025 |
 | [WEAR](https://mariusbock.github.io/wear/) | 22 | acc, video | 18 sports activities | 19 h | 2024 |
 | [iSPL](https://github.com/thunguyenth/HAR_IMU_Stretch) | 1 | acc, gyro, stretch | 9 daily activities | - | 2022 |
@@ -279,6 +280,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 4. **"Scaling wearable foundation models"**. *Narayanswamy et al.* ICLR 2025. [[Paper](https://arxiv.org/abs/2410.13638)]
 5. **"LSM-2: Learning from Incomplete Wearable Sensor Data"**. *Xu et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.05321)]
 6. **"MoPFormer: Motion-Primitive Transformer for Wearable-Sensor Activity Recognition"**. *Zhang et al.* NeurIPS 2025. [[Paper](https://arxiv.org/abs/2505.20744)]
+7. **"MASTER: A Multi-modal Foundation Model for Human Activity Recognition"**. *Zhu et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3749511)]
 
 #### Contrastive Learning
 
@@ -337,7 +339,8 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 11. **"Multimodal Daily-Life Logging in Free-living Environment Using Non-Visual Egocentric Sensors on a Smartphone"**. *Sun et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3643553)]
 12. **"HabitSense: A Privacy-Aware, AI-Enhanced Multimodal Wearable Platform for mHealth Applications"**. *Fernandes et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3678591)]
 13. **"iMove: Exploring Bio-Impedance Sensing for Fitness Activity Recognition"**. *Liu et al.* PerCom 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10494489)]
-14. 6. **"Using LLMs for Late Multimodal Sensor Fusion for Activity Recognition"**. *Demirel et al.* arXiv 2025. [[Paper](https://www.arxiv.org/abs/2509.10729)]
+14. **"Using LLMs for Late Multimodal Sensor Fusion for Activity Recognition"**. *Demirel et al.* arXiv 2025. [[Paper](https://www.arxiv.org/abs/2509.10729)]
+15. **"MASTER: A Multi-modal Foundation Model for Human Activity Recognition"**. *Zhu et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3749511)]
 
 ### Cross-Modal Learning
 
