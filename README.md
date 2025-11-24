@@ -68,6 +68,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
     - [Human-Robot Interaction](#human-robot-interaction)
     - [AR and VR Interaction](#ar-and-vr-interaction)
     - [Embodied Agents](#embodied-agents)
+- [Fancy Applications of IMU Sensing](#fancy-applications-of-imu-sensing)
 - [Citation](#citation)
 
 ## Generalization-Oriented Training Settings
@@ -341,6 +342,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 13. **"iMove: Exploring Bio-Impedance Sensing for Fitness Activity Recognition"**. *Liu et al.* PerCom 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10494489)]
 14. **"Using LLMs for Late Multimodal Sensor Fusion for Activity Recognition"**. *Demirel et al.* arXiv 2025. [[Paper](https://www.arxiv.org/abs/2509.10729)]
 15. **"MASTER: A Multi-modal Foundation Model for Human Activity Recognition"**. *Zhu et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3749511)]
+16. **"Deep learning for motion classification in ankle exoskeletons using surface EMG and IMU signals"**. *Estévez et al.* Scientific Reports 2025. [[Paper](https://www.nature.com/articles/s41598-025-22103-1)]
 
 ### Cross-Modal Learning
 
@@ -456,6 +458,13 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 2. **"GPS-IMU Sensor Fusion for Reliable Autonomous Vehicle Position Estimation"**. *Alaba et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2405.08119)]
 3. **"HandCept: A Visual-Inertial Fusion Framework for Accurate Proprioception in Dexterous Hands"**. *Huang et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2505.08213)]
 4. **"Learning Bipedal Locomotion on Gear-Driven Humanoid Robot Using Foot-Mounted IMUs"**. *Katayama et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2504.00614)]
+
+## Fancy Applications of IMU Sensing
+
+1. **"Global earthquake detection and warning using Android phones"**. *Allen et al.* Science 2025. [[Paper](https://www.science.org/doi/10.1126/science.ads4779)]
+2. **"Citizens’ smartphones unravel earthquake shaking in urban areas"**. *Finazzi et al.* Nature Communications 2025. [[Paper](https://www.nature.com/articles/s41467-025-64543-3)]
+3. **"A noise-tolerant human–machine interface based on deep learning-enhanced wearable sensors"**. *Chen et al.* Nature Sensors 2025. [[Paper](https://www.nature.com/articles/s44460-025-00001-3)]
+4. **"Physical activity levels may impact on the risk of premature mortality in people with epilepsy"**. *Fan et al.* Nature Communications 2025. [[Paper](https://www.nature.com/articles/s41467-025-64805-0)]
 
 ## Citation
 
