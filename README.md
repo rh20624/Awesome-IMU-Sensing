@@ -461,10 +461,13 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 
 ## Fancy Applications of IMU Sensing
 
-1. **"Global earthquake detection and warning using Android phones"**. *Allen et al.* Science 2025. [[Paper](https://www.science.org/doi/10.1126/science.ads4779)]
-2. **"Citizens’ smartphones unravel earthquake shaking in urban areas"**. *Finazzi et al.* Nature Communications 2025. [[Paper](https://www.nature.com/articles/s41467-025-64543-3)]
-3. **"A noise-tolerant human–machine interface based on deep learning-enhanced wearable sensors"**. *Chen et al.* Nature Sensors 2025. [[Paper](https://www.nature.com/articles/s44460-025-00001-3)]
-4. **"Physical activity levels may impact on the risk of premature mortality in people with epilepsy"**. *Fan et al.* Nature Communications 2025. [[Paper](https://www.nature.com/articles/s41467-025-64805-0)]
+1. **"Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots"**. *Chi et al.* RSS 2024. [[Paper](https://umi-gripper.github.io/)]
+2. **"Global earthquake detection and warning using Android phones"**. *Allen et al.* Science 2025. [[Paper](https://www.science.org/doi/10.1126/science.ads4779)]
+3. **"Citizens’ smartphones unravel earthquake shaking in urban areas"**. *Finazzi et al.* Nature Communications 2025. [[Paper](https://www.nature.com/articles/s41467-025-64543-3)]
+4. **"A noise-tolerant human–machine interface based on deep learning-enhanced wearable sensors"**. *Chen et al.* Nature Sensors 2025. [[Paper](https://www.nature.com/articles/s44460-025-00001-3)]
+5. **"Physical activity levels may impact on the risk of premature mortality in people with epilepsy"**. *Fan et al.* Nature Communications 2025. [[Paper](https://www.nature.com/articles/s41467-025-64805-0)]
+6. **"Wearable multi-sensory haptic devices"**. *Fleck et al.* Nature Reviews Bioengineering 2025. [[Paper](https://www.nature.com/articles/s44222-025-00274-w)]
+7. **"SPIDER: Scalable Physics-Informed Dexterous Retargeting"**. *Pan et al.* arXiv 2025. [[Paper](https://jc-bao.github.io/spider-project/)]
 
 ## Citation
 
