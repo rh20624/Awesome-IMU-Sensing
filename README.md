@@ -471,6 +471,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 5. **"Physical activity levels may impact on the risk of premature mortality in people with epilepsy"**. *Fan et al.* Nature Communications 2025. [[Paper](https://www.nature.com/articles/s41467-025-64805-0)]
 6. **"Wearable multi-sensory haptic devices"**. *Fleck et al.* Nature Reviews Bioengineering 2025. [[Paper](https://www.nature.com/articles/s44222-025-00274-w)]
 7. **"SPIDER: Scalable Physics-Informed Dexterous Retargeting"**. *Pan et al.* arXiv 2025. [[Paper](https://jc-bao.github.io/spider-project/)]
+8. **"A Simplified Wearable Device Powered by A Generative EMG Network for Hand-Gesture Recognition and Gait Prediction"**. *Kim et al.* Nature Sensors 2025. [[Paper](https://www.nature.com/articles/s44460-025-00002-2)]
 
 ## Citation
 
