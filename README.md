@@ -294,6 +294,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 5. **"ColloSSL: Collaborative Self-Supervised Learning for Human Activity Recognition"**. *Jain et al.* IMWUT 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3517246)]
 6. **"Investigating Enhancements to Contrastive Predictive Coding for Human Activity Recognition"**. *Haresamudram et al.* PerCom 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10099197)]
 7. **"Cross-Domain HAR: Few-Shot Transfer Learning for Human Activity Recognition"**. *Thukral et al.* TIST 2025. [[Paper](https://dl.acm.org/doi/full/10.1145/3704921)]
+8. **"RelCon: Relative Contrastive Learning for a Motion Foundation Model for Wearable Data"**. *Xu et al.* ICLR 2025. [[Paper](https://openreview.net/forum?id=k2uUeLCrQq)]
 
 #### Hybrid Approaches
 
