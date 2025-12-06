@@ -472,6 +472,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 6. **"Wearable multi-sensory haptic devices"**. *Fleck et al.* Nature Reviews Bioengineering 2025. [[Paper](https://www.nature.com/articles/s44222-025-00274-w)]
 7. **"SPIDER: Scalable Physics-Informed Dexterous Retargeting"**. *Pan et al.* arXiv 2025. [[Paper](https://jc-bao.github.io/spider-project/)]
 8. **"A Simplified Wearable Device Powered by A Generative EMG Network for Hand-Gesture Recognition and Gait Prediction"**. *Kim et al.* Nature Sensors 2025. [[Paper](https://www.nature.com/articles/s44460-025-00002-2)]
+9. **"DySTAN: Joint Modeling of Sedentary Activity and Social Context from Smartphone Sensors"**. *Sneh et al.* arXiv 2025. [[Paper](https://www.arxiv.org/abs/2512.02025)]
 
 ## Citation
 
