@@ -393,18 +393,19 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 ### Data Augmentation
 
 1. **"Attend and Discriminate: Beyond the State-of-the-Art for Human Activity Recognition Using Wearable Sensors"**. *Abedin et al.* IMWUT 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3448083)]
-1. **"Practically Adopting Human Activity Recognition"**. *Xu et al.* MobiCom 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3570361.3613299)]
-1. **"ALAE-TAE-CutMix+: Beyond the State-of-the-Art for Human Activity Recognition Using Wearable Sensors"**. *Ahmad et al.* PerCom 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10099138)]
-1. **"ConvBoost: Boosting ConvNets for Sensor-based Activity Recognition"**. *Shao et al.* IMWUT 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3596234)]
-1. **"HMGAN: A Hierarchical Multi-Modal Generative Adversarial Network Model for Wearable Human Activity Recognition"**. *Chen et al.* IMWUT 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3610909)]
-1. **"Unleashing the Power of Shared Label Structures for Human Activity Recognition"**. *Zhang et al.* CIKM 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3583780.3615101)]
-1. **"SeRaNDiP: Leveraging Inherent Sensor Random Noise for Differential Privacy Preservation in Wearable Community Sensing Applications"**. *Kalupahana et al.* IMWUT 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3596252)]
-1. **"CrossHAR: Generalizing Cross-dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining"**. *Hong et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3659597)]
-1. **"AutoAugHAR: Automated Data Augmentation for Sensor-based Human Activity Recognition"**. *Zhou et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3659589)]
-1. **"rTsfNet: A DNN Model with Multi-head 3D Rotation and Time Series Feature Extraction for IMU-based Human Activity Recognition"**. *Enokibori et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3699733)]
-1. **"UniMTS: Unified Pre-training for Motion Time Series"**. *Zhang et al.* NeurIPS 2024. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/c290d4373c495b2cad0625d6288260f0-Abstract-Conference.html)]
-1. **"Learning IMU Bias with Diffusion Model"**. *Zhou et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2505.11763)]
-1. **"A Diffusion Model for Inertial Based Time Series Generation on Scarce Data Availability to Improve Human Activity Recognition"**. *Oppel et al.* Scientific Reports 2025. [[Paper](https://www.nature.com/articles/s41598-025-01614-x)]
+2. **"Practically Adopting Human Activity Recognition"**. *Xu et al.* MobiCom 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3570361.3613299)]
+3. **"ALAE-TAE-CutMix+: Beyond the State-of-the-Art for Human Activity Recognition Using Wearable Sensors"**. *Ahmad et al.* PerCom 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10099138)]
+4. **"ConvBoost: Boosting ConvNets for Sensor-based Activity Recognition"**. *Shao et al.* IMWUT 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3596234)]
+5. **"HMGAN: A Hierarchical Multi-Modal Generative Adversarial Network Model for Wearable Human Activity Recognition"**. *Chen et al.* IMWUT 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3610909)]
+6. **"Unleashing the Power of Shared Label Structures for Human Activity Recognition"**. *Zhang et al.* CIKM 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3583780.3615101)]
+7. **"SeRaNDiP: Leveraging Inherent Sensor Random Noise for Differential Privacy Preservation in Wearable Community Sensing Applications"**. *Kalupahana et al.* IMWUT 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3596252)]
+8. **"CrossHAR: Generalizing Cross-dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining"**. *Hong et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3659597)]
+9. **"AutoAugHAR: Automated Data Augmentation for Sensor-based Human Activity Recognition"**. *Zhou et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3659589)]
+10. **"rTsfNet: A DNN Model with Multi-head 3D Rotation and Time Series Feature Extraction for IMU-based Human Activity Recognition"**. *Enokibori et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3699733)]
+11. **"UniMTS: Unified Pre-training for Motion Time Series"**. *Zhang et al.* NeurIPS 2024. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/c290d4373c495b2cad0625d6288260f0-Abstract-Conference.html)]
+12. **"Learning IMU Bias with Diffusion Model"**. *Zhou et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2505.11763)]
+13. **"A Diffusion Model for Inertial Based Time Series Generation on Scarce Data Availability to Improve Human Activity Recognition"**. *Oppel et al.* Scientific Reports 2025. [[Paper](https://www.nature.com/articles/s41598-025-01614-x)]
+14. **"TxP: Reciprocal Generation of Ground Pressure Dynamics and Activity Descriptions for Improving Human Activity Recognition"**. *Ray et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3732001)]
 
 ## Applications
 
