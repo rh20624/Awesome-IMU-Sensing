@@ -305,6 +305,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 
 1. **"Augmentation Robust Self-Supervised Learning for Human Activity Recognition"**. *Xu et al.* ICASSP 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10096151)]
 2. **"CrossHAR: Generalizing Cross-dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining"**. *Hong et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3659597)]
+3. **"Towards Customizable Foundation Models for Human Activity Recognition with Wearable Devices"**. *Qiu et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3749479)]
 
 ### LLM-based Learning
 
