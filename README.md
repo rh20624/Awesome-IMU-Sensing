@@ -134,6 +134,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 11. **"Generalizable Sensor-Based Activity Recognition via Categorical Concept Invariant Learning"**. *Xiong et al.* AAAI 2025. [[Paper](https://arxiv.org/abs/2412.13594)]
 12. **"One Model to Fit Them All: Universal IMU-based Human Activity Recognition with LLM-assisted Cross-dataset Representation"**. *Wei et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3749509)]
 13. **"Large Language Model-guided Semantic Alignment for Human Activity Recognition"**. *Su et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3770652)]
+14. **"Deconfounding Causal Inference through Two-branch Framework with Early-forking for Sensor-based Cross-domain Activity Recognition"**. *Xiong et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3729495)]
 
 ## Datasets and Benchmarks
 
@@ -217,6 +218,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 3. **"Learning Disentangled Behaviour Patterns for Wearable-based Human Activity Recognition"**. *Su et al.* IMWUT 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3517252)]
 4. **"Augmented Adversarial Learning for Human Activity Recognition with Partial Sensor Sets"**. *Kang et al.* IMWUT 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3550285)]
 5. **"DIVERSIFY: A General Framework for Time Series Out-of-distribution Detection and Generalization"**. *Lu et al.* TPAMI 2024. [[Paper](https://ieeexplore.ieee.org/document/10402053)]
+6. **"Deconfounding Causal Inference through Two-branch Framework with Early-forking for Sensor-based Cross-domain Activity Recognition"**. *Xiong et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3729495)]
 
 #### Concept Invariance
 
@@ -268,6 +270,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 
 1. **"Unsupervised Factory Activity Recognition with Wearable Sensors Using Process Instruction Information"**. *Xia et al.* IMWUT 2019. [[Paper](https://dl.acm.org/doi/abs/10.1145/3328931)]
 2. **"Robust Unsupervised Factory Activity Recognition with Body-worn Accelerometer Using Temporal Structure of Multiple Sensor Data Motifs"**. *Xia et al.* IMWUT 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3411836)]
+3. **"MobHAR: Source-free Knowledge Transfer for Human Activity Recognition on Mobile Devices"**. *Xue et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3712620)]
 
 ### Self-Supervised Learning
 
