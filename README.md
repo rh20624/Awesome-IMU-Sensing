@@ -115,6 +115,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 1. **"NuActiv: recognizing unseen new activities using semantic attribute-based learning"**. *Cheng et al.* MobiSys 2013. [[Paper](https://dl.acm.org/doi/abs/10.1145/2462456.2464438)]
 2. **"UniMTS: Unified Pre-training for Motion Time Series"**. *Zhang et al.* NeurIPS 2024. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/c290d4373c495b2cad0625d6288260f0-Abstract-Conference.html)]
 3. **"ZeroHAR: Sensor Context Augments Zero-Shot Wearable Action Recognition"**. *Chowdhury et al.* AAAI 2025. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33762)]
+4. **"Hi-OSCAR: Hierarchical Open-set Classifier for Human Activity Recognition"**. *McCarthy et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3770681)]
 
 ### Cross-Dataset
 
@@ -163,7 +164,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 
 | Dataset | Subjects | Sensors | Activities | datasize | Year |
 | --- | --- | --- | --- | --- | --- |
-| [NFI_FARED](https://huggingface.co/datasets/NetherlandsForensicInstitute/NFI_FARED_IMU) | 11 | acc, gyro, altimeter, temperature | 39.8 h | 2025 |
+| [NFI_FARED](https://huggingface.co/datasets/NetherlandsForensicInstitute/NFI_FARED_IMU) | 11 | acc, gyro, altimeter, temperature | 19 daily activities | 39.8 h | 2025 |
 | [OctoNet](https://huggingface.co/datasets/hku-aiot/OctoNet) | 41 | acc, gyro, mag, RGB-D, ToF, Thermal, IRA, mmWave, UWB, Wi-Fi, acoustic, heart rate, MoCap | 62 comprehensive activities | - | 2025 |
 | [DCM](https://osf.io/fbmxy/overview) | 30 | acc, gyro, mmWave, skeleton | 10 daily activities | - | 2025 |
 | [RecGym](https://zhaxidele.github.io/RecGym/) | 10 | acc, gyro, human body capacitance sensor | 12 fitness activities | 50 h | 2025 |
