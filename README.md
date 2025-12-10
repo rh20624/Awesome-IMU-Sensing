@@ -116,6 +116,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 2. **"UniMTS: Unified Pre-training for Motion Time Series"**. *Zhang et al.* NeurIPS 2024. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/c290d4373c495b2cad0625d6288260f0-Abstract-Conference.html)]
 3. **"ZeroHAR: Sensor Context Augments Zero-Shot Wearable Action Recognition"**. *Chowdhury et al.* AAAI 2025. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33762)]
 4. **"Hi-OSCAR: Hierarchical Open-set Classifier for Human Activity Recognition"**. *McCarthy et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3770681)]
+5. **"IMUZero: Zero-Shot Human Activity Recognition by Language-Based Cross Modality Fusion"**. *Su et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3770669)]
 
 ### Cross-Dataset
 
@@ -312,6 +313,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 3. **"IMUGPT 2.0: Language-Based Cross Modality Transfer for Sensor-Based Human Activity Recognition"**. *Leng et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3678545)]
 4. **"SensorLM: Learning the Language of Wearable Sensors"**. *Zhang et al.* NeurIPS 2025. [[Paper](https://neurips.cc/virtual/2025/poster/117808)]
 5. **"One Model to Fit Them All: Universal IMU-based Human Activity Recognition with LLM-assisted Cross-dataset Representation"**. *Wei et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3749509)]
+6. **"IMUZero: Zero-Shot Human Activity Recognition by Language-Based Cross Modality Fusion"**. *Su et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3770669)]
 
 #### LLM-Centered Classifier
 
