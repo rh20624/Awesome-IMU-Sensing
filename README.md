@@ -163,6 +163,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 
 | Dataset | Subjects | Sensors | Activities | datasize | Year |
 | --- | --- | --- | --- | --- | --- |
+| [NFI_FARED](https://huggingface.co/datasets/NetherlandsForensicInstitute/NFI_FARED_IMU) | 11 | acc, gyro, altimeter, temperature | 39.8 h | 2025 |
 | [OctoNet](https://huggingface.co/datasets/hku-aiot/OctoNet) | 41 | acc, gyro, mag, RGB-D, ToF, Thermal, IRA, mmWave, UWB, Wi-Fi, acoustic, heart rate, MoCap | 62 comprehensive activities | - | 2025 |
 | [DCM](https://osf.io/fbmxy/overview) | 30 | acc, gyro, mmWave, skeleton | 10 daily activities | - | 2025 |
 | [RecGym](https://zhaxidele.github.io/RecGym/) | 10 | acc, gyro, human body capacitance sensor | 12 fitness activities | 50 h | 2025 |
