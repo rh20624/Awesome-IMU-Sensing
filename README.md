@@ -117,6 +117,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 3. **"ZeroHAR: Sensor Context Augments Zero-Shot Wearable Action Recognition"**. *Chowdhury et al.* AAAI 2025. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33762)]
 4. **"Hi-OSCAR: Hierarchical Open-set Classifier for Human Activity Recognition"**. *McCarthy et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3770681)]
 5. **"IMUZero: Zero-Shot Human Activity Recognition by Language-Based Cross Modality Fusion"**. *Su et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3770669)]
+6. **"Large Language Model-guided Semantic Alignment for Human Activity Recognition"**. *Su et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3770652)]
 
 ### Cross-Dataset
 
@@ -132,6 +133,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 10. **"MobHAR: Source-free Knowledge Transfer for Human Activity Recognition on Mobile Devices"**. *Xue et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3712620)]
 11. **"Generalizable Sensor-Based Activity Recognition via Categorical Concept Invariant Learning"**. *Xiong et al.* AAAI 2025. [[Paper](https://arxiv.org/abs/2412.13594)]
 12. **"One Model to Fit Them All: Universal IMU-based Human Activity Recognition with LLM-assisted Cross-dataset Representation"**. *Wei et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3749509)]
+13. **"Large Language Model-guided Semantic Alignment for Human Activity Recognition"**. *Su et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3770652)]
 
 ## Datasets and Benchmarks
 
@@ -314,6 +316,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 4. **"SensorLM: Learning the Language of Wearable Sensors"**. *Zhang et al.* NeurIPS 2025. [[Paper](https://neurips.cc/virtual/2025/poster/117808)]
 5. **"One Model to Fit Them All: Universal IMU-based Human Activity Recognition with LLM-assisted Cross-dataset Representation"**. *Wei et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3749509)]
 6. **"IMUZero: Zero-Shot Human Activity Recognition by Language-Based Cross Modality Fusion"**. *Su et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3770669)]
+7. **"Large Language Model-guided Semantic Alignment for Human Activity Recognition"**. *Su et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3770652)]
 
 #### LLM-Centered Classifier
 
