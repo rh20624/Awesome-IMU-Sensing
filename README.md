@@ -409,6 +409,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 12. **"Learning IMU Bias with Diffusion Model"**. *Zhou et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2505.11763)]
 13. **"A Diffusion Model for Inertial Based Time Series Generation on Scarce Data Availability to Improve Human Activity Recognition"**. *Oppel et al.* Scientific Reports 2025. [[Paper](https://www.nature.com/articles/s41598-025-01614-x)]
 14. **"TxP: Reciprocal Generation of Ground Pressure Dynamics and Activity Descriptions for Improving Human Activity Recognition"**. *Ray et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3732001)]
+15. **"Refining Diffusion Models for Motion Synthesis with an Acceleration Loss to Generate Realistic IMU Data"**. *Häusler et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2512.08859)]
 
 ## Applications
 
