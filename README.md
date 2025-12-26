@@ -423,6 +423,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 6. **"UbiPhysio: Support Daily Functioning, Fitness, and Rehabilitation with Action Understanding and Feedback in Natural Language"**. *Wang et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3643552)]
 7. **"Co-Designing Sensory Feedback for Wearables to Support Physical Activity through Body Sensations"**. *Ley-Flores et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/10.1145/3643499)]
 8. **"HabitSense: A Privacy-Aware, AI-Enhanced Multimodal Wearable Platform for mHealth Applications"**. *Fernandes et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3678591)]
+9. **"Fall Monitoring With Single IMU: A Large-Scale Dataset and a Novel Dual-Branch Network"**. *Cai et al.* TNSRE 2025. [[Paper](https://ieeexplore.ieee.org/document/11303325)]
 
 ### Sports and Fitness Monitoring
 
@@ -486,6 +487,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 7. **"SPIDER: Scalable Physics-Informed Dexterous Retargeting"**. *Pan et al.* arXiv 2025. [[Paper](https://jc-bao.github.io/spider-project/)]
 8. **"A Simplified Wearable Device Powered by A Generative EMG Network for Hand-Gesture Recognition and Gait Prediction"**. *Kim et al.* Nature Sensors 2025. [[Paper](https://www.nature.com/articles/s44460-025-00002-2)]
 9. **"DySTAN: Joint Modeling of Sedentary Activity and Social Context from Smartphone Sensors"**. *Sneh et al.* arXiv 2025. [[Paper](https://www.arxiv.org/abs/2512.02025)]
+10. **"8-DoFs Cable Driven Parallel Robots for Bimanual Teleoperation"**. *Cheng et al.* TMECH 2025. [[Paper](https://ieeexplore.ieee.org/document/11203810)]
 
 ## Citation
 
