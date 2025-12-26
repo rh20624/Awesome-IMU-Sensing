@@ -88,11 +88,12 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 4. **"Latent Independent Excitation for Generalizable Sensor-based Cross-Person Activity Recognition"**. *Qian et al.* AAAI 2021. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/17416)]
 5. **"Domain Generalization for Activity Recognition via Adaptive Feature Fusion"**. *Qin et al.* TIST 2022. [[Paper](https://dl.acm.org/doi/full/10.1145/3552434)]
 6. **"SWL-Adapt: An Unsupervised Domain Adaptation Model with Sample Weight Learning for Cross-User Wearable Human Activity Recognition"**. *Hu et al.* AAAI 2023. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25743)]
-7. **"Optimization-Free Test-Time Adaptation for Cross-Person Activity Recognition"**. *Wang et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3631450)]
-8. **"SF-Adapter: Computational-Efficient Source-Free Domain Adaptation for Human Activity Recognition"**. *Kang et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3631428)]
-9. **"DIVERSIFY: A General Framework for Time Series Out-of-distribution Detection and Generalization"**. *Lu et al.* TPAMI 2024. [[Paper](https://ieeexplore.ieee.org/document/10402053)]
-10. **"Cross-Domain HAR: Few-Shot Transfer Learning for Human Activity Recognition"**. *Thukral et al.* TIST 2025. [[Paper](https://dl.acm.org/doi/full/10.1145/3704921)]
-11. **"Generalizable Sensor-Based Activity Recognition via Categorical Concept Invariant Learning"**. *Xiong et al.* AAAI 2025. [[Paper](https://arxiv.org/abs/2412.13594)]
+7. **"Generalizable Low-Resource Activity Recognition with Diverse and Discriminative Representation Learning"**. *Qin et al.* KDD 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599360)]
+8. **"Optimization-Free Test-Time Adaptation for Cross-Person Activity Recognition"**. *Wang et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3631450)]
+9. **"SF-Adapter: Computational-Efficient Source-Free Domain Adaptation for Human Activity Recognition"**. *Kang et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3631428)]
+10. **"DIVERSIFY: A General Framework for Time Series Out-of-distribution Detection and Generalization"**. *Lu et al.* TPAMI 2024. [[Paper](https://ieeexplore.ieee.org/document/10402053)]
+11. **"Cross-Domain HAR: Few-Shot Transfer Learning for Human Activity Recognition"**. *Thukral et al.* TIST 2025. [[Paper](https://dl.acm.org/doi/full/10.1145/3704921)]
+12. **"Generalizable Sensor-Based Activity Recognition via Categorical Concept Invariant Learning"**. *Xiong et al.* AAAI 2025. [[Paper](https://arxiv.org/abs/2412.13594)]
 
 ### Cross-Device
 
@@ -217,8 +218,9 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 2. **"Privacy Adversarial Network: Representation Learning for Mobile Data Privacy"**. *Liu et al.* IMWUT 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3369816)]
 3. **"Learning Disentangled Behaviour Patterns for Wearable-based Human Activity Recognition"**. *Su et al.* IMWUT 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3517252)]
 4. **"Augmented Adversarial Learning for Human Activity Recognition with Partial Sensor Sets"**. *Kang et al.* IMWUT 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3550285)]
-5. **"DIVERSIFY: A General Framework for Time Series Out-of-distribution Detection and Generalization"**. *Lu et al.* TPAMI 2024. [[Paper](https://ieeexplore.ieee.org/document/10402053)]
-6. **"Deconfounding Causal Inference through Two-branch Framework with Early-forking for Sensor-based Cross-domain Activity Recognition"**. *Xiong et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3729495)]
+5. **"Generalizable Low-Resource Activity Recognition with Diverse and Discriminative Representation Learning"**. *Qin et al.* KDD 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599360)]
+6. **"DIVERSIFY: A General Framework for Time Series Out-of-distribution Detection and Generalization"**. *Lu et al.* TPAMI 2024. [[Paper](https://ieeexplore.ieee.org/document/10402053)]
+7. **"Deconfounding Causal Inference through Two-branch Framework with Early-forking for Sensor-based Cross-domain Activity Recognition"**. *Xiong et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3729495)]
 
 #### Concept Invariance
 
