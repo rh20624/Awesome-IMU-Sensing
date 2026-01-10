@@ -143,6 +143,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 
 | Dataset | Subjects | Sensors | Activities | datasize | Year |
 | --- | --- | --- | --- | --- | --- |
+| [FallTL](https://zenodo.org/records/17552449) | 45 | acc, gyro, ori | 46 daily and fall activities | 28.43 h | 2025 |
 | [CAPTURE-24](https://www.nature.com/articles/s41597-024-03960-3) | 151 | acc | 200 unique labels | 3883 h | 2024 |
 | [TNDA-HAR](https://ieee-dataport.org/open-access/tnda-har-0) | 23 | acc, gyro | 8 daily activities | 5.7 h | 2021 |
 | [KU-HAR](https://data.mendeley.com/datasets/45f952y38r/5) | 90 | acc, gyro | 18 daily activities | - | 2021 |
@@ -190,9 +191,10 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 
 ### Dataset Library
 
-| Library | Supporting datasets |
-| --- | --- |
-| [WHAR](https://github.com/teco-kit/whar-datasets) | SHL Challenge, RealLifeHar, ExtraSensory, RealWorld, UTD-MHAD, USC-HAD, HuGaDB, w-HAR, HAPT, WISDM-19 |
+| Library | Supporting datasets | Features |
+| --- | --- | --- |
+| [WHAR](https://github.com/teco-kit/whar-datasets) | SHL Challenge, RealLifeHar, ExtraSensory, RealWorld, UTD-MHAD, USC-HAD, HuGaDB, w-HAR, HAPT, WISDM-19 | Unified handling framework 
+| [DAGHAR](https://doi.org/10.5281/zenodo.11992126) | KU-HAR, MotionSense, RealWorld, UCI-HAR, WISDM | Cross-dataset evaluation 
 
 ### Tools and Benchmarks
 
