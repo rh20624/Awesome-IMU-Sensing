@@ -170,6 +170,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 
 | Dataset | Subjects | Sensors | Activities | datasize | Year |
 | --- | --- | --- | --- | --- | --- |
+| [PAAWS](https://dl.acm.org/doi/10.1145/3770639) | 254 | acc, gyro, heart rate, metabolic breath | daily and sleep activities | 2220 h | 2025 |
 | [NFI_FARED](https://huggingface.co/datasets/NetherlandsForensicInstitute/NFI_FARED_IMU) | 11 | acc, gyro, altimeter, temperature | 19 daily activities | 39.8 h | 2025 |
 | [OctoNet](https://huggingface.co/datasets/hku-aiot/OctoNet) | 41 | acc, gyro, mag, RGB-D, ToF, Thermal, IRA, mmWave, UWB, Wi-Fi, acoustic, heart rate, MoCap | 62 comprehensive activities | - | 2025 |
 | [DCM](https://osf.io/fbmxy/overview) | 30 | acc, gyro, mmWave, skeleton | 10 daily activities | - | 2025 |
@@ -209,6 +210,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 9. **"Past, Present, and Future of Sensor-based Human Activity Recognition Using Wearables: A Surveying Tutorial on a Still Challenging Task"**. *Haresamudram et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3729467)]
 10. **"HARNode: A Time-Synchronised, Open-Source, Multi-Device, Wearable System for Ad Hoc Field Studies"**. *Lepold et al.* arXiv 2025. [[Paper](https://www.arxiv.org/abs/2506.03219)]
 11. **"OctoNet: A Large-Scale Multi-Modal Dataset for Human Activity Understanding Grounded in Motion-Captured 3D Pose Labels"**. *Yuan et al.* NIPS 2025. [[Paper](https://aiot-lab.github.io/OctoNet/)]
+12. **"Enabling Older Adults to Provide High-quality Activity Labels: Unpacking Accuracy, Precision, and Granularity in Activity Labeling"**. *Wang et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3770649)]
 
 ## Model-Centric Methodology
 
