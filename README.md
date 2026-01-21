@@ -494,6 +494,10 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 8. **"A Simplified Wearable Device Powered by A Generative EMG Network for Hand-Gesture Recognition and Gait Prediction"**. *Kim et al.* Nature Sensors 2025. [[Paper](https://www.nature.com/articles/s44460-025-00002-2)]
 9. **"DySTAN: Joint Modeling of Sedentary Activity and Social Context from Smartphone Sensors"**. *Sneh et al.* arXiv 2025. [[Paper](https://www.arxiv.org/abs/2512.02025)]
 10. **"8-DoFs Cable Driven Parallel Robots for Bimanual Teleoperation"**. *Cheng et al.* TMECH 2025. [[Paper](https://ieeexplore.ieee.org/document/11203810)]
+11. **"An intelligent, compact wearable pressure-strain combo sensor system for continuous fetal movement monitoring"**. *Yap et al.* Science Advances 2026. [[Paper](https://www.science.org/doi/10.1126/sciadv.ady2661)]
+12. **"A noise-tolerant human–machine interface based on deep learning-enhanced wearable sensors"**. *Chen et al.* Nature Sensors 2026. [[Paper](https://www.nature.com/articles/s44460-025-00001-3)]
+13. **"Biomimetic multimodal tactile sensing enables human-like robotic perception"**. *Li et al.* Nature Sensors 2026. [[Paper](https://www.nature.com/articles/s44460-025-00006-y)]
+14. **"Hyperpacked piezoelectric-powered capacitive sensor array for high-fidelity vibration detection"**. *Cho et al.* Nature Sensors 2026. [[Paper](https://www.nature.com/articles/s44460-025-00003-1)]
 
 ## Citation
 
