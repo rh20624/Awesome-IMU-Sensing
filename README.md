@@ -334,10 +334,11 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 2. **"HARGPT: Are LLMs Zero-Shot Human Activity Recognizers?"**. *Ji et al.* FMSys 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10590466)]
 3. **"SensorLLM: Human-Intuitive Alignment of Multivariate Sensor Data with LLMs for Activity Recognition"**. *Li et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.10624)]
 4. **"Health-LLM: Large Language Models for Health Prediction via Wearable Sensor Data"**. *Kim et al.* PMLR 2024. [[Paper](https://proceedings.mlr.press/v248/kim24b.html)]
-5. **"LLM4HAR: Generalizable On-device Human Activity Recognition with Pretrained LLMs"**. *Hong et al.* KDD 2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3711896.3737226)]
-6. **"A personal health large language model for sleep and fitness coaching"**. *Khasentino et al.* Nature Medicine 2025. [[Paper](https://www.nature.com/articles/s41591-025-03888-0)]
-7. **"Using LLMs for Late Multimodal Sensor Fusion for Activity Recognition"**. *Demirel et al.* arXiv 2025. [[Paper](https://www.arxiv.org/abs/2509.10729)]
-8. **"LLaSA: A Sensor-Aware LLM for Natural Language Reasoning of Human Activity from IMU Data"**. *Imran et al.* arXiv 2025. [[Paper](https://arxiv.org/html/2406.14498v3)]
+5. **"By My Eyes: Grounding Multimodal Large Language Models with Sensor Data via Visual Prompting"**. *Yoon et al.* EMNLP 2024. [[Paper](https://aclanthology.org/2024.emnlp-main.133/)]
+6. **"LLM4HAR: Generalizable On-device Human Activity Recognition with Pretrained LLMs"**. *Hong et al.* KDD 2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3711896.3737226)]
+7. **"A personal health large language model for sleep and fitness coaching"**. *Khasentino et al.* Nature Medicine 2025. [[Paper](https://www.nature.com/articles/s41591-025-03888-0)]
+8. **"Using LLMs for Late Multimodal Sensor Fusion for Activity Recognition"**. *Demirel et al.* arXiv 2025. [[Paper](https://www.arxiv.org/abs/2509.10729)]
+9. **"LLaSA: A Sensor-Aware LLM for Natural Language Reasoning of Human Activity from IMU Data"**. *Imran et al.* arXiv 2025. [[Paper](https://arxiv.org/html/2406.14498v3)]
 
 #### LLM-Empowered Agent
 
