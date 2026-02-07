@@ -486,19 +486,20 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 ## Fancy Applications of IMU Sensing
 
 1. **"Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots"**. *Chi et al.* RSS 2024. [[Paper](https://umi-gripper.github.io/)]
-2. **"Global earthquake detection and warning using Android phones"**. *Allen et al.* Science 2025. [[Paper](https://www.science.org/doi/10.1126/science.ads4779)]
-3. **"Citizens’ smartphones unravel earthquake shaking in urban areas"**. *Finazzi et al.* Nature Communications 2025. [[Paper](https://www.nature.com/articles/s41467-025-64543-3)]
-4. **"A noise-tolerant human–machine interface based on deep learning-enhanced wearable sensors"**. *Chen et al.* Nature Sensors 2025. [[Paper](https://www.nature.com/articles/s44460-025-00001-3)]
-5. **"Physical activity levels may impact on the risk of premature mortality in people with epilepsy"**. *Fan et al.* Nature Communications 2025. [[Paper](https://www.nature.com/articles/s41467-025-64805-0)]
-6. **"Wearable multi-sensory haptic devices"**. *Fleck et al.* Nature Reviews Bioengineering 2025. [[Paper](https://www.nature.com/articles/s44222-025-00274-w)]
-7. **"SPIDER: Scalable Physics-Informed Dexterous Retargeting"**. *Pan et al.* arXiv 2025. [[Paper](https://jc-bao.github.io/spider-project/)]
-8. **"A Simplified Wearable Device Powered by A Generative EMG Network for Hand-Gesture Recognition and Gait Prediction"**. *Kim et al.* Nature Sensors 2025. [[Paper](https://www.nature.com/articles/s44460-025-00002-2)]
-9. **"DySTAN: Joint Modeling of Sedentary Activity and Social Context from Smartphone Sensors"**. *Sneh et al.* arXiv 2025. [[Paper](https://www.arxiv.org/abs/2512.02025)]
-10. **"8-DoFs Cable Driven Parallel Robots for Bimanual Teleoperation"**. *Cheng et al.* TMECH 2025. [[Paper](https://ieeexplore.ieee.org/document/11203810)]
-11. **"An intelligent, compact wearable pressure-strain combo sensor system for continuous fetal movement monitoring"**. *Yap et al.* Science Advances 2026. [[Paper](https://www.science.org/doi/10.1126/sciadv.ady2661)]
-12. **"A noise-tolerant human–machine interface based on deep learning-enhanced wearable sensors"**. *Chen et al.* Nature Sensors 2026. [[Paper](https://www.nature.com/articles/s44460-025-00001-3)]
-13. **"Biomimetic multimodal tactile sensing enables human-like robotic perception"**. *Li et al.* Nature Sensors 2026. [[Paper](https://www.nature.com/articles/s44460-025-00006-y)]
-14. **"Hyperpacked piezoelectric-powered capacitive sensor array for high-fidelity vibration detection"**. *Cho et al.* Nature Sensors 2026. [[Paper](https://www.nature.com/articles/s44460-025-00003-1)]
+2. **"Hybrid multimodal wearable sensors for comprehensive health monitoring"**. *Mahato et al.*  Nature Electronics 2024. [[Paper](https://www.nature.com/articles/s41928-024-01247-4)]
+3. **"Global earthquake detection and warning using Android phones"**. *Allen et al.* Science 2025. [[Paper](https://www.science.org/doi/10.1126/science.ads4779)]
+4. **"Citizens’ smartphones unravel earthquake shaking in urban areas"**. *Finazzi et al.* Nature Communications 2025. [[Paper](https://www.nature.com/articles/s41467-025-64543-3)]
+5. **"A noise-tolerant human–machine interface based on deep learning-enhanced wearable sensors"**. *Chen et al.* Nature Sensors 2025. [[Paper](https://www.nature.com/articles/s44460-025-00001-3)]
+6. **"Physical activity levels may impact on the risk of premature mortality in people with epilepsy"**. *Fan et al.* Nature Communications 2025. [[Paper](https://www.nature.com/articles/s41467-025-64805-0)]
+7. **"Wearable multi-sensory haptic devices"**. *Fleck et al.* Nature Reviews Bioengineering 2025. [[Paper](https://www.nature.com/articles/s44222-025-00274-w)]
+8. **"SPIDER: Scalable Physics-Informed Dexterous Retargeting"**. *Pan et al.* arXiv 2025. [[Paper](https://jc-bao.github.io/spider-project/)]
+9. **"A Simplified Wearable Device Powered by A Generative EMG Network for Hand-Gesture Recognition and Gait Prediction"**. *Kim et al.* Nature Sensors 2025. [[Paper](https://www.nature.com/articles/s44460-025-00002-2)]
+10. **"DySTAN: Joint Modeling of Sedentary Activity and Social Context from Smartphone Sensors"**. *Sneh et al.* arXiv 2025. [[Paper](https://www.arxiv.org/abs/2512.02025)]
+11. **"8-DoFs Cable Driven Parallel Robots for Bimanual Teleoperation"**. *Cheng et al.* TMECH 2025. [[Paper](https://ieeexplore.ieee.org/document/11203810)]
+12. **"An intelligent, compact wearable pressure-strain combo sensor system for continuous fetal movement monitoring"**. *Yap et al.* Science Advances 2026. [[Paper](https://www.science.org/doi/10.1126/sciadv.ady2661)]
+13. **"A noise-tolerant human–machine interface based on deep learning-enhanced wearable sensors"**. *Chen et al.* Nature Sensors 2026. [[Paper](https://www.nature.com/articles/s44460-025-00001-3)]
+14. **"Biomimetic multimodal tactile sensing enables human-like robotic perception"**. *Li et al.* Nature Sensors 2026. [[Paper](https://www.nature.com/articles/s44460-025-00006-y)]
+15. **"Hyperpacked piezoelectric-powered capacitive sensor array for high-fidelity vibration detection"**. *Cho et al.* Nature Sensors 2026. [[Paper](https://www.nature.com/articles/s44460-025-00003-1)]
 
 ## Citation
 
