@@ -306,10 +306,11 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 3. **"Federated Self-Supervised Learning of Multisensor Representations for Embedded Intelligence"**. *Saeed et al.* IOTJ 2021. [[Paper](https://ieeexplore.ieee.org/abstract/document/9141293)]
 4. **"What Makes Good Contrastive Learning on Small-Scale Wearable-based Tasks?"**. *Qian et al.* KDD 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539134)]
 5. **"ColloSSL: Collaborative Self-Supervised Learning for Human Activity Recognition"**. *Jain et al.* IMWUT 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3517246)]
-6. **"Investigating Enhancements to Contrastive Predictive Coding for Human Activity Recognition"**. *Haresamudram et al.* PerCom 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10099197)]
-7. **"Cross-Domain HAR: Few-Shot Transfer Learning for Human Activity Recognition"**. *Thukral et al.* TIST 2025. [[Paper](https://dl.acm.org/doi/full/10.1145/3704921)]
-8. **"RelCon: Relative Contrastive Learning for a Motion Foundation Model for Wearable Data"**. *Xu et al.* ICLR 2025. [[Paper](https://openreview.net/forum?id=k2uUeLCrQq)]
-9. **"Babel: A Scalable Pre-trained Model for Multi-Modal Sensing via Expandable Modality Alignment"**. *Dai et al.* SenSys 2025. [[Paper](https://dl.acm.org/doi/10.1145/3715014.3722068)]
+6. **"Cosmo: Contrastive Fusion Learning with Small Data"**. *Ouyang et al.* MobiCom 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3495243.3560519)]
+7. **"Investigating Enhancements to Contrastive Predictive Coding for Human Activity Recognition"**. *Haresamudram et al.* PerCom 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10099197)]
+8. **"Cross-Domain HAR: Few-Shot Transfer Learning for Human Activity Recognition"**. *Thukral et al.* TIST 2025. [[Paper](https://dl.acm.org/doi/full/10.1145/3704921)]
+9. **"RelCon: Relative Contrastive Learning for a Motion Foundation Model for Wearable Data"**. *Xu et al.* ICLR 2025. [[Paper](https://openreview.net/forum?id=k2uUeLCrQq)]
+10. **"Babel: A Scalable Pre-trained Model for Multi-Modal Sensing via Expandable Modality Alignment"**. *Dai et al.* SenSys 2025. [[Paper](https://dl.acm.org/doi/10.1145/3715014.3722068)]
 
 #### Hybrid Approaches
 
@@ -336,10 +337,11 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 3. **"SensorLLM: Human-Intuitive Alignment of Multivariate Sensor Data with LLMs for Activity Recognition"**. *Li et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.10624)]
 4. **"Health-LLM: Large Language Models for Health Prediction via Wearable Sensor Data"**. *Kim et al.* PMLR 2024. [[Paper](https://proceedings.mlr.press/v248/kim24b.html)]
 5. **"By My Eyes: Grounding Multimodal Large Language Models with Sensor Data via Visual Prompting"**. *Yoon et al.* EMNLP 2024. [[Paper](https://aclanthology.org/2024.emnlp-main.133/)]
-6. **"LLM4HAR: Generalizable On-device Human Activity Recognition with Pretrained LLMs"**. *Hong et al.* KDD 2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3711896.3737226)]
-7. **"A personal health large language model for sleep and fitness coaching"**. *Khasentino et al.* Nature Medicine 2025. [[Paper](https://www.nature.com/articles/s41591-025-03888-0)]
-8. **"Using LLMs for Late Multimodal Sensor Fusion for Activity Recognition"**. *Demirel et al.* arXiv 2025. [[Paper](https://www.arxiv.org/abs/2509.10729)]
-9. **"LLaSA: A Sensor-Aware LLM for Natural Language Reasoning of Human Activity from IMU Data"**. *Imran et al.* arXiv 2025. [[Paper](https://arxiv.org/html/2406.14498v3)]
+6. **"OneLLM: One Framework to Align All Modalities with Language"**. *Han et al.* CVPR 2024. [[Paper](https://onellm.csuhan.com/)]
+7. **"LLM4HAR: Generalizable On-device Human Activity Recognition with Pretrained LLMs"**. *Hong et al.* KDD 2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3711896.3737226)]
+8. **"A personal health large language model for sleep and fitness coaching"**. *Khasentino et al.* Nature Medicine 2025. [[Paper](https://www.nature.com/articles/s41591-025-03888-0)]
+9. **"Using LLMs for Late Multimodal Sensor Fusion for Activity Recognition"**. *Demirel et al.* arXiv 2025. [[Paper](https://www.arxiv.org/abs/2509.10729)]
+10. **"LLaSA: A Sensor-Aware LLM for Natural Language Reasoning of Human Activity from IMU Data"**. *Imran et al.* arXiv 2025. [[Paper](https://arxiv.org/html/2406.14498v3)]
 
 #### LLM-Empowered Agent
 
@@ -362,9 +364,12 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 11. **"Multimodal Daily-Life Logging in Free-living Environment Using Non-Visual Egocentric Sensors on a Smartphone"**. *Sun et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3643553)]
 12. **"HabitSense: A Privacy-Aware, AI-Enhanced Multimodal Wearable Platform for mHealth Applications"**. *Fernandes et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3678591)]
 13. **"iMove: Exploring Bio-Impedance Sensing for Fitness Activity Recognition"**. *Liu et al.* PerCom 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10494489)]
-14. **"Using LLMs for Late Multimodal Sensor Fusion for Activity Recognition"**. *Demirel et al.* arXiv 2025. [[Paper](https://www.arxiv.org/abs/2509.10729)]
-15. **"MASTER: A Multi-modal Foundation Model for Human Activity Recognition"**. *Zhu et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3749511)]
-16. **"Deep learning for motion classification in ankle exoskeletons using surface EMG and IMU signals"**. *Estévez et al.* Scientific Reports 2025. [[Paper](https://www.nature.com/articles/s41598-025-22103-1)]
+14. **"Mobile Foundation Model as Firmware"**. *Yuan et al.* MobiCom 2024. [[Paper](https://dl.acm.org/doi/10.1145/3636534.3649361)]
+15. **"OneLLM: One Framework to Align All Modalities with Language"**. *Han et al.* CVPR 2024. [[Paper](https://onellm.csuhan.com/)]
+16. **"Using LLMs for Late Multimodal Sensor Fusion for Activity Recognition"**. *Demirel et al.* arXiv 2025. [[Paper](https://www.arxiv.org/abs/2509.10729)]
+17. **"MASTER: A Multi-modal Foundation Model for Human Activity Recognition"**. *Zhu et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3749511)]
+18. **"Deep learning for motion classification in ankle exoskeletons using surface EMG and IMU signals"**. *Estévez et al.* Scientific Reports 2025. [[Paper](https://www.nature.com/articles/s41598-025-22103-1)]
+19. **"Babel: A Scalable Pre-trained Model for Multi-Modal Sensing via Expandable Modality Alignment"**. *Dai et al.* SenSys 2025. [[Paper](https://dl.acm.org/doi/10.1145/3715014.3722068)]
 
 ### Cross-Modal Learning
 
@@ -384,6 +389,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 12. **"UbiPhysio: Support Daily Functioning, Fitness, and Rehabilitation with Action Understanding and Feedback in Natural Language"**. *Wang et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3643552)]
 13. **"A personal health large language model for sleep and fitness coaching"**. *Khasentino et al.* Nature Medicine 2025. [[Paper](https://www.nature.com/articles/s41591-025-03888-0)]
 14. **"ZARA: Zero-shot Motion Time-Series Analysis via Knowledge and Retrieval Driven LLM Agents"**. *Li et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2508.04038)]
+15. **"LLM4HAR: Generalizable On-device Human Activity Recognition with Pretrained LLMs"**. *Hong et al.* KDD 2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3711896.3737226)]
 
 #### Cross-Modal Contrastive
 
@@ -399,7 +405,6 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 10. **"CroSSL: Cross-modal Self-Supervised Learning for Time-series through Latent Masking"**. *Deldari et al.* WSDM 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3616855.3635795)]
 11. **"SensorLM: Learning the Language of Wearable Sensors"**. *Zhang et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.09108)]
 12. **"COMODO: Cross-Modal Video-to-IMU Distillation for Efficient Egocentric Human Activity Recognition"**. *Chen et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2503.07259)]
-13. **"LLM4HAR: Generalizable On-device Human Activity Recognition with Pretrained LLMs"**. *Hong et al.* KDD 2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3711896.3737226)]
 
 ### Data Augmentation
 
