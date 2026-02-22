@@ -430,13 +430,14 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 
 1. **"Development of a real-time IMU-based motion capture system for gait rehabilitation"**. *Kong et al.* ROBIO 2013 [[Paper](https://ieeexplore.ieee.org/abstract/document/6739779)]
 2. **"Integrating Activity Recognition and Nursing Care Records: The System, Deployment, and a Verification Study"**. *Inoue et al.* IMWUT 2019 [[Paper](https://dl.acm.org/doi/abs/10.1145/3351244)]
-3. **"Leveraging Activity Recognition to Enable Protective Behavior Detection in Continuous Data"**. *Wang et al.* IMWUT 2021 [[Paper](https://dl.acm.org/doi/abs/10.1145/3463508)]
-4. **"Deep Learning-Based Near-Fall Detection Algorithm for Fall Risk Monitoring System Using a Single Inertial Measurement Unit"**. *Choi et al.* TNSRE 2022 [[Paper](https://ieeexplore.ieee.org/abstract/document/9857937)]
-5. **"LemurDx: Using Unconstrained Passive Sensing for an Objective Measurement of Hyperactivity in Children with no Parent Input"**. *Arakawa et al.* IMWUT 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3596244)]
-6. **"UbiPhysio: Support Daily Functioning, Fitness, and Rehabilitation with Action Understanding and Feedback in Natural Language"**. *Wang et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3643552)]
-7. **"Co-Designing Sensory Feedback for Wearables to Support Physical Activity through Body Sensations"**. *Ley-Flores et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/10.1145/3643499)]
-8. **"HabitSense: A Privacy-Aware, AI-Enhanced Multimodal Wearable Platform for mHealth Applications"**. *Fernandes et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3678591)]
-9. **"Fall Monitoring With Single IMU: A Large-Scale Dataset and a Novel Dual-Branch Network"**. *Cai et al.* TNSRE 2025. [[Paper](https://ieeexplore.ieee.org/document/11303325)]
+3. **"PDLens: smartphone knows drug effectiveness among Parkinson's via daily-life activity fusion"**. *Zhang et al.* MobiCom 2020 [[Paper](https://dl.acm.org/doi/10.1145/3372224.3380889)]
+4. **"Leveraging Activity Recognition to Enable Protective Behavior Detection in Continuous Data"**. *Wang et al.* IMWUT 2021 [[Paper](https://dl.acm.org/doi/abs/10.1145/3463508)]
+5. **"Deep Learning-Based Near-Fall Detection Algorithm for Fall Risk Monitoring System Using a Single Inertial Measurement Unit"**. *Choi et al.* TNSRE 2022 [[Paper](https://ieeexplore.ieee.org/abstract/document/9857937)]
+6. **"LemurDx: Using Unconstrained Passive Sensing for an Objective Measurement of Hyperactivity in Children with no Parent Input"**. *Arakawa et al.* IMWUT 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3596244)]
+7. **"UbiPhysio: Support Daily Functioning, Fitness, and Rehabilitation with Action Understanding and Feedback in Natural Language"**. *Wang et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3643552)]
+8. **"Co-Designing Sensory Feedback for Wearables to Support Physical Activity through Body Sensations"**. *Ley-Flores et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/10.1145/3643499)]
+9. **"HabitSense: A Privacy-Aware, AI-Enhanced Multimodal Wearable Platform for mHealth Applications"**. *Fernandes et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3678591)]
+10. **"Fall Monitoring With Single IMU: A Large-Scale Dataset and a Novel Dual-Branch Network"**. *Cai et al.* TNSRE 2025. [[Paper](https://ieeexplore.ieee.org/document/11303325)]
 
 ### Sports and Fitness Monitoring
 
@@ -465,6 +466,8 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 2. **"Enhancing Transportation Mode Detection using Multi-scale Sensor Fusion and Spatial-topological Attention"**. *Chen et al.* UbiComp/ISWC 2023 Adjunct. [[Paper](https://dl.acm.org/doi/abs/10.1145/3594739.3610751)]
 3. **"SmallMap: Low-cost Community Road Map Sensing with Uncertain Delivery Behavior"**. *Hong et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3659596)]
 4. **"More Data for People with Disabilities! Comparing Data Collection Efforts for Wheelchair Transportation Mode Detection"**. *Hwang et al.* ISWC 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3675095.3676617)]
+5. **"Experience Paper: Adopting Activity Recognition inOn-demand Food Delivery Business"**. *Xu et al.* MobiCom 2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3680207.3765261)]
+6. **"IMU2IMG: IMU in the Language of Vision Foundation Models"**. *Lee et al.* UbiComp Companion 2025. [[Paper](https://dl.acm.org/doi/10.1145/3714394.3756208)]
 
 ### Human-Robot Interaction
 
