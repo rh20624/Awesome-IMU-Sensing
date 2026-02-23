@@ -466,8 +466,9 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 2. **"Enhancing Transportation Mode Detection using Multi-scale Sensor Fusion and Spatial-topological Attention"**. *Chen et al.* UbiComp/ISWC 2023 Adjunct. [[Paper](https://dl.acm.org/doi/abs/10.1145/3594739.3610751)]
 3. **"SmallMap: Low-cost Community Road Map Sensing with Uncertain Delivery Behavior"**. *Hong et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3659596)]
 4. **"More Data for People with Disabilities! Comparing Data Collection Efforts for Wheelchair Transportation Mode Detection"**. *Hwang et al.* ISWC 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3675095.3676617)]
-5. **"Experience Paper: Adopting Activity Recognition inOn-demand Food Delivery Business"**. *Xu et al.* MobiCom 2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3680207.3765261)]
+5. **"Experience Paper: Adopting Activity Recognition in On-demand Food Delivery Business"**. *Xu et al.* MobiCom 2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3680207.3765261)]
 6. **"IMU2IMG: IMU in the Language of Vision Foundation Models"**. *Lee et al.* UbiComp Companion 2025. [[Paper](https://dl.acm.org/doi/10.1145/3714394.3756208)]
+7. **"Experience Paper: Nationwide Human Behavior Sensing in Last-mile Delivery"**. *Hong et al.* MobiCom 2025. [[Paper](https://dl.acm.org/doi/10.1145/3680207.3765239)]
 
 ### Human-Robot Interaction
 
