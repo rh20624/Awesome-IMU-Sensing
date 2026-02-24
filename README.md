@@ -338,10 +338,12 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 4. **"Health-LLM: Large Language Models for Health Prediction via Wearable Sensor Data"**. *Kim et al.* PMLR 2024. [[Paper](https://proceedings.mlr.press/v248/kim24b.html)]
 5. **"By My Eyes: Grounding Multimodal Large Language Models with Sensor Data via Visual Prompting"**. *Yoon et al.* EMNLP 2024. [[Paper](https://aclanthology.org/2024.emnlp-main.133/)]
 6. **"OneLLM: One Framework to Align All Modalities with Language"**. *Han et al.* CVPR 2024. [[Paper](https://onellm.csuhan.com/)]
-7. **"LLM4HAR: Generalizable On-device Human Activity Recognition with Pretrained LLMs"**. *Hong et al.* KDD 2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3711896.3737226)]
-8. **"A personal health large language model for sleep and fitness coaching"**. *Khasentino et al.* Nature Medicine 2025. [[Paper](https://www.nature.com/articles/s41591-025-03888-0)]
-9. **"Using LLMs for Late Multimodal Sensor Fusion for Activity Recognition"**. *Demirel et al.* arXiv 2025. [[Paper](https://www.arxiv.org/abs/2509.10729)]
-10. **"LLaSA: A Sensor-Aware LLM for Natural Language Reasoning of Human Activity from IMU Data"**. *Imran et al.* arXiv 2025. [[Paper](https://arxiv.org/html/2406.14498v3)]
+7. **"IoT-LM: Large Multisensory Language Models for the Internet of Things"**. *Mo et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2407.09801)]
+8. **"Mobile Foundation Model as Firmware"**. *Yuan et al.* MobiCom 2024. [[Paper](https://dl.acm.org/doi/10.1145/3636534.3649361)]
+9. **"LLM4HAR: Generalizable On-device Human Activity Recognition with Pretrained LLMs"**. *Hong et al.* KDD 2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3711896.3737226)]
+10. **"A personal health large language model for sleep and fitness coaching"**. *Khasentino et al.* Nature Medicine 2025. [[Paper](https://www.nature.com/articles/s41591-025-03888-0)]
+11. **"Using LLMs for Late Multimodal Sensor Fusion for Activity Recognition"**. *Demirel et al.* arXiv 2025. [[Paper](https://www.arxiv.org/abs/2509.10729)]
+12. **"LLaSA: A Sensor-Aware LLM for Natural Language Reasoning of Human Activity from IMU Data"**. *Imran et al.* arXiv 2025. [[Paper](https://arxiv.org/html/2406.14498v3)]
 
 #### LLM-Empowered Agent
 
@@ -366,10 +368,11 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 13. **"iMove: Exploring Bio-Impedance Sensing for Fitness Activity Recognition"**. *Liu et al.* PerCom 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10494489)]
 14. **"Mobile Foundation Model as Firmware"**. *Yuan et al.* MobiCom 2024. [[Paper](https://dl.acm.org/doi/10.1145/3636534.3649361)]
 15. **"OneLLM: One Framework to Align All Modalities with Language"**. *Han et al.* CVPR 2024. [[Paper](https://onellm.csuhan.com/)]
-16. **"Using LLMs for Late Multimodal Sensor Fusion for Activity Recognition"**. *Demirel et al.* arXiv 2025. [[Paper](https://www.arxiv.org/abs/2509.10729)]
-17. **"MASTER: A Multi-modal Foundation Model for Human Activity Recognition"**. *Zhu et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3749511)]
-18. **"Deep learning for motion classification in ankle exoskeletons using surface EMG and IMU signals"**. *Estévez et al.* Scientific Reports 2025. [[Paper](https://www.nature.com/articles/s41598-025-22103-1)]
-19. **"Babel: A Scalable Pre-trained Model for Multi-Modal Sensing via Expandable Modality Alignment"**. *Dai et al.* SenSys 2025. [[Paper](https://dl.acm.org/doi/10.1145/3715014.3722068)]
+16. **"IoT-LM: Large Multisensory Language Models for the Internet of Things"**. *Mo et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2407.09801)]
+17. **"Using LLMs for Late Multimodal Sensor Fusion for Activity Recognition"**. *Demirel et al.* arXiv 2025. [[Paper](https://www.arxiv.org/abs/2509.10729)]
+18. **"MASTER: A Multi-modal Foundation Model for Human Activity Recognition"**. *Zhu et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3749511)]
+19. **"Deep learning for motion classification in ankle exoskeletons using surface EMG and IMU signals"**. *Estévez et al.* Scientific Reports 2025. [[Paper](https://www.nature.com/articles/s41598-025-22103-1)]
+20. **"Babel: A Scalable Pre-trained Model for Multi-Modal Sensing via Expandable Modality Alignment"**. *Dai et al.* SenSys 2025. [[Paper](https://dl.acm.org/doi/10.1145/3715014.3722068)]
 
 ### Cross-Modal Learning
 
