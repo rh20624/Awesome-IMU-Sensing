@@ -513,6 +513,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 13. **"A noise-tolerant human–machine interface based on deep learning-enhanced wearable sensors"**. *Chen et al.* Nature Sensors 2026. [[Paper](https://www.nature.com/articles/s44460-025-00001-3)]
 14. **"Biomimetic multimodal tactile sensing enables human-like robotic perception"**. *Li et al.* Nature Sensors 2026. [[Paper](https://www.nature.com/articles/s44460-025-00006-y)]
 15. **"Hyperpacked piezoelectric-powered capacitive sensor array for high-fidelity vibration detection"**. *Cho et al.* Nature Sensors 2026. [[Paper](https://www.nature.com/articles/s44460-025-00003-1)]
+16. **"At-home movement state classification using totally implantable cortical-basal ganglia neural interface"**. *Ramesh et al.* Science Advances 2026. [[Paper](https://www.science.org/doi/10.1126/sciadv.adz4733)]
 
 ## Citation
 
