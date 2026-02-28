@@ -509,11 +509,12 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 9. **"A Simplified Wearable Device Powered by A Generative EMG Network for Hand-Gesture Recognition and Gait Prediction"**. *Kim et al.* Nature Sensors 2025. [[Paper](https://www.nature.com/articles/s44460-025-00002-2)]
 10. **"DySTAN: Joint Modeling of Sedentary Activity and Social Context from Smartphone Sensors"**. *Sneh et al.* arXiv 2025. [[Paper](https://www.arxiv.org/abs/2512.02025)]
 11. **"8-DoFs Cable Driven Parallel Robots for Bimanual Teleoperation"**. *Cheng et al.* TMECH 2025. [[Paper](https://ieeexplore.ieee.org/document/11203810)]
-12. **"An intelligent, compact wearable pressure-strain combo sensor system for continuous fetal movement monitoring"**. *Yap et al.* Science Advances 2026. [[Paper](https://www.science.org/doi/10.1126/sciadv.ady2661)]
-13. **"A noise-tolerant human–machine interface based on deep learning-enhanced wearable sensors"**. *Chen et al.* Nature Sensors 2026. [[Paper](https://www.nature.com/articles/s44460-025-00001-3)]
-14. **"Biomimetic multimodal tactile sensing enables human-like robotic perception"**. *Li et al.* Nature Sensors 2026. [[Paper](https://www.nature.com/articles/s44460-025-00006-y)]
-15. **"Hyperpacked piezoelectric-powered capacitive sensor array for high-fidelity vibration detection"**. *Cho et al.* Nature Sensors 2026. [[Paper](https://www.nature.com/articles/s44460-025-00003-1)]
-16. **"At-home movement state classification using totally implantable cortical-basal ganglia neural interface"**. *Ramesh et al.* Science Advances 2026. [[Paper](https://www.science.org/doi/10.1126/sciadv.adz4733)]
+12. **"Personalized ML-based wearable robot control improves impaired arm function"**. *Arnold et al.* Nature Communications 2025. [[Paper](https://www.nature.com/articles/s41467-025-62538-8)]
+13. **"An intelligent, compact wearable pressure-strain combo sensor system for continuous fetal movement monitoring"**. *Yap et al.* Science Advances 2026. [[Paper](https://www.science.org/doi/10.1126/sciadv.ady2661)]
+14. **"A noise-tolerant human–machine interface based on deep learning-enhanced wearable sensors"**. *Chen et al.* Nature Sensors 2026. [[Paper](https://www.nature.com/articles/s44460-025-00001-3)]
+15. **"Biomimetic multimodal tactile sensing enables human-like robotic perception"**. *Li et al.* Nature Sensors 2026. [[Paper](https://www.nature.com/articles/s44460-025-00006-y)]
+16. **"Hyperpacked piezoelectric-powered capacitive sensor array for high-fidelity vibration detection"**. *Cho et al.* Nature Sensors 2026. [[Paper](https://www.nature.com/articles/s44460-025-00003-1)]
+17. **"At-home movement state classification using totally implantable cortical-basal ganglia neural interface"**. *Ramesh et al.* Science Advances 2026. [[Paper](https://www.science.org/doi/10.1126/sciadv.adz4733)]
 
 ## Citation
 
