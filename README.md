@@ -143,6 +143,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 
 | Dataset | Subjects | Sensors | Activities | datasize | Year |
 | --- | --- | --- | --- | --- | --- |
+| [Feng et al.](https://figshare.com/articles/dataset/Comprehensive-IMU-Dataset/30193942?file=58182586) | 30 | acc, gyro | 12 daily activities | - | 2026 |
 | [FallTL](https://zenodo.org/records/17552449) | 45 | acc, gyro, ori | 46 daily and fall activities | 28.43 h | 2025 |
 | [CAPTURE-24](https://www.nature.com/articles/s41597-024-03960-3) | 151 | acc | 200 unique labels | 3883 h | 2024 |
 | [TNDA-HAR](https://ieee-dataport.org/open-access/tnda-har-0) | 23 | acc, gyro | 8 daily activities | 5.7 h | 2021 |
@@ -211,6 +212,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 10. **"HARNode: A Time-Synchronised, Open-Source, Multi-Device, Wearable System for Ad Hoc Field Studies"**. *Lepold et al.* arXiv 2025. [[Paper](https://www.arxiv.org/abs/2506.03219)]
 11. **"OctoNet: A Large-Scale Multi-Modal Dataset for Human Activity Understanding Grounded in Motion-Captured 3D Pose Labels"**. *Yuan et al.* NIPS 2025. [[Paper](https://aiot-lab.github.io/OctoNet/)]
 12. **"Enabling Older Adults to Provide High-quality Activity Labels: Unpacking Accuracy, Precision, and Granularity in Activity Labeling"**. *Wang et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3770649)]
+13. **"A Comprehensive IMU Dataset for Evaluating Sensor Layouts in Human Activity and Intensity Recognition"**. *Feng et al.* Scientific Data 2026. [[Paper](https://www.nature.com/articles/s41597-026-06710-9)]
 
 ## Model-Centric Methodology
 
