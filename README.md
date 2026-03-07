@@ -346,8 +346,8 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 12. **"LLaSA: A Sensor-Aware LLM for Natural Language Reasoning of Human Activity from IMU Data"**. *Imran et al.* arXiv 2025. [[Paper](https://arxiv.org/html/2406.14498v3)]
 
 #### LLM-Empowered Agent
-
-1. **"ZARA: Zero-shot Motion Time-Series Analysis via Knowledge and Retrieval Driven LLM Agents"**. *Li et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2508.04038)]
+1. **"Conversational Health Agents: A Personalized LLM-Powered Agent Framework"**. *Abbasian et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2310.02374)]
+2. **"ZARA: Zero-shot Motion Time-Series Analysis via Knowledge and Retrieval Driven LLM Agents"**. *Li et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2508.04038)]
 
 ## Data-Centric Methodology
 
