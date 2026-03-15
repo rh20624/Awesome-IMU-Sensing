@@ -310,9 +310,10 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 5. **"ColloSSL: Collaborative Self-Supervised Learning for Human Activity Recognition"**. *Jain et al.* IMWUT 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3517246)]
 6. **"Cosmo: Contrastive Fusion Learning with Small Data"**. *Ouyang et al.* MobiCom 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3495243.3560519)]
 7. **"Investigating Enhancements to Contrastive Predictive Coding for Human Activity Recognition"**. *Haresamudram et al.* PerCom 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10099197)]
-8. **"Cross-Domain HAR: Few-Shot Transfer Learning for Human Activity Recognition"**. *Thukral et al.* TIST 2025. [[Paper](https://dl.acm.org/doi/full/10.1145/3704921)]
-9. **"RelCon: Relative Contrastive Learning for a Motion Foundation Model for Wearable Data"**. *Xu et al.* ICLR 2025. [[Paper](https://openreview.net/forum?id=k2uUeLCrQq)]
-10. **"Babel: A Scalable Pre-trained Model for Multi-Modal Sensing via Expandable Modality Alignment"**. *Dai et al.* SenSys 2025. [[Paper](https://dl.acm.org/doi/10.1145/3715014.3722068)]
+8. **"ContrastSense: Domain-invariant Contrastive Learning for In-the-Wild Wearable Sensing"**. *Dai et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3699744)]
+9. **"Cross-Domain HAR: Few-Shot Transfer Learning for Human Activity Recognition"**. *Thukral et al.* TIST 2025. [[Paper](https://dl.acm.org/doi/full/10.1145/3704921)]
+10. **"RelCon: Relative Contrastive Learning for a Motion Foundation Model for Wearable Data"**. *Xu et al.* ICLR 2025. [[Paper](https://openreview.net/forum?id=k2uUeLCrQq)]
+11. **"Babel: A Scalable Pre-trained Model for Multi-Modal Sensing via Expandable Modality Alignment"**. *Dai et al.* SenSys 2025. [[Paper](https://dl.acm.org/doi/10.1145/3715014.3722068)]
 
 #### Hybrid Approaches
 
