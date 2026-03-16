@@ -94,6 +94,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 10. **"DIVERSIFY: A General Framework for Time Series Out-of-distribution Detection and Generalization"**. *Lu et al.* TPAMI 2024. [[Paper](https://ieeexplore.ieee.org/document/10402053)]
 11. **"Cross-Domain HAR: Few-Shot Transfer Learning for Human Activity Recognition"**. *Thukral et al.* TIST 2025. [[Paper](https://dl.acm.org/doi/full/10.1145/3704921)]
 12. **"Generalizable Sensor-Based Activity Recognition via Categorical Concept Invariant Learning"**. *Xiong et al.* AAAI 2025. [[Paper](https://arxiv.org/abs/2412.13594)]
+13. **"DI2SDiff++: Activity Style Decomposition and Diffusion-Based Fusion for Cross-Person Generalization in Activity Recognition"**. *Zhang et al.* TMC 2025. [[Paper](https://ieeexplore.ieee.org/document/11008829/)]
 
 ### Cross-Device
 
