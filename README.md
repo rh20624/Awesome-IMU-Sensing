@@ -238,6 +238,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 1. **"AROMA: A Deep Multi-Task Learning Based Simple and Complex Human Activity Recognition Method Using Wearable Sensors"**. *Peng et al.* IMWUT 2018. [[Paper](https://dl.acm.org/doi/abs/10.1145/3214277)]
 2. **"METIER: A Deep Multi-Task Learning Based Activity and User Recognition Model Using Wearable Sensors"**. *Chen et al.* IMWUT 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3381012)]
 3. **"Temporal Action Localization for Inertial-based Human Activity Recognition"**. *Bock et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3699770)]
+4. **"DI2SDiff++: Activity Style Decomposition and Diffusion-Based Fusion for Cross-Person Generalization in Activity Recognition"**. *Zhang et al.* TMC 2025. [[Paper](https://ieeexplore.ieee.org/document/11008829/)]
 
 #### Federated Learning
 
