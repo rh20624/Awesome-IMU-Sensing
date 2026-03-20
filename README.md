@@ -431,6 +431,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 13. **"A Diffusion Model for Inertial Based Time Series Generation on Scarce Data Availability to Improve Human Activity Recognition"**. *Oppel et al.* Scientific Reports 2025. [[Paper](https://www.nature.com/articles/s41598-025-01614-x)]
 14. **"TxP: Reciprocal Generation of Ground Pressure Dynamics and Activity Descriptions for Improving Human Activity Recognition"**. *Ray et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3732001)]
 15. **"Refining Diffusion Models for Motion Synthesis with an Acceleration Loss to Generate Realistic IMU Data"**. *Häusler et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2512.08859)]
+16. **"Vsens: Incorporating XR into the Process of Collecting Virtual IMUData"**. *Liang et al.* IMWUT 2026. [[Paper](https://dl.acm.org/doi/abs/10.1145/3790110)]
 
 ## Applications
 
@@ -493,6 +494,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 5. **"MobilePoser: Real-Time Full-Body Pose Estimation and 3D Human Translation from IMUs in Mobile Consumer Devices"**. *Xu et al.* UIST 2024. [[Paper](https://dl.acm.org/doi/10.1145/3654777.3676461)]
 6. **"MotionTrace: IMU-based Field of View Prediction for Smartphone AR Interactions"**. *Islam et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2408.01850)]
 7. **"UWB/IMU-assisted Gesture Recognition Using Learning Approaches for VR/XR Applications"**. *Oh et al.* ICC 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10622800)]
+8. **"Vsens: Incorporating XR into the Process of Collecting Virtual IMUData"**. *Liang et al.* IMWUT 2026. [[Paper](https://dl.acm.org/doi/abs/10.1145/3790110)]
 
 ### Embodied Agents 
 
