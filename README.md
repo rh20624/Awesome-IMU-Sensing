@@ -411,8 +411,10 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 8. **"PRIMUS: Pretraining IMU Encoders with Multimodal and Self-Supervised Learning"**. *Das et al.* NeurIPS 2024. [[Paper](https://neurips.cc/virtual/2024/103052)]
 9. **"SensorLLM: Human-Intuitive Alignment of Multivariate Sensor Data with LLMs for Activity Recognition"**. *Li et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.10624)]
 10. **"CroSSL: Cross-modal Self-Supervised Learning for Time-series through Latent Masking"**. *Deldari et al.* WSDM 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3616855.3635795)]
-11. **"SensorLM: Learning the Language of Wearable Sensors"**. *Zhang et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.09108)]
-12. **"COMODO: Cross-Modal Video-to-IMU Distillation for Efficient Egocentric Human Activity Recognition"**. *Chen et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2503.07259)]
+11. **"UniMTS: Unified Pre-training for Motion Time Series"**. *Zhang et al.* NeurIPS 2024. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/c290d4373c495b2cad0625d6288260f0-Abstract-Conference.html)]
+12. **"SensorLM: Learning the Language of Wearable Sensors"**. *Zhang et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.09108)]
+13. **"COMODO: Cross-Modal Video-to-IMU Distillation for Efficient Egocentric Human Activity Recognition"**. *Chen et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2503.07259)]
+14. **"Wonderwall: A Virtual-to-Real Foundation Model for IMU-based HAR"**. *Miao et al.* IMWUT 2026. [[Paper](https://dl.acm.org/doi/10.1145/3789688)]
 
 ### Data Augmentation
 
