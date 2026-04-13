@@ -524,6 +524,8 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 15. **"Biomimetic multimodal tactile sensing enables human-like robotic perception"**. *Li et al.* Nature Sensors 2026. [[Paper](https://www.nature.com/articles/s44460-025-00006-y)]
 16. **"Hyperpacked piezoelectric-powered capacitive sensor array for high-fidelity vibration detection"**. *Cho et al.* Nature Sensors 2026. [[Paper](https://www.nature.com/articles/s44460-025-00003-1)]
 17. **"At-home movement state classification using totally implantable cortical-basal ganglia neural interface"**. *Ramesh et al.* Science Advances 2026. [[Paper](https://www.science.org/doi/10.1126/sciadv.adz4733)]
+18. **"Minimal-calibration multimodal wearable sensing for long-duration three-dimensional shoulder kinematics"**. *Jin et al.* Nature Sensors 2026. [[Paper](https://www.nature.com/articles/s44460-026-00059-7)]
+19. **"Insulin resistance prediction from wearables and routine blood biomarkers"**. *Metwally et al.* Nature 2026. [[Paper](https://www.nature.com/articles/s41586-026-10179-2)]
 
 ## Citation
 
