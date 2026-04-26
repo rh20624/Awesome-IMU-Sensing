@@ -33,8 +33,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
     - [Tools and Benchmarks](#tools-and-benchmarks)
 - [Model-Centric Methodology](#model-centric-methodology)
     - [Supervised Learning](#supervised-learning)
-        - [Feature Invariance](#feature-invariance)
-        - [Concept Invariance](#concept-invariance)
+        - [Domain Invariance](#domain-invariance)
         - [Multi-Task Learning](#multi-task-learning)
         - [Federated Learning](#federated-learning)
     - [Weakly-Supervised Learning](#weakly-supervised-learning)
@@ -219,7 +218,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 
 ### Supervised Learning
 
-#### Feature Invariance
+#### Domain Invariance
 
 1. **"Adversarial Multi-view Networks for Activity Recognition"**. *Bai et al.* IMWUT 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3397323)]
 2. **"Privacy Adversarial Network: Representation Learning for Mobile Data Privacy"**. *Liu et al.* IMWUT 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3369816)]
@@ -228,10 +227,8 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 5. **"Generalizable Low-Resource Activity Recognition with Diverse and Discriminative Representation Learning"**. *Qin et al.* KDD 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599360)]
 6. **"DIVERSIFY: A General Framework for Time Series Out-of-distribution Detection and Generalization"**. *Lu et al.* TPAMI 2024. [[Paper](https://ieeexplore.ieee.org/document/10402053)]
 7. **"Deconfounding Causal Inference through Two-branch Framework with Early-forking for Sensor-based Cross-domain Activity Recognition"**. *Xiong et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3729495)]
-
-#### Concept Invariance
-
-1. **"Generalizable Sensor-Based Activity Recognition via Categorical Concept Invariant Learning"**. *Xiong et al.* AAAI 2025. [[Paper](https://arxiv.org/abs/2412.13594)]
+8. **"Generalizable Sensor-Based Activity Recognition via Categorical Concept Invariant Learning"**. *Xiong et al.* AAAI 2025. [[Paper](https://arxiv.org/abs/2412.13594)]
+9. **"GenHAR: Generalizing Cross-domain Human Activity Recognition for Last-mile Delivery"**. *Hong et al.* KDD 2026. [[Paper](https://dl.acm.org/doi/abs/10.1145/3770854.3783921)]
 
 #### Multi-Task Learning
 
