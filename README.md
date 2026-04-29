@@ -177,6 +177,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 | [DCM](https://osf.io/fbmxy/overview) | 30 | acc, gyro, mmWave, skeleton | 10 daily activities | - | 2025 |
 | [RecGym](https://zhaxidele.github.io/RecGym/) | 10 | acc, gyro, human body capacitance sensor | 12 fitness activities | 50 h | 2025 |
 | [WEAR](https://mariusbock.github.io/wear/) | 22 | acc, video | 18 sports activities | 19 h | 2024 |
+| [LARa](https://zenodo.org/records/8189341) | 16 | acc, video, OMoCap | 8 logistics activities | 16 h | 2023 |
 | [iSPL](https://github.com/thunguyenth/HAR_IMU_Stretch) | 1 | acc, gyro, stretch | 9 daily activities | - | 2022 |
 | [HARTH](https://archive.ics.uci.edu/dataset/779/harth) | 22 | acc, video | 12 daily activities | 35.9 h | 2021 |
 | [w-HAR](https://github.com/gmbhat/human-activity-recognition) | 22 | acc, gyro, stretch sensor | 7 daily activities | 3 h | 2020 | 
