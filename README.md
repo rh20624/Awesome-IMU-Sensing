@@ -432,6 +432,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 14. **"TxP: Reciprocal Generation of Ground Pressure Dynamics and Activity Descriptions for Improving Human Activity Recognition"**. *Ray et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3732001)]
 15. **"Refining Diffusion Models for Motion Synthesis with an Acceleration Loss to Generate Realistic IMU Data"**. *Häusler et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2512.08859)]
 16. **"Vsens: Incorporating XR into the Process of Collecting Virtual IMUData"**. *Liang et al.* IMWUT 2026. [[Paper](https://dl.acm.org/doi/abs/10.1145/3790110)]
+17. **"GEGLU-Transformer for IMU-to-EMG Estimation with Few-Shot Adaptation"**. *Mihailovic et al.* arXiv 2026. [[Paper](https://arxiv.org/abs/2604.25670)]
 
 ## Applications
 
