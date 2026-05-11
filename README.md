@@ -300,6 +300,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 5. **"LSM-2: Learning from Incomplete Wearable Sensor Data"**. *Xu et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.05321)]
 6. **"MoPFormer: Motion-Primitive Transformer for Wearable-Sensor Activity Recognition"**. *Zhang et al.* NeurIPS 2025. [[Paper](https://arxiv.org/abs/2505.20744)]
 7. **"MASTER: A Multi-modal Foundation Model for Human Activity Recognition"**. *Zhu et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3749511)]
+8. **"RobustHAR: Multi-scale Spatial-temporal Masked Self-supervised Pre-training for Robust Human Activity Recognition"**. *Liu et al.* IJCAI 2025. [[Paper](https://www.ijcai.org/proceedings/2025/952)]
 
 #### Contrastive Learning
 
@@ -314,6 +315,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 9. **"Cross-Domain HAR: Few-Shot Transfer Learning for Human Activity Recognition"**. *Thukral et al.* TIST 2025. [[Paper](https://dl.acm.org/doi/full/10.1145/3704921)]
 10. **"RelCon: Relative Contrastive Learning for a Motion Foundation Model for Wearable Data"**. *Xu et al.* ICLR 2025. [[Paper](https://openreview.net/forum?id=k2uUeLCrQq)]
 11. **"Babel: A Scalable Pre-trained Model for Multi-Modal Sensing via Expandable Modality Alignment"**. *Dai et al.* SenSys 2025. [[Paper](https://dl.acm.org/doi/10.1145/3715014.3722068)]
+12. **"Inertial Sensor-Based Hierarchical Contrastive Multi-View Learning for Human Activity Recognition"**. *Calatrava-Nicolas et al.* ISWC 2025. [[Paper](https://dl.acm.org/doi/10.1145/3715071.3750416)]
 
 #### Hybrid Approaches
 
@@ -525,6 +527,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 17. **"At-home movement state classification using totally implantable cortical-basal ganglia neural interface"**. *Ramesh et al.* Science Advances 2026. [[Paper](https://www.science.org/doi/10.1126/sciadv.adz4733)]
 18. **"Minimal-calibration multimodal wearable sensing for long-duration three-dimensional shoulder kinematics"**. *Jin et al.* Nature Sensors 2026. [[Paper](https://www.nature.com/articles/s44460-026-00059-7)]
 19. **"Insulin resistance prediction from wearables and routine blood biomarkers"**. *Metwally et al.* Nature 2026. [[Paper](https://www.nature.com/articles/s41586-026-10179-2)]
+20. **"Seeing Without Eyes: 4D Human-Scene Understanding from Wearable IMUs"**. *Hsu et al.* arXiv 2026. [[Paper](https://arxiv.org/abs/2604.21926)]
 
 ## Citation
 
