@@ -171,6 +171,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 
 | Dataset | Subjects | Sensors | Activities | datasize | Year |
 | --- | --- | --- | --- | --- | --- |
+| [HARMES](https://doi.org/10.5281/zenodo.19425718) | 20 | acc, gyro, humidity, temperature, pressure, audio | 15 daily activities | 80 h | 2026 |
 | [PAAWS](https://dl.acm.org/doi/10.1145/3770639) | 254 | acc, gyro, heart rate, metabolic breath | daily and sleep activities | 2220 h | 2025 |
 | [NFI_FARED](https://huggingface.co/datasets/NetherlandsForensicInstitute/NFI_FARED_IMU) | 11 | acc, gyro, altimeter, temperature | 19 daily activities | 39.8 h | 2025 |
 | [OctoNet](https://huggingface.co/datasets/hku-aiot/OctoNet) | 41 | acc, gyro, mag, RGB-D, ToF, Thermal, IRA, mmWave, UWB, Wi-Fi, acoustic, heart rate, MoCap | 62 comprehensive activities | - | 2025 |
@@ -192,12 +193,13 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 | [PAMAP2](https://archive.ics.uci.edu/dataset/231/pamap2+physical+activity+monitoring) | 9 | acc, gyro, mag, heart rate | 18 daily activities | 10 h | 2012 | 
 | [Opportunity](https://archive.ics.uci.edu/dataset/226/opportunity+activity+recognition) | 4 | acc, gyro, mag, ambient sensors | 9 kitchen activities, 9 gestures | 25 h | 2011 |
 
-### Dataset Library
+### Data Curation
 
 | Library | Supporting datasets | Features |
 | --- | --- | --- |
 | [WHAR](https://github.com/teco-kit/whar-datasets) | SHL Challenge, RealLifeHar, ExtraSensory, RealWorld, UTD-MHAD, USC-HAD, HuGaDB, w-HAR, HAPT, WISDM-19 | Unified handling framework 
-| [DAGHAR](https://doi.org/10.5281/zenodo.11992126) | KU-HAR, MotionSense, RealWorld, UCI-HAR, WISDM | Cross-dataset evaluation 
+| [DAGHAR](https://doi.org/10.5281/zenodo.11992126) | KU-HAR, Motion, RealWorld, UCI-HAR, WISDM | Cross-dataset evaluation 
+| [BenchHAR](https://github.com/saiketa/HAR-Bench) | UCI, HHAR, Shoaib, Motion, DSADS, USC-HAD, KU-HAR, PAMAP2, TNDA-HAR, Mhealth, WISDM, RealWorld, HARSense, UT-Complex | Cross-dataset evaluation 
 
 ### Tools and Benchmarks
 
@@ -214,6 +216,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 11. **"OctoNet: A Large-Scale Multi-Modal Dataset for Human Activity Understanding Grounded in Motion-Captured 3D Pose Labels"**. *Yuan et al.* NIPS 2025. [[Paper](https://aiot-lab.github.io/OctoNet/)]
 12. **"Enabling Older Adults to Provide High-quality Activity Labels: Unpacking Accuracy, Precision, and Granularity in Activity Labeling"**. *Wang et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3770649)]
 13. **"A Comprehensive IMU Dataset for Evaluating Sensor Layouts in Human Activity and Intensity Recognition"**. *Feng et al.* Scientific Data 2026. [[Paper](https://www.nature.com/articles/s41597-026-06710-9)]
+14. **"BenchHAR: Benchmarking Self-Supervised Learning for Generalizable Sensor-based Activity Recognition"**. *Cai et al.* arXiv 2026. [[Paper](https://arxiv.org/abs/2605.08296)]
 
 ## Model-Centric Methodology
 
