@@ -29,7 +29,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 - [Datasets and Benchmarks](#datasets-and-benchmarks)
     - [IMU-Only Dataset](#imu-only-dataset)
     - [Multimodal Dataset](#multimodal-dataset)
-    - [Dataset Library](#dataset-library)
+    - [Data Curation](#data-curation)
     - [Tools and Benchmarks](#tools-and-benchmarks)
 - [Model-Centric Methodology](#model-centric-methodology)
     - [Supervised Learning](#supervised-learning)
@@ -233,6 +233,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 7. **"Deconfounding Causal Inference through Two-branch Framework with Early-forking for Sensor-based Cross-domain Activity Recognition"**. *Xiong et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3729495)]
 8. **"Generalizable Sensor-Based Activity Recognition via Categorical Concept Invariant Learning"**. *Xiong et al.* AAAI 2025. [[Paper](https://arxiv.org/abs/2412.13594)]
 9. **"GenHAR: Generalizing Cross-domain Human Activity Recognition for Last-mile Delivery"**. *Hong et al.* KDD 2026. [[Paper](https://dl.acm.org/doi/abs/10.1145/3770854.3783921)]
+10. **"Triple Spectral Fusion for Sensor-based Human Activity Recognition"**. *Zhang et al.* TPAMI 2026. [[Paper](https://ieeexplore.ieee.org/abstract/document/11509656)]
 
 #### Multi-Task Learning
 
