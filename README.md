@@ -305,6 +305,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 6. **"MoPFormer: Motion-Primitive Transformer for Wearable-Sensor Activity Recognition"**. *Zhang et al.* NeurIPS 2025. [[Paper](https://arxiv.org/abs/2505.20744)]
 7. **"MASTER: A Multi-modal Foundation Model for Human Activity Recognition"**. *Zhu et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3749511)]
 8. **"RobustHAR: Multi-scale Spatial-temporal Masked Self-supervised Pre-training for Robust Human Activity Recognition"**. *Liu et al.* IJCAI 2025. [[Paper](https://www.ijcai.org/proceedings/2025/952)]
+9. **"Towards a General Intelligence and Interface for Wearable Health Data"**. *Narayanswamy et al.* arXiv 2026. [[Paper](https://arxiv.org/abs/2605.22759)]
 
 #### Contrastive Learning
 
@@ -383,6 +384,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 19. **"MASTER: A Multi-modal Foundation Model for Human Activity Recognition"**. *Zhu et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3749511)]
 20. **"Deep learning for motion classification in ankle exoskeletons using surface EMG and IMU signals"**. *Estévez et al.* Scientific Reports 2025. [[Paper](https://www.nature.com/articles/s41598-025-22103-1)]
 21. **"Babel: A Scalable Pre-trained Model for Multi-Modal Sensing via Expandable Modality Alignment"**. *Dai et al.* SenSys 2025. [[Paper](https://dl.acm.org/doi/10.1145/3715014.3722068)]
+22. **"Towards a General Intelligence and Interface for Wearable Health Data"**. *Narayanswamy et al.* arXiv 2026. [[Paper](https://arxiv.org/abs/2605.22759)]
 
 ### Cross-Modal Learning
 
