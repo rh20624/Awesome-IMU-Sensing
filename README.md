@@ -240,7 +240,8 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 1. **"AROMA: A Deep Multi-Task Learning Based Simple and Complex Human Activity Recognition Method Using Wearable Sensors"**. *Peng et al.* IMWUT 2018. [[Paper](https://dl.acm.org/doi/abs/10.1145/3214277)]
 2. **"METIER: A Deep Multi-Task Learning Based Activity and User Recognition Model Using Wearable Sensors"**. *Chen et al.* IMWUT 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3381012)]
 3. **"Temporal Action Localization for Inertial-based Human Activity Recognition"**. *Bock et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3699770)]
-4. **"DI2SDiff++: Activity Style Decomposition and Diffusion-Based Fusion for Cross-Person Generalization in Activity Recognition"**. *Zhang et al.* TMC 2025. [[Paper](https://ieeexplore.ieee.org/document/11008829/)]
+4. **"Timestamp-Supervised Wearable-Based Activity Segmentation and Recognition With Contrastive Learning and Order-Preserving Optimal Transport"**. *Xia et al.* TMC 2024. [[Paper](https://ieeexplore.ieee.org/document/10478562)]
+5. **"DI2SDiff++: Activity Style Decomposition and Diffusion-Based Fusion for Cross-Person Generalization in Activity Recognition"**. *Zhang et al.* TMC 2025. [[Paper](https://ieeexplore.ieee.org/document/11008829/)]
 
 #### Federated Learning
 
@@ -458,6 +459,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 8. **"Co-Designing Sensory Feedback for Wearables to Support Physical Activity through Body Sensations"**. *Ley-Flores et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/10.1145/3643499)]
 9. **"HabitSense: A Privacy-Aware, AI-Enhanced Multimodal Wearable Platform for mHealth Applications"**. *Fernandes et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3678591)]
 10. **"Fall Monitoring With Single IMU: A Large-Scale Dataset and a Novel Dual-Branch Network"**. *Cai et al.* TNSRE 2025. [[Paper](https://ieeexplore.ieee.org/document/11303325)]
+11. **"Mobile Phone-Based Digital Biomarkers Empowered by Knowledge Distillation for Diagnosis of Parkinson’s Disease"**. *He et al.* TMC 2025. [[Paper](https://ieeexplore.ieee.org/document/11045521)]
 
 ### Sports and Fitness Monitoring
 
