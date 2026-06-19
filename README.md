@@ -356,6 +356,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 10. **"A personal health large language model for sleep and fitness coaching"**. *Khasentino et al.* Nature Medicine 2025. [[Paper](https://www.nature.com/articles/s41591-025-03888-0)]
 11. **"Using LLMs for Late Multimodal Sensor Fusion for Activity Recognition"**. *Demirel et al.* arXiv 2025. [[Paper](https://www.arxiv.org/abs/2509.10729)]
 12. **"LLaSA: A Sensor-Aware LLM for Natural Language Reasoning of Human Activity from IMU Data"**. *Imran et al.* arXiv 2025. [[Paper](https://arxiv.org/html/2406.14498v3)]
+13. **"HMotionGPT: Aligning Hand Motions and Natural Language forActivity Understanding with Smart Rings"**. *Gao et al.* IMWUT 2026. [[Paper](https://dl.acm.org/doi/abs/10.1145/3810222)]
 
 #### LLM-Empowered Agent
 1. **"Conversational Health Agents: A Personalized LLM-Powered Agent Framework"**. *Abbasian et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2310.02374)]
