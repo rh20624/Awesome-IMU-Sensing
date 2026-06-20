@@ -409,6 +409,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 13. **"A personal health large language model for sleep and fitness coaching"**. *Khasentino et al.* Nature Medicine 2025. [[Paper](https://www.nature.com/articles/s41591-025-03888-0)]
 14. **"ZARA: Zero-shot Motion Time-Series Analysis via Knowledge and Retrieval Driven LLM Agents"**. *Li et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2508.04038)]
 15. **"LLM4HAR: Generalizable On-device Human Activity Recognition with Pretrained LLMs"**. *Hong et al.* KDD 2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3711896.3737226)]
+16. **"Motion2Press: Cross Model Learning from IMU to Plantar Pressure for Gait Analysis"**. *Ren et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3749499)]
 
 #### Cross-Modal Contrastive
 
