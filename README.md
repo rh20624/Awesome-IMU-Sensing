@@ -217,6 +217,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 12. **"Enabling Older Adults to Provide High-quality Activity Labels: Unpacking Accuracy, Precision, and Granularity in Activity Labeling"**. *Wang et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3770649)]
 13. **"A Comprehensive IMU Dataset for Evaluating Sensor Layouts in Human Activity and Intensity Recognition"**. *Feng et al.* Scientific Data 2026. [[Paper](https://www.nature.com/articles/s41597-026-06710-9)]
 14. **"BenchHAR: Benchmarking Self-Supervised Learning for Generalizable Sensor-based Activity Recognition"**. *Cai et al.* arXiv 2026. [[Paper](https://arxiv.org/abs/2605.08296)]
+15. **"WHAR Arena: Benchmarking the State of the Art in Efficient Wearable Human Activity Recognition"**. *Burzer et al.* arXiv 2026. [[Paper](https://arxiv.org/abs/2606.13194)]
 
 ## Model-Centric Methodology
 
@@ -445,6 +446,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 15. **"Refining Diffusion Models for Motion Synthesis with an Acceleration Loss to Generate Realistic IMU Data"**. *Häusler et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2512.08859)]
 16. **"Vsens: Incorporating XR into the Process of Collecting Virtual IMUData"**. *Liang et al.* IMWUT 2026. [[Paper](https://dl.acm.org/doi/abs/10.1145/3790110)]
 17. **"GEGLU-Transformer for IMU-to-EMG Estimation with Few-Shot Adaptation"**. *Mihailovic et al.* arXiv 2026. [[Paper](https://arxiv.org/abs/2604.25670)]
+18. **"Domain Generalization for Sensor-Based Activity Recognition viaDecomposed Feature Representation and Semantic Augmentation"**. *Fu et al.* IMWUT 2026. [[Paper](https://dl.acm.org/doi/abs/10.1145/3810220)]
 
 ## Applications
 
