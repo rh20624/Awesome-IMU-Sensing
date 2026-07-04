@@ -464,6 +464,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 9. **"HabitSense: A Privacy-Aware, AI-Enhanced Multimodal Wearable Platform for mHealth Applications"**. *Fernandes et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3678591)]
 10. **"Fall Monitoring With Single IMU: A Large-Scale Dataset and a Novel Dual-Branch Network"**. *Cai et al.* TNSRE 2025. [[Paper](https://ieeexplore.ieee.org/document/11303325)]
 11. **"Mobile Phone-Based Digital Biomarkers Empowered by Knowledge Distillation for Diagnosis of Parkinson’s Disease"**. *He et al.* TMC 2025. [[Paper](https://ieeexplore.ieee.org/document/11045521)]
+12. **"PIGDAssess: Wearable Dual-Task Sensing for Self-Administered PIGD Assessment in Parkinson's Disease"**. *Zhang et al.* IMWUT 2026. [[Paper](https://dl.acm.org/doi/10.1145/3810193)]
 
 ### Sports and Fitness Monitoring
 
