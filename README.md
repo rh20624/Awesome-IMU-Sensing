@@ -218,6 +218,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 13. **"A Comprehensive IMU Dataset for Evaluating Sensor Layouts in Human Activity and Intensity Recognition"**. *Feng et al.* Scientific Data 2026. [[Paper](https://www.nature.com/articles/s41597-026-06710-9)]
 14. **"BenchHAR: Benchmarking Self-Supervised Learning for Generalizable Sensor-based Activity Recognition"**. *Cai et al.* arXiv 2026. [[Paper](https://arxiv.org/abs/2605.08296)]
 15. **"WHAR Arena: Benchmarking the State of the Art in Efficient Wearable Human Activity Recognition"**. *Burzer et al.* arXiv 2026. [[Paper](https://arxiv.org/abs/2606.13194)]
+16. **"Inertia-1: An Open Exploration of Wearable Motion Foundation Models"**. *Xu et al.* arXiv 2026. [[Paper](https://arxiv.org/abs/2607.06617)]
 
 ## Model-Centric Methodology
 
