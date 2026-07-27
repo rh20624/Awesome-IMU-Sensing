@@ -426,7 +426,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 10. **"CroSSL: Cross-modal Self-Supervised Learning for Time-series through Latent Masking"**. *Deldari et al.* WSDM 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3616855.3635795)]
 11. **"UniMTS: Unified Pre-training for Motion Time Series"**. *Zhang et al.* NeurIPS 2024. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/c290d4373c495b2cad0625d6288260f0-Abstract-Conference.html)]
 12. **"SensorLM: Learning the Language of Wearable Sensors"**. *Zhang et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.09108)]
-13. **"COMODO: Cross-Modal Video-to-IMU Distillation for Efficient Egocentric Human Activity Recognition"**. *Chen et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2503.07259)]
+13. **"COMODO: Cross-Modal Video-to-IMU Distillation for Efficient Egocentric Human Activity Recognition"**. *Chen et al.* IMWUT 2026. [[Paper](https://dl.acm.org/doi/10.1145/3810218)]
 14. **"Wonderwall: A Virtual-to-Real Foundation Model for IMU-based HAR"**. *Miao et al.* IMWUT 2026. [[Paper](https://dl.acm.org/doi/10.1145/3789688)]
 
 ### Data Augmentation
@@ -466,6 +466,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 10. **"Fall Monitoring With Single IMU: A Large-Scale Dataset and a Novel Dual-Branch Network"**. *Cai et al.* TNSRE 2025. [[Paper](https://ieeexplore.ieee.org/document/11303325)]
 11. **"Mobile Phone-Based Digital Biomarkers Empowered by Knowledge Distillation for Diagnosis of Parkinson’s Disease"**. *He et al.* TMC 2025. [[Paper](https://ieeexplore.ieee.org/document/11045521)]
 12. **"PIGDAssess: Wearable Dual-Task Sensing for Self-Administered PIGD Assessment in Parkinson's Disease"**. *Zhang et al.* IMWUT 2026. [[Paper](https://dl.acm.org/doi/10.1145/3810193)]
+13. **"Self-Supervised Contrastive Learning for Remote Detection of Early Parkinson's Disease by Mobile Phone Digital Biomarkers"**. *He et al.* TMC 2026. [[Paper](https://ieeexplore.ieee.org/document/11450528)]
 
 ### Sports and Fitness Monitoring
 
