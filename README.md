@@ -219,6 +219,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 14. **"BenchHAR: Benchmarking Self-Supervised Learning for Generalizable Sensor-based Activity Recognition"**. *Cai et al.* arXiv 2026. [[Paper](https://arxiv.org/abs/2605.08296)]
 15. **"WHAR Arena: Benchmarking the State of the Art in Efficient Wearable Human Activity Recognition"**. *Burzer et al.* arXiv 2026. [[Paper](https://arxiv.org/abs/2606.13194)]
 16. **"Inertia-1: An Open Exploration of Wearable Motion Foundation Models"**. *Xu et al.* arXiv 2026. [[Paper](https://arxiv.org/abs/2607.06617)]
+17. **"HARBench: A Comprehensive Benchmark for Evaluating Foundation Models in Sensor-based Human Activity Recognition"**. *Tanigaki et al.* PerCom 2026. [[Paper](https://ieeexplore.ieee.org/abstract/document/11524533)]
 
 ## Model-Centric Methodology
 
@@ -236,6 +237,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 8. **"Generalizable Sensor-Based Activity Recognition via Categorical Concept Invariant Learning"**. *Xiong et al.* AAAI 2025. [[Paper](https://arxiv.org/abs/2412.13594)]
 9. **"GenHAR: Generalizing Cross-domain Human Activity Recognition for Last-mile Delivery"**. *Hong et al.* KDD 2026. [[Paper](https://dl.acm.org/doi/abs/10.1145/3770854.3783921)]
 10. **"Triple Spectral Fusion for Sensor-based Human Activity Recognition"**. *Zhang et al.* TPAMI 2026. [[Paper](https://ieeexplore.ieee.org/abstract/document/11509656)]
+11. **"Learning From Decoupled Sensor Axes: Enhancing Cross-Dataset Human Activity Recognition"**. *Tang et al.* TMC 2026. [[Paper](https://ieeexplore.ieee.org/abstract/document/11655503)]
 
 #### Multi-Task Learning
 
