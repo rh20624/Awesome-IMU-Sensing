@@ -172,6 +172,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 | Dataset | Subjects | Sensors | Activities | datasize | Year |
 | --- | --- | --- | --- | --- | --- |
 | [HARMES](https://doi.org/10.5281/zenodo.19425718) | 20 | acc, gyro, humidity, temperature, pressure, audio | 15 daily activities | 80 h | 2026 |
+| [Warehouse MoC+Sensor](https://github.com/xieyulai/warehouse-moc-sensor) | 9 | watch acc, MoCap (POS/ACC/GYR, 20 joints) | 8 warehouse / logistics activities | ~4.4 h | 2026 |
 | [PAAWS](https://dl.acm.org/doi/10.1145/3770639) | 254 | acc, gyro, heart rate, metabolic breath | daily and sleep activities | 2220 h | 2025 |
 | [NFI_FARED](https://huggingface.co/datasets/NetherlandsForensicInstitute/NFI_FARED_IMU) | 11 | acc, gyro, altimeter, temperature | 19 daily activities | 39.8 h | 2025 |
 | [OctoNet](https://huggingface.co/datasets/hku-aiot/OctoNet) | 41 | acc, gyro, mag, RGB-D, ToF, Thermal, IRA, mmWave, UWB, Wi-Fi, acoustic, heart rate, MoCap | 62 comprehensive activities | - | 2025 |
