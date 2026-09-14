@@ -433,6 +433,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 12. **"SensorLM: Learning the Language of Wearable Sensors"**. *Zhang et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.09108)]
 13. **"COMODO: Cross-Modal Video-to-IMU Distillation for Efficient Egocentric Human Activity Recognition"**. *Chen et al.* IMWUT 2026. [[Paper](https://dl.acm.org/doi/10.1145/3810218)]
 14. **"Wonderwall: A Virtual-to-Real Foundation Model for IMU-based HAR"**. *Miao et al.* IMWUT 2026. [[Paper](https://dl.acm.org/doi/10.1145/3789688)]
+15. **"Sensor-to-Sensor procedural co-learning for sensor-limited human action recognition"**. *Xie et al.* Expert Systems with Applications 2026. [[Paper](https://doi.org/10.1016/j.eswa.2026.132094)] [[Dataset](https://github.com/xieyulai/warehouse-moc-sensor)]
 
 ### Data Augmentation
 
@@ -487,6 +488,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 3. **"Robust Unsupervised Factory Activity Recognition with Body-worn Accelerometer Using Temporal Structure of Multiple Sensor Data Motifs"**. *Xia et al.* IMWUT 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3411836)]
 4. **"A Multi-Sensor Approach to Automatically Recognize Breaks and Work Activities of Knowledge Workers in Academia"**. *Lascio et al.* IMWUT 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3411821)]
 5. **"Acceleration-based Activity Recognition of Repetitive Works with Lightweight Ordered-work Segmentation Network"**. *Yoshimura et al.* IMWUT 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3534572)]
+6. **"Sensor-to-Sensor procedural co-learning for sensor-limited human action recognition"**. *Xie et al.* Expert Systems with Applications 2026. [[Paper](https://doi.org/10.1016/j.eswa.2026.132094)] [[Dataset](https://github.com/xieyulai/warehouse-moc-sensor)]
 
 ### Smart Home and Assisted Living
 
