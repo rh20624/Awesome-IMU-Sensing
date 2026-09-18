@@ -172,6 +172,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 | Dataset | Subjects | Sensors | Activities | datasize | Year |
 | --- | --- | --- | --- | --- | --- |
 | [HARMES](https://doi.org/10.5281/zenodo.19425718) | 20 | acc, gyro, humidity, temperature, pressure, audio | 15 daily activities | 80 h | 2026 |
+| [Warehouse MoC+Sensor](https://github.com/xieyulai/warehouse-moc-sensor) | 9 | watch acc, MoCap (POS/ACC/GYR, 20 joints) | 8 warehouse / logistics activities | ~4.4 h | 2026 |
 | [PAAWS](https://dl.acm.org/doi/10.1145/3770639) | 254 | acc, gyro, heart rate, metabolic breath | daily and sleep activities | 2220 h | 2025 |
 | [NFI_FARED](https://huggingface.co/datasets/NetherlandsForensicInstitute/NFI_FARED_IMU) | 11 | acc, gyro, altimeter, temperature | 19 daily activities | 39.8 h | 2025 |
 | [OctoNet](https://huggingface.co/datasets/hku-aiot/OctoNet) | 41 | acc, gyro, mag, RGB-D, ToF, Thermal, IRA, mmWave, UWB, Wi-Fi, acoustic, heart rate, MoCap | 62 comprehensive activities | - | 2025 |
@@ -432,6 +433,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 12. **"SensorLM: Learning the Language of Wearable Sensors"**. *Zhang et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.09108)]
 13. **"COMODO: Cross-Modal Video-to-IMU Distillation for Efficient Egocentric Human Activity Recognition"**. *Chen et al.* IMWUT 2026. [[Paper](https://dl.acm.org/doi/10.1145/3810218)]
 14. **"Wonderwall: A Virtual-to-Real Foundation Model for IMU-based HAR"**. *Miao et al.* IMWUT 2026. [[Paper](https://dl.acm.org/doi/10.1145/3789688)]
+15. **"Sensor-to-Sensor procedural co-learning for sensor-limited human action recognition"**. *Xie et al.* Expert Systems with Applications 2026. [[Paper](https://doi.org/10.1016/j.eswa.2026.132094)]
 
 ### Data Augmentation
 
@@ -486,6 +488,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 3. **"Robust Unsupervised Factory Activity Recognition with Body-worn Accelerometer Using Temporal Structure of Multiple Sensor Data Motifs"**. *Xia et al.* IMWUT 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3411836)]
 4. **"A Multi-Sensor Approach to Automatically Recognize Breaks and Work Activities of Knowledge Workers in Academia"**. *Lascio et al.* IMWUT 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3411821)]
 5. **"Acceleration-based Activity Recognition of Repetitive Works with Lightweight Ordered-work Segmentation Network"**. *Yoshimura et al.* IMWUT 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3534572)]
+6. **"Sensor-to-Sensor procedural co-learning for sensor-limited human action recognition"**. *Xie et al.* Expert Systems with Applications 2026. [[Paper](https://doi.org/10.1016/j.eswa.2026.132094)]
 
 ### Smart Home and Assisted Living
 
