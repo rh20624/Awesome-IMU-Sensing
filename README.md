@@ -136,6 +136,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 12. **"One Model to Fit Them All: Universal IMU-based Human Activity Recognition with LLM-assisted Cross-dataset Representation"**. *Wei et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3749509)]
 13. **"Large Language Model-guided Semantic Alignment for Human Activity Recognition"**. *Su et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3770652)]
 14. **"Deconfounding Causal Inference through Two-branch Framework with Early-forking for Sensor-based Cross-domain Activity Recognition"**. *Xiong et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3729495)]
+15. **"Adapting Pretrained Large Vision Models for Sensor-based Activity Recognition"**. *Cai et al.* IMWUT 2026. [[Paper](https://dl.acm.org/doi/10.1145/3832003)]
 
 ## Datasets and Benchmarks
 
@@ -315,6 +316,8 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 9. **"Towards a General Intelligence and Interface for Wearable Health Data"**. *Narayanswamy et al.* arXiv 2026. [[Paper](https://arxiv.org/abs/2605.22759)]
 10. **"Physical Self-Supervised Learning: IMU Sensing without Manual Labels"**. *Leng et al.* MobiSys 2026. [[Paper](https://dl.acm.org/doi/10.1145/3745756.3809252)]
 11. **"TransfHAR: Self-Supervised Wrist Representations for On-Demand Activity Recognition"**. *Bradshaw et al.* UIST 2026. [[Paper](https://arxiv.org/abs/2608.15861)]
+12. **"Bio-Inspired Self-Supervised Learning for Wrist-worn Accelerometer Data"**. *Tarale et al.* ICML 2026. [[Paper](https://icml.cc/virtual/2026/poster/61652)]
+
 
 #### Contrastive Learning
 
