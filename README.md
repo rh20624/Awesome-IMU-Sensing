@@ -221,6 +221,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 15. **"WHAR Arena: Benchmarking the State of the Art in Efficient Wearable Human Activity Recognition"**. *Burzer et al.* arXiv 2026. [[Paper](https://arxiv.org/abs/2606.13194)]
 16. **"Inertia-1: An Open Exploration of Wearable Motion Foundation Models"**. *Xu et al.* arXiv 2026. [[Paper](https://arxiv.org/abs/2607.06617)]
 17. **"HARBench: A Comprehensive Benchmark for Evaluating Foundation Models in Sensor-based Human Activity Recognition"**. *Tanigaki et al.* PerCom 2026. [[Paper](https://ieeexplore.ieee.org/abstract/document/11524533)]
+18. **"Towards Wearable Opportunistic Crowdsensing for Open-Vocabulary Activity Data Collection Through User-Scheduled Trigger-Action Routines"**. *Wang et al.* IMWUT 2026. [[Paper](https://dl.acm.org/doi/10.1145/3831976)]
 
 ## Model-Centric Methodology
 
@@ -348,6 +349,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 5. **"One Model to Fit Them All: Universal IMU-based Human Activity Recognition with LLM-assisted Cross-dataset Representation"**. *Wei et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3749509)]
 6. **"IMUZero: Zero-Shot Human Activity Recognition by Language-Based Cross Modality Fusion"**. *Su et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3770669)]
 7. **"Large Language Model-guided Semantic Alignment for Human Activity Recognition"**. *Su et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3770652)]
+8. **"Open-ended Human Activity Understanding via LLM-assisted Motion Decomposition and Semantic Fusion"**. *Wei et al.* IMWUT 2026. [[Paper](https://dl.acm.org/doi/10.1145/3831643)]
 
 #### LLM-Centered Classifier
 
@@ -416,6 +418,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 14. **"ZARA: Zero-shot Motion Time-Series Analysis via Knowledge and Retrieval Driven LLM Agents"**. *Li et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2508.04038)]
 15. **"LLM4HAR: Generalizable On-device Human Activity Recognition with Pretrained LLMs"**. *Hong et al.* KDD 2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3711896.3737226)]
 16. **"Motion2Press: Cross Model Learning from IMU to Plantar Pressure for Gait Analysis"**. *Ren et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3749499)]
+17. **"Adapting Pretrained Large Vision Models for Sensor-based Activity Recognition"**. *Cai et al.* IMWUT 2026. [[Paper](https://dl.acm.org/doi/10.1145/3832003)]
 
 #### Cross-Modal Contrastive
 
