@@ -223,6 +223,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 16. **"Inertia-1: An Open Exploration of Wearable Motion Foundation Models"**. *Xu et al.* arXiv 2026. [[Paper](https://arxiv.org/abs/2607.06617)]
 17. **"HARBench: A Comprehensive Benchmark for Evaluating Foundation Models in Sensor-based Human Activity Recognition"**. *Tanigaki et al.* PerCom 2026. [[Paper](https://ieeexplore.ieee.org/abstract/document/11524533)]
 18. **"Towards Wearable Opportunistic Crowdsensing for Open-Vocabulary Activity Data Collection Through User-Scheduled Trigger-Action Routines"**. *Wang et al.* IMWUT 2026. [[Paper](https://dl.acm.org/doi/10.1145/3831976)]
+19. **"IMU-Bench: Benchmarking Wrist IMU Representations Across Kinematic, Semantic and Clinical Tasks"**. *Li et al.* arXiv 2026. [[Paper](https://arxiv.org/abs/2610.19481)]
 
 ## Model-Centric Methodology
 
