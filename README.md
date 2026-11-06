@@ -318,6 +318,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 10. **"Physical Self-Supervised Learning: IMU Sensing without Manual Labels"**. *Leng et al.* MobiSys 2026. [[Paper](https://dl.acm.org/doi/10.1145/3745756.3809252)]
 11. **"TransfHAR: Self-Supervised Wrist Representations for On-Demand Activity Recognition"**. *Bradshaw et al.* UIST 2026. [[Paper](https://arxiv.org/abs/2608.15861)]
 12. **"Bio-Inspired Self-Supervised Learning for Wrist-worn Accelerometer Data"**. *Tarale et al.* ICML 2026. [[Paper](https://icml.cc/virtual/2026/poster/61652)]
+13. **"GaitFM: A Cross-Modal Foundation Model for Wearable Gait Assessment"**. *Cai et al.* arXiv 2026. [[Paper](https://arxiv.org/abs/2611.01684)]
 
 
 #### Contrastive Learning
@@ -334,6 +335,11 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 10. **"RelCon: Relative Contrastive Learning for a Motion Foundation Model for Wearable Data"**. *Xu et al.* ICLR 2025. [[Paper](https://openreview.net/forum?id=k2uUeLCrQq)]
 11. **"Babel: A Scalable Pre-trained Model for Multi-Modal Sensing via Expandable Modality Alignment"**. *Dai et al.* SenSys 2025. [[Paper](https://dl.acm.org/doi/10.1145/3715014.3722068)]
 12. **"Inertial Sensor-Based Hierarchical Contrastive Multi-View Learning for Human Activity Recognition"**. *Calatrava-Nicolas et al.* ISWC 2025. [[Paper](https://dl.acm.org/doi/10.1145/3715071.3750416)]
+13. **"AnyMo: Geometry-Aware Setup-Agnostic Modeling of Human Motion in the Wild"**. *Chen et al.* NeurIPS 2026. [[Paper](https://arxiv.org/abs/2605.22715)]
+
+#### Next Token Prediction
+
+1. **"Next Token Prediction for Generalizable Human Activity Recognition"**. *Cai et al.* CIKM 2026. [[Paper](https://dl.acm.org/doi/10.1145/3799682.3840756)]
 
 #### Hybrid Approaches
 
@@ -423,6 +429,7 @@ The results demonstrate that IMU-based HAR has garnered steadily increasing rese
 15. **"LLM4HAR: Generalizable On-device Human Activity Recognition with Pretrained LLMs"**. *Hong et al.* KDD 2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3711896.3737226)]
 16. **"Motion2Press: Cross Model Learning from IMU to Plantar Pressure for Gait Analysis"**. *Ren et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3749499)]
 17. **"Adapting Pretrained Large Vision Models for Sensor-based Activity Recognition"**. *Cai et al.* IMWUT 2026. [[Paper](https://dl.acm.org/doi/10.1145/3832003)]
+18. **"GaitFM: A Cross-Modal Foundation Model for Wearable Gait Assessment"**. *Cai et al.* arXiv 2026. [[Paper](https://arxiv.org/abs/2611.01684)]
 
 #### Cross-Modal Contrastive
 
